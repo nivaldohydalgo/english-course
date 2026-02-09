@@ -1,0 +1,52 @@
+
+.container {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 8px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #c0d1ec;
+}
+
+.name-app {
+    padding: 10px 0px 10px 0px;
+    font-family: "Henny Penny", system-ui; 
+    font-weight: 600; 
+    font-style: normal;
+    font-size: 40px;
+    letter-spacing: 1px;
+    color: #22577a;
+    text-shadow: #555555 1px 0 16px; 
+}
+
+.icon-config {
+    color: #666666;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.space-icon {
+    width: 32px;
+    height: 32px;
+}
+
+@media screen and (max-width:  650px) { 
+    .name-app { 
+        font-size: 22px;
+        letter-spacing: 0.px;
+    }
+    
+    .icon-config {
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    .space-icon {
+        width: 24px;
+        height: 24px;
+    }
+    
+}

@@ -1,0 +1,32 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: #c0d1ec;
+    padding: 20px 0px 20px 0px;
+}
+
+.label-url {
+    font-family: "Oswald", sans-serif; 
+    font-size: 14px;
+    font-optical-sizing: auto; 
+    font-weight: 400; 
+    font-style: normal;
+    color: #666666;
+}
+
+.url-nh {
+    font-family: "Merriweather", serif; 
+    font-size: 18px;
+    font-optical-sizing: auto; 
+    font-weight: 500; 
+    font-style: normal; 
+    font-variation-settings: "wdth" 100;
+    color: #444444;
+}
+

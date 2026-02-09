@@ -1,0 +1,41 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.box-days {
+    background-color: #f9fcff;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    padding: 30px 10px 20px 10px;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #d3dff2;   
+}
+
+.title-view {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-en {
+    margin-top: 40px;
+    font-size: 30px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.title-pt {
+    font-size: 16px;
+    font-weight: 600;
+    font-style: italic;
+}

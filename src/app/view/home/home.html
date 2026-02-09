@@ -1,0 +1,25 @@
+
+<div class="container">
+
+    <app-header page="home" />
+
+    <div class="title-view">
+        <div class="title-en">
+            <span>Select a day to learn!</span>
+        </div>
+        <div class="title-pt">
+            <span>(Selecione um dia para aprender!)</span>
+        </div>
+    </div>
+
+    <div class="box-days">
+
+        @for (day of [].constructor(qtDays); track $index) {
+            <app-button-day day="{{ $index + 1 }}" />
+        }
+
+    </div>
+
+    <app-footer />
+
+</div>
