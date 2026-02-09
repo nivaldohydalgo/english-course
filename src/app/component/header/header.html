@@ -1,0 +1,29 @@
+
+<div class="container">
+
+    <div>
+        @if ( page != "home" ) {
+            <a routerLink="/home">
+                <span class="material-symbols-outlined icon-config">home</span>
+            </a>
+        } @else {
+            <div class="space-icon"></div>
+        }
+    </div>
+
+    <div class="name-app">
+        <span>English Course</span>
+    </div>
+
+    <div>
+        @if ( page != "info" ) {
+            <a routerLink="/info">
+                <span class="material-symbols-outlined icon-config">info</span>
+            </a>
+        } @else {
+            <div class="space-icon"></div>
+        }
+    </div>
+
+</div>
+

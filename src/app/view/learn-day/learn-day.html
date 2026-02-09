@@ -1,0 +1,59 @@
+
+<div class="container">
+
+    <app-header page="learn-day" />
+
+    <div class="header-view">
+
+        <div>
+            @if ( !firstDay ) {
+                <a routerLink="/learn-day/{{previousDay}}">
+                    <span class="material-symbols-outlined icon-config">arrow_back</span>
+                </a>
+            } @else {
+                <div class="space-icon"></div>
+            }
+        </div>
+
+        <div class="day-container">
+            <div class="day-text">
+                <span>Day</span>
+            </div>
+            <div class="day-box">
+                <span>{{day}}</span>
+            </div>
+        </div>
+
+        <div>
+            @if ( !lastDay ) {
+                <a routerLink="/learn-day/{{nextDay}}">
+                    <span class="material-symbols-outlined icon-config">arrow_forward</span>
+                </a>
+            } @else {
+                <div class="space-icon"></div>
+            }
+        </div>
+
+    </div>
+
+    @if ( validDay) {
+        <div>
+            @for (word of words; track word.id) {
+                <div>
+                    <app-card-word [word]=word />
+                </div>
+            } @empty {
+                <div>
+                    <span>Nada encontrado!</span>
+                </div>
+            } 
+        </div>
+    } @else {
+        <div>
+            <span>Dia invalido ou não previsto!</span>
+        </div>
+    }
+
+    <app-footer />
+    
+</div>

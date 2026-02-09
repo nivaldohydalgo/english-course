@@ -1,0 +1,123 @@
+
+.container{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    min-height: 200px;
+}
+
+.box-logo {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    font-family: "Henny Penny", system-ui; 
+    font-weight: 600; 
+    font-style: normal;
+    font-size: 60px;
+    letter-spacing: 1px;
+    color: #22577a;
+    text-shadow: #555555 1px 0 16px;     
+}
+
+.box-proposal {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.proposal-en {
+    font-family: "Merriweather", serif; 
+    font-size: 40px;
+    font-optical-sizing: auto; 
+    font-weight: bold; 
+    font-style: normal; 
+    font-variation-settings: "wdth" 100;
+}
+
+.proposal-pt {
+    font-family: "Oswald", sans-serif; 
+    font-size: 24px;
+    font-optical-sizing: auto; 
+    font-weight: 600; 
+    font-style: normal;
+}
+
+.box-button {
+    background-color: #d62828;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4px 4px 4px 4px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 12px;
+}
+
+.button {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif; 
+    font-optical-sizing: auto; 
+    font-weight: bold;
+    font-style: normal; 
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.box-url-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 30px;
+    padding: 20px 0px 20px 0px;
+}
+
+.label-url {
+    font-family: "Oswald", sans-serif; 
+    font-size: 14px;
+    font-optical-sizing: auto; 
+    font-weight: 400; 
+    font-style: normal;
+    color: #666666;
+}
+
+.url-nh {
+    font-family: "Merriweather", serif; 
+    font-size: 18px;
+    font-optical-sizing: auto; 
+    font-weight: 500; 
+    font-style: normal; 
+    font-variation-settings: "wdth" 100;
+    color: #444444;
+}
+
+@media screen and (max-width:  650px) { 
+
+    .box-logo {
+        font-weight: 500; 
+        font-size: 36px;
+        letter-spacing: 0.2px;
+    }
+
+    .proposal-en {
+        font-size: 28px;
+    }
+
+    .proposal-pt {
+        font-size: 18px;
+    }
+
+    .button {
+        font-size: 24px;
+        letter-spacing: 1.2px;
+    }
+
+}

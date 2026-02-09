@@ -1,0 +1,21 @@
+
+.container {
+    width: 100vw;
+}
+
+.content{
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+@media screen and (min-width:  650px) { .content { margin-left:  6vw; margin-right:  6vw; } }
+@media screen and (min-width:  750px) { .content { margin-left:  9vw; margin-right:  9vw; } }
+@media screen and (min-width:  850px) { .content { margin-left: 12vw; margin-right: 12vw; } }
+@media screen and (min-width:  950px) { .content { margin-left: 15vw; margin-right: 15vw; } }
+@media screen and (min-width: 1050px) { .content { margin-left: 18vw; margin-right: 18vw; } }
+@media screen and (min-width: 1150px) { .content { margin-left: 21vw; margin-right: 21vw; } }
+@media screen and (min-width: 1250px) { .content { margin-left: 24vw; margin-right: 24vw; } }
+@media screen and (min-width: 1350px) { .content { margin-left: 27vw; margin-right: 27vw; } }
+@media screen and (min-width: 1450px) { .content { margin-left: 30vw; margin-right: 30vw; } }
+@media screen and (min-width: 1550px) { .content { margin-left: 33vw; margin-right: 33vw; } }
+@media screen and (min-width: 1650px) { .content { margin-left: 36vw; margin-right: 36vw; } }
