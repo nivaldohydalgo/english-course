@@ -1,0 +1,132 @@
+[
+  {
+    "id": 976,
+    "day": 76,
+    "word": "investigate",
+    "traduction": "investigar",
+    "class": "verb",
+    "examples": "Investigate the case.",
+    "synonyms": "examine|inquire",
+    "sound": null
+  },
+  {
+    "id": 977,
+    "day": 76,
+    "word": "justify",
+    "traduction": "justificar",
+    "class": "verb",
+    "examples": "Justify your answer.",
+    "synonyms": "defend|explain",
+    "sound": null
+  },
+  {
+    "id": 978,
+    "day": 76,
+    "word": "maintain",
+    "traduction": "manter",
+    "class": "verb",
+    "examples": "Maintain good habits.",
+    "synonyms": "preserve|sustain",
+    "sound": null
+  },
+  {
+    "id": 979,
+    "day": 76,
+    "word": "vivid",
+    "traduction": "vivo/vívido",
+    "class": "adjective",
+    "examples": "She gave a vivid description.",
+    "synonyms": "clear|striking",
+    "sound": null
+  },
+  {
+    "id": 980,
+    "day": 76,
+    "word": "volatile",
+    "traduction": "volátil",
+    "class": "adjective",
+    "examples": "The market is volatile.",
+    "synonyms": "unstable|unpredictable",
+    "sound": null
+  },
+  {
+    "id": 981,
+    "day": 76,
+    "word": "widespread",
+    "traduction": "amplo/generalizado",
+    "class": "adjective",
+    "examples": "The practice is widespread.",
+    "synonyms": "common|prevalent",
+    "sound": null
+  },
+  {
+    "id": 982,
+    "day": 76,
+    "word": "circle",
+    "traduction": "círculo",
+    "class": "substantive",
+    "examples": "Draw a circle.",
+    "synonyms": "round|ring",
+    "sound": null
+  },
+  {
+    "id": 983,
+    "day": 76,
+    "word": "dot",
+    "traduction": "ponto",
+    "class": "substantive",
+    "examples": "Put a dot here.",
+    "synonyms": "mark|spot",
+    "sound": null
+  },
+  {
+    "id": 984,
+    "day": 76,
+    "word": "line",
+    "traduction": "linha",
+    "class": "substantive",
+    "examples": "Draw a line.",
+    "synonyms": "stroke|mark",
+    "sound": null
+  },
+  {
+    "id": 985,
+    "day": 76,
+    "word": "parrot",
+    "traduction": "papagaio",
+    "class": "substantive",
+    "examples": "The parrot talks.",
+    "synonyms": "bird|macaw",
+    "sound": null
+  },
+  {
+    "id": 986,
+    "day": 76,
+    "word": "point",
+    "traduction": "ponto",
+    "class": "substantive",
+    "examples": "Mark the point.",
+    "synonyms": "dot|spot",
+    "sound": null
+  },
+  {
+    "id": 987,
+    "day": 76,
+    "word": "shape",
+    "traduction": "forma",
+    "class": "substantive",
+    "examples": "The shape is round.",
+    "synonyms": "figure|outline",
+    "sound": null
+  },
+  {
+    "id": 988,
+    "day": 76,
+    "word": "turkey",
+    "traduction": "peru",
+    "class": "substantive",
+    "examples": "The turkey is big.",
+    "synonyms": "bird|fowl",
+    "sound": null
+  }
+]

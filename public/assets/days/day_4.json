@@ -1,0 +1,132 @@
+[
+  {
+    "id": 40,
+    "day": 4,
+    "word": "speak",
+    "traduction": "falar",
+    "class": "verb",
+    "examples": "She speaks English well.",
+    "synonyms": "talk|converse",
+    "sound": null
+  },
+  {
+    "id": 41,
+    "day": 4,
+    "word": "write",
+    "traduction": "escrever",
+    "class": "verb",
+    "examples": "He writes letters to his friends.",
+    "synonyms": "compose|jot",
+    "sound": null
+  },
+  {
+    "id": 42,
+    "day": 4,
+    "word": "bad",
+    "traduction": "mau",
+    "class": "adjective",
+    "examples": "That was a bad decision.",
+    "synonyms": "poor|wrong",
+    "sound": null
+  },
+  {
+    "id": 43,
+    "day": 4,
+    "word": "good",
+    "traduction": "bom",
+    "class": "adjective",
+    "examples": "This is a good idea.",
+    "synonyms": "nice|excellent",
+    "sound": null
+  },
+  {
+    "id": 44,
+    "day": 4,
+    "word": "all",
+    "traduction": "todos",
+    "class": "pronoun",
+    "examples": "All students passed.",
+    "synonyms": "entire|whole",
+    "sound": null
+  },
+  {
+    "id": 45,
+    "day": 4,
+    "word": "no",
+    "traduction": "nenhum",
+    "class": "pronoun",
+    "examples": "No problem.",
+    "synonyms": "none|zero",
+    "sound": null
+  },
+  {
+    "id": 46,
+    "day": 4,
+    "word": "city",
+    "traduction": "cidade",
+    "class": "substantive",
+    "examples": "New York is a big city.",
+    "synonyms": "town|metropolis",
+    "sound": null
+  },
+  {
+    "id": 47,
+    "day": 4,
+    "word": "country",
+    "traduction": "país",
+    "class": "substantive",
+    "examples": "Brazil is a large country.",
+    "synonyms": "nation|state",
+    "sound": null
+  },
+  {
+    "id": 48,
+    "day": 4,
+    "word": "man",
+    "traduction": "homen",
+    "class": "substantive",
+    "examples": "The man is tall.",
+    "synonyms": "gentleman|male",
+    "sound": null
+  },
+  {
+    "id": 49,
+    "day": 4,
+    "word": "number",
+    "traduction": "número",
+    "class": "substantive",
+    "examples": "What is your phone number?",
+    "synonyms": "digit|figure",
+    "sound": null
+  },
+  {
+    "id": 50,
+    "day": 4,
+    "word": "people",
+    "traduction": "pessoas",
+    "class": "substantive",
+    "examples": "Many people are waiting.",
+    "synonyms": "humans|crowd",
+    "sound": null
+  },
+  {
+    "id": 51,
+    "day": 4,
+    "word": "phone",
+    "traduction": "telefone",
+    "class": "substantive",
+    "examples": "My phone is ringing.",
+    "synonyms": "mobile|cell",
+    "sound": null
+  },
+  {
+    "id": 52,
+    "day": 4,
+    "word": "world",
+    "traduction": "mundo",
+    "class": "substantive",
+    "examples": "The world is beautiful.",
+    "synonyms": "earth|globe",
+    "sound": null
+  }
+]

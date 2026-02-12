@@ -1,0 +1,132 @@
+[
+  {
+    "id": 768,
+    "day": 60,
+    "word": "hike",
+    "traduction": "caminhar",
+    "class": "verb",
+    "examples": "Hike in the forest.",
+    "synonyms": "walk|trek",
+    "sound": null
+  },
+  {
+    "id": 769,
+    "day": 60,
+    "word": "during",
+    "traduction": "durante",
+    "class": "adverb",
+    "examples": "During the night it rained.",
+    "synonyms": "throughout|amid",
+    "sound": null
+  },
+  {
+    "id": 770,
+    "day": 60,
+    "word": "quickly",
+    "traduction": "rapidamente",
+    "class": "adverb",
+    "examples": "He finished the work quickly.",
+    "synonyms": "fast|swiftly",
+    "sound": null
+  },
+  {
+    "id": 771,
+    "day": 60,
+    "word": "eraser",
+    "traduction": "borracha",
+    "class": "substantive",
+    "examples": "Use an eraser.",
+    "synonyms": "rubber|corrector",
+    "sound": null
+  },
+  {
+    "id": 772,
+    "day": 60,
+    "word": "drug",
+    "traduction": "medicamento",
+    "class": "substantive",
+    "examples": "This drug is strong.",
+    "synonyms": "medicine|remedy",
+    "sound": null
+  },
+  {
+    "id": 773,
+    "day": 60,
+    "word": "fever",
+    "traduction": "febre",
+    "class": "substantive",
+    "examples": "He has a fever.",
+    "synonyms": "temperature|high heat",
+    "sound": null
+  },
+  {
+    "id": 774,
+    "day": 60,
+    "word": "flu",
+    "traduction": "gripe",
+    "class": "substantive",
+    "examples": "She has the flu.",
+    "synonyms": "influenza|sickness",
+    "sound": null
+  },
+  {
+    "id": 775,
+    "day": 60,
+    "word": "future",
+    "traduction": "futuro",
+    "class": "substantive",
+    "examples": "The future is unknown.",
+    "synonyms": "tomorrow|destiny",
+    "sound": null
+  },
+  {
+    "id": 776,
+    "day": 60,
+    "word": "injury",
+    "traduction": "ferimento",
+    "class": "substantive",
+    "examples": "He has an injury.",
+    "synonyms": "wound|damage",
+    "sound": null
+  },
+  {
+    "id": 777,
+    "day": 60,
+    "word": "past",
+    "traduction": "passado",
+    "class": "substantive",
+    "examples": "The past is history.",
+    "synonyms": "former times|history",
+    "sound": null
+  },
+  {
+    "id": 778,
+    "day": 60,
+    "word": "present",
+    "traduction": "presente",
+    "class": "substantive",
+    "examples": "Live in the present.",
+    "synonyms": "now|current",
+    "sound": null
+  },
+  {
+    "id": 779,
+    "day": 60,
+    "word": "wound",
+    "traduction": "ferida",
+    "class": "substantive",
+    "examples": "The wound is deep.",
+    "synonyms": "cut|injury",
+    "sound": null
+  },
+  {
+    "id": 780,
+    "day": 60,
+    "word": "midday",
+    "traduction": "meio do dia",
+    "class": "substantive",
+    "examples": null,
+    "synonyms": null,
+    "sound": null
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 885,
+    "day": 69,
+    "word": "establish",
+    "traduction": "estabelecer",
+    "class": "verb",
+    "examples": "They established a company.",
+    "synonyms": "found|set up",
+    "sound": null
+  },
+  {
+    "id": 886,
+    "day": 69,
+    "word": "evaluate",
+    "traduction": "avaliar",
+    "class": "verb",
+    "examples": "Evaluate the results.",
+    "synonyms": "assess|judge",
+    "sound": null
+  },
+  {
+    "id": 887,
+    "day": 69,
+    "word": "exceed",
+    "traduction": "exceder",
+    "class": "verb",
+    "examples": "The speed exceeded the limit.",
+    "synonyms": "surpass|go beyond",
+    "sound": null
+  },
+  {
+    "id": 888,
+    "day": 69,
+    "word": "preliminary",
+    "traduction": "preliminar",
+    "class": "adjective",
+    "examples": "This is a preliminary report.",
+    "synonyms": "initial|introductory",
+    "sound": null
+  },
+  {
+    "id": 889,
+    "day": 69,
+    "word": "prevalent",
+    "traduction": "prevalente",
+    "class": "adjective",
+    "examples": "The habit is prevalent.",
+    "synonyms": "common|widespread",
+    "sound": null
+  },
+  {
+    "id": 890,
+    "day": 69,
+    "word": "profound",
+    "traduction": "profundo",
+    "class": "adjective",
+    "examples": "His speech was profound.",
+    "synonyms": "deep|intense",
+    "sound": null
+  },
+  {
+    "id": 891,
+    "day": 69,
+    "word": "belt",
+    "traduction": "cinto",
+    "class": "substantive",
+    "examples": "Wear a belt.",
+    "synonyms": "strap|band",
+    "sound": null
+  },
+  {
+    "id": 892,
+    "day": 69,
+    "word": "gloves",
+    "traduction": "luvas",
+    "class": "substantive",
+    "examples": "Wear gloves in winter.",
+    "synonyms": "mittens|handwear",
+    "sound": null
+  },
+  {
+    "id": 893,
+    "day": 69,
+    "word": "person",
+    "traduction": "pessoa",
+    "class": "substantive",
+    "examples": "That person is kind.",
+    "synonyms": "individual|human",
+    "sound": null
+  },
+  {
+    "id": 894,
+    "day": 69,
+    "word": "plan",
+    "traduction": "plano",
+    "class": "substantive",
+    "examples": "Make a plan.",
+    "synonyms": "scheme|design",
+    "sound": null
+  },
+  {
+    "id": 895,
+    "day": 69,
+    "word": "scarf",
+    "traduction": "lenço/cachecol",
+    "class": "substantive",
+    "examples": "The scarf is warm.",
+    "synonyms": "wrap|shawl",
+    "sound": null
+  },
+  {
+    "id": 896,
+    "day": 69,
+    "word": "task",
+    "traduction": "tarefa",
+    "class": "substantive",
+    "examples": "Finish the task.",
+    "synonyms": "duty|job",
+    "sound": null
+  },
+  {
+    "id": 897,
+    "day": 69,
+    "word": "tie",
+    "traduction": "gravata",
+    "class": "substantive",
+    "examples": "He wears a tie.",
+    "synonyms": "necktie|cravat",
+    "sound": null
+  }
+]

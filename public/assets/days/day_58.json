@@ -1,0 +1,132 @@
+[
+  {
+    "id": 742,
+    "day": 58,
+    "word": "measure",
+    "traduction": "medir",
+    "class": "verb",
+    "examples": "Measure the table.",
+    "synonyms": "calculate|size",
+    "sound": null
+  },
+  {
+    "id": 743,
+    "day": 58,
+    "word": "again",
+    "traduction": "de novo",
+    "class": "adverb",
+    "examples": "Try again.",
+    "synonyms": "once more|repeat",
+    "sound": null
+  },
+  {
+    "id": 744,
+    "day": 58,
+    "word": "soon",
+    "traduction": "em breve",
+    "class": "adverb",
+    "examples": "See you soon.",
+    "synonyms": "shortly|quickly",
+    "sound": null
+  },
+  {
+    "id": 745,
+    "day": 58,
+    "word": "notebook",
+    "traduction": "caderno",
+    "class": "substantive",
+    "examples": "Write in your notebook.",
+    "synonyms": "exercise book|pad",
+    "sound": null
+  },
+  {
+    "id": 746,
+    "day": 58,
+    "word": "bride",
+    "traduction": "noiva",
+    "class": "substantive",
+    "examples": "The bride is happy.",
+    "synonyms": "woman|newlywed",
+    "sound": null
+  },
+  {
+    "id": 747,
+    "day": 58,
+    "word": "closet",
+    "traduction": "armário",
+    "class": "substantive",
+    "examples": "The closet is full.",
+    "synonyms": "wardrobe|cupboard",
+    "sound": null
+  },
+  {
+    "id": 748,
+    "day": 58,
+    "word": "fit",
+    "traduction": "ajuste",
+    "class": "substantive",
+    "examples": "The fit is perfect.",
+    "synonyms": "size|shape",
+    "sound": null
+  },
+  {
+    "id": 749,
+    "day": 58,
+    "word": "hanger",
+    "traduction": "cabide",
+    "class": "substantive",
+    "examples": "Hang the coat on a hanger.",
+    "synonyms": "hook|support",
+    "sound": null
+  },
+  {
+    "id": 750,
+    "day": 58,
+    "word": "laundry",
+    "traduction": "lavanderia",
+    "class": "substantive",
+    "examples": "Do the laundry.",
+    "synonyms": "washing|clothes cleaning",
+    "sound": null
+  },
+  {
+    "id": 751,
+    "day": 58,
+    "word": "suit",
+    "traduction": "terno",
+    "class": "substantive",
+    "examples": "He wears a suit.",
+    "synonyms": "outfit|attire",
+    "sound": null
+  },
+  {
+    "id": 752,
+    "day": 58,
+    "word": "wardrobe",
+    "traduction": "guarda-roupa",
+    "class": "substantive",
+    "examples": "Her wardrobe is large.",
+    "synonyms": "closet|collection",
+    "sound": null
+  },
+  {
+    "id": 753,
+    "day": 58,
+    "word": "wedding",
+    "traduction": "casamento",
+    "class": "substantive",
+    "examples": "The wedding is tomorrow.",
+    "synonyms": "marriage|ceremony",
+    "sound": null
+  },
+  {
+    "id": 754,
+    "day": 58,
+    "word": "sunset",
+    "traduction": "pôr do sol",
+    "class": "substantive",
+    "examples": null,
+    "synonyms": null,
+    "sound": null
+  }
+]

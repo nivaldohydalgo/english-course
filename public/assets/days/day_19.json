@@ -1,0 +1,132 @@
+[
+  {
+    "id": 235,
+    "day": 19,
+    "word": "grow",
+    "traduction": "crescer",
+    "class": "verb",
+    "examples": "Plants grow fast.",
+    "synonyms": "develop|increase",
+    "sound": null
+  },
+  {
+    "id": 236,
+    "day": 19,
+    "word": "look",
+    "traduction": "olhar",
+    "class": "verb",
+    "examples": "Look at the sky.",
+    "synonyms": "watch|glance",
+    "sound": null
+  },
+  {
+    "id": 237,
+    "day": 19,
+    "word": "brown",
+    "traduction": "marrom",
+    "class": "adjective",
+    "examples": "The table is brown.",
+    "synonyms": "tan|chestnut",
+    "sound": null
+  },
+  {
+    "id": 238,
+    "day": 19,
+    "word": "pink",
+    "traduction": "rosa",
+    "class": "adjective",
+    "examples": "The flower is pink.",
+    "synonyms": "rose|blush",
+    "sound": null
+  },
+  {
+    "id": 239,
+    "day": 19,
+    "word": "fourteen",
+    "traduction": "catorze",
+    "class": "numeral",
+    "examples": "Fourteen students in class.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 240,
+    "day": 19,
+    "word": "thirteen",
+    "traduction": "treze",
+    "class": "numeral",
+    "examples": "Thirteen chairs in the room.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 241,
+    "day": 19,
+    "word": "basketball",
+    "traduction": "basquete",
+    "class": "substantive",
+    "examples": "Basketball is fun.",
+    "synonyms": "hoops|sport",
+    "sound": null
+  },
+  {
+    "id": 242,
+    "day": 19,
+    "word": "football",
+    "traduction": "futebol",
+    "class": "substantive",
+    "examples": "Football is popular.",
+    "synonyms": "soccer|game",
+    "sound": null
+  },
+  {
+    "id": 243,
+    "day": 19,
+    "word": "game",
+    "traduction": "jogo",
+    "class": "substantive",
+    "examples": "This game is fun.",
+    "synonyms": "match|contest",
+    "sound": null
+  },
+  {
+    "id": 244,
+    "day": 19,
+    "word": "goal",
+    "traduction": "gol",
+    "class": "substantive",
+    "examples": "He scored a goal.",
+    "synonyms": "target|aim",
+    "sound": null
+  },
+  {
+    "id": 245,
+    "day": 19,
+    "word": "player",
+    "traduction": "jogador",
+    "class": "substantive",
+    "examples": "The player is fast.",
+    "synonyms": "athlete|participant",
+    "sound": null
+  },
+  {
+    "id": 246,
+    "day": 19,
+    "word": "sport",
+    "traduction": "esporte",
+    "class": "substantive",
+    "examples": "Football is a sport.",
+    "synonyms": "game|athletics",
+    "sound": null
+  },
+  {
+    "id": 247,
+    "day": 19,
+    "word": "tennis",
+    "traduction": "tênis",
+    "class": "substantive",
+    "examples": "Tennis is exciting.",
+    "synonyms": "match|game",
+    "sound": null
+  }
+]

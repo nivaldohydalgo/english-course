@@ -1,0 +1,132 @@
+[
+  {
+    "id": 573,
+    "day": 45,
+    "word": "observe",
+    "traduction": "observar",
+    "class": "verb",
+    "examples": "Observe the details.",
+    "synonyms": "notice|perceive",
+    "sound": null
+  },
+  {
+    "id": 574,
+    "day": 45,
+    "word": "beautiful",
+    "traduction": "bonito(a)",
+    "class": "adjective",
+    "examples": "The garden looks beautiful in spring.",
+    "synonyms": "lovely|attractive",
+    "sound": null
+  },
+  {
+    "id": 575,
+    "day": 45,
+    "word": "fashionable",
+    "traduction": "na moda",
+    "class": "adjective",
+    "examples": "She is fashionable.",
+    "synonyms": "stylish|trendy",
+    "sound": null
+  },
+  {
+    "id": 576,
+    "day": 45,
+    "word": "billion",
+    "traduction": "bilhão",
+    "class": "numeral",
+    "examples": "A billion dollars.",
+    "synonyms": "number|multitude",
+    "sound": null
+  },
+  {
+    "id": 577,
+    "day": 45,
+    "word": "address",
+    "traduction": "endereço",
+    "class": "substantive",
+    "examples": "Write your address.",
+    "synonyms": "location|residence",
+    "sound": null
+  },
+  {
+    "id": 578,
+    "day": 45,
+    "word": "apartment",
+    "traduction": "apartamento",
+    "class": "substantive",
+    "examples": "They live in an apartment.",
+    "synonyms": "flat|unit",
+    "sound": null
+  },
+  {
+    "id": 579,
+    "day": 45,
+    "word": "biology",
+    "traduction": "biologia",
+    "class": "substantive",
+    "examples": "Biology studies life.",
+    "synonyms": "life science|zoology",
+    "sound": null
+  },
+  {
+    "id": 580,
+    "day": 45,
+    "word": "chat",
+    "traduction": "conversa",
+    "class": "substantive",
+    "examples": "We had a chat.",
+    "synonyms": "talk|discussion",
+    "sound": null
+  },
+  {
+    "id": 581,
+    "day": 45,
+    "word": "journey",
+    "traduction": "viagem longa",
+    "class": "substantive",
+    "examples": "The journey took days.",
+    "synonyms": "voyage|expedition",
+    "sound": null
+  },
+  {
+    "id": 582,
+    "day": 45,
+    "word": "nation",
+    "traduction": "nação",
+    "class": "substantive",
+    "examples": "The nation is strong.",
+    "synonyms": "country|state",
+    "sound": null
+  },
+  {
+    "id": 583,
+    "day": 45,
+    "word": "tour",
+    "traduction": "tour/viagem",
+    "class": "substantive",
+    "examples": "We went on a tour.",
+    "synonyms": "excursion|trip",
+    "sound": null
+  },
+  {
+    "id": 584,
+    "day": 45,
+    "word": "website",
+    "traduction": "site",
+    "class": "substantive",
+    "examples": "Visit the website.",
+    "synonyms": "page|portal",
+    "sound": null
+  },
+  {
+    "id": 585,
+    "day": 45,
+    "word": "consensus",
+    "traduction": "consenso",
+    "class": "substantive",
+    "examples": "They reached a consensus.",
+    "synonyms": "agreement|accord",
+    "sound": null
+  }
+]

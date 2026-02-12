@@ -1,0 +1,132 @@
+[
+  {
+    "id": 248,
+    "day": 20,
+    "word": "put on",
+    "traduction": "colocar",
+    "class": "verb",
+    "examples": "Put on your coat.",
+    "synonyms": "wear|dress",
+    "sound": null
+  },
+  {
+    "id": 249,
+    "day": 20,
+    "word": "wear",
+    "traduction": "vestir",
+    "class": "verb",
+    "examples": "I wear jeans.",
+    "synonyms": "put on|dress in",
+    "sound": null
+  },
+  {
+    "id": 250,
+    "day": 20,
+    "word": "gray",
+    "traduction": "cinza",
+    "class": "adjective",
+    "examples": "The sky is gray.",
+    "synonyms": "ash|silver",
+    "sound": null
+  },
+  {
+    "id": 251,
+    "day": 20,
+    "word": "purple",
+    "traduction": "roxo",
+    "class": "adjective",
+    "examples": "The dress is purple.",
+    "synonyms": "violet|lavender",
+    "sound": null
+  },
+  {
+    "id": 252,
+    "day": 20,
+    "word": "fifteen",
+    "traduction": "quinze",
+    "class": "numeral",
+    "examples": "Fifteen minutes break.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 253,
+    "day": 20,
+    "word": "sixteen",
+    "traduction": "dezesseis",
+    "class": "numeral",
+    "examples": "Sixteen candles on cake.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 254,
+    "day": 20,
+    "word": "color",
+    "traduction": "cor",
+    "class": "substantive",
+    "examples": "The color is red.",
+    "synonyms": "shade|hue",
+    "sound": null
+  },
+  {
+    "id": 255,
+    "day": 20,
+    "word": "eye",
+    "traduction": "olho",
+    "class": "substantive",
+    "examples": "Her eyes are blue.",
+    "synonyms": "organ|sight",
+    "sound": null
+  },
+  {
+    "id": 256,
+    "day": 20,
+    "word": "face",
+    "traduction": "rosto",
+    "class": "substantive",
+    "examples": "Her face is smiling.",
+    "synonyms": "countenance|visage",
+    "sound": null
+  },
+  {
+    "id": 257,
+    "day": 20,
+    "word": "light",
+    "traduction": "luz",
+    "class": "substantive",
+    "examples": "The light is bright.",
+    "synonyms": "illumination|lamp",
+    "sound": null
+  },
+  {
+    "id": 258,
+    "day": 20,
+    "word": "nose",
+    "traduction": "nariz",
+    "class": "substantive",
+    "examples": "His nose is long.",
+    "synonyms": "organ|snout",
+    "sound": null
+  },
+  {
+    "id": 259,
+    "day": 20,
+    "word": "sound",
+    "traduction": "som",
+    "class": "substantive",
+    "examples": "The sound is loud.",
+    "synonyms": "noise|audio",
+    "sound": null
+  },
+  {
+    "id": 260,
+    "day": 20,
+    "word": "voice",
+    "traduction": "voz",
+    "class": "substantive",
+    "examples": "Her voice is soft.",
+    "synonyms": "tone|sound",
+    "sound": null
+  }
+]

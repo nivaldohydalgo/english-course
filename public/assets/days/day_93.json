@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1197,
+    "day": 93,
+    "word": "advocate",
+    "traduction": "defensor/advogar",
+    "class": "substantive|verb",
+    "examples": "She advocates for human rights.",
+    "synonyms": "supporter|promote",
+    "sound": null
+  },
+  {
+    "id": 1198,
+    "day": 93,
+    "word": "culminate",
+    "traduction": "culminar",
+    "class": "verb",
+    "examples": "The event culminated in success.",
+    "synonyms": "end|conclude",
+    "sound": null
+  },
+  {
+    "id": 1199,
+    "day": 93,
+    "word": "curtail",
+    "traduction": "reduzir",
+    "class": "verb",
+    "examples": "Curtail expenses.",
+    "synonyms": "reduce|cut",
+    "sound": null
+  },
+  {
+    "id": 1200,
+    "day": 93,
+    "word": "impartial",
+    "traduction": "imparcial",
+    "class": "adjective",
+    "examples": "The judge was impartial.",
+    "synonyms": "neutral|fair",
+    "sound": null
+  },
+  {
+    "id": 1201,
+    "day": 93,
+    "word": "incessant",
+    "traduction": "incessante",
+    "class": "adjective",
+    "examples": "The noise was incessant.",
+    "synonyms": "constant|continuous",
+    "sound": null
+  },
+  {
+    "id": 1202,
+    "day": 93,
+    "word": "sea",
+    "traduction": "mar",
+    "class": "substantive",
+    "examples": "The sea is blue.",
+    "synonyms": "ocean|water",
+    "sound": null
+  },
+  {
+    "id": 1203,
+    "day": 93,
+    "word": "career",
+    "traduction": "carreira",
+    "class": "substantive",
+    "examples": "He has a long career.",
+    "synonyms": "profession|occupation",
+    "sound": null
+  },
+  {
+    "id": 1204,
+    "day": 93,
+    "word": "climate",
+    "traduction": "clima",
+    "class": "substantive",
+    "examples": "The climate is tropical.",
+    "synonyms": "weather|atmosphere",
+    "sound": null
+  },
+  {
+    "id": 1205,
+    "day": 93,
+    "word": "experience",
+    "traduction": "experiência",
+    "class": "substantive",
+    "examples": "She has work experience.",
+    "synonyms": "practice|knowledge",
+    "sound": null
+  },
+  {
+    "id": 1206,
+    "day": 93,
+    "word": "failure",
+    "traduction": "fracasso",
+    "class": "substantive",
+    "examples": "Failure teaches lessons.",
+    "synonyms": "defeat|loss",
+    "sound": null
+  },
+  {
+    "id": 1207,
+    "day": 93,
+    "word": "industry",
+    "traduction": "indústria",
+    "class": "substantive",
+    "examples": "The industry is changing.",
+    "synonyms": "sector|field",
+    "sound": null
+  },
+  {
+    "id": 1208,
+    "day": 93,
+    "word": "knowledge",
+    "traduction": "conhecimento",
+    "class": "substantive",
+    "examples": "Knowledge is power.",
+    "synonyms": "wisdom|information",
+    "sound": null
+  },
+  {
+    "id": 1209,
+    "day": 93,
+    "word": "talent",
+    "traduction": "talento",
+    "class": "substantive",
+    "examples": "He has great talent.",
+    "synonyms": "gift|aptitude",
+    "sound": null
+  }
+]

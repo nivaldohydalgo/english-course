@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1288,
+    "day": 100,
+    "word": "benevolent",
+    "traduction": "benevolente",
+    "class": "adjective",
+    "examples": "He is a benevolent leader.",
+    "synonyms": "kind|charitable",
+    "sound": null
+  },
+  {
+    "id": 1289,
+    "day": 100,
+    "word": "invoke",
+    "traduction": "invocar",
+    "class": "verb",
+    "examples": "Invoke the law.",
+    "synonyms": "call upon|appeal",
+    "sound": null
+  },
+  {
+    "id": 1290,
+    "day": 100,
+    "word": "magnify",
+    "traduction": "ampliar",
+    "class": "verb",
+    "examples": "Magnify the image.",
+    "synonyms": "enlarge|intensify",
+    "sound": null
+  },
+  {
+    "id": 1291,
+    "day": 100,
+    "word": "onerous",
+    "traduction": "oneroso",
+    "class": "adjective",
+    "examples": "The duty was onerous.",
+    "synonyms": "burdensome|heavy",
+    "sound": null
+  },
+  {
+    "id": 1292,
+    "day": 100,
+    "word": "likewise",
+    "traduction": "da mesma forma",
+    "class": "adverb",
+    "examples": "She agreed, likewise he did.",
+    "synonyms": "similarly|also",
+    "sound": null
+  },
+  {
+    "id": 1293,
+    "day": 100,
+    "word": "wood",
+    "traduction": "floresta/madeira",
+    "class": "substantive",
+    "examples": "The wood is strong.",
+    "synonyms": "timber|lumber",
+    "sound": null
+  },
+  {
+    "id": 1294,
+    "day": 100,
+    "word": "ambition",
+    "traduction": "ambição",
+    "class": "substantive",
+    "examples": "Her ambition is clear.",
+    "synonyms": "aspiration|goal",
+    "sound": null
+  },
+  {
+    "id": 1295,
+    "day": 100,
+    "word": "anecdote",
+    "traduction": "anedota",
+    "class": "substantive",
+    "examples": "He told an anecdote.",
+    "synonyms": "story|tale",
+    "sound": null
+  },
+  {
+    "id": 1296,
+    "day": 100,
+    "word": "approximation",
+    "traduction": "aproximação",
+    "class": "substantive",
+    "examples": "This is an approximation.",
+    "synonyms": "estimate|near value",
+    "sound": null
+  },
+  {
+    "id": 1297,
+    "day": 100,
+    "word": "articulation",
+    "traduction": "articulação",
+    "class": "substantive",
+    "examples": "Clear articulation is vital.",
+    "synonyms": "expression|pronunciation",
+    "sound": null
+  },
+  {
+    "id": 1298,
+    "day": 100,
+    "word": "authenticity",
+    "traduction": "autenticidade",
+    "class": "substantive",
+    "examples": "The authenticity was verified.",
+    "synonyms": "genuineness|validity",
+    "sound": null
+  },
+  {
+    "id": 1299,
+    "day": 100,
+    "word": "brevity",
+    "traduction": "brevidade",
+    "class": "substantive",
+    "examples": "He spoke with brevity.",
+    "synonyms": "conciseness|shortness",
+    "sound": null
+  },
+  {
+    "id": 1300,
+    "day": 100,
+    "word": "catalyst",
+    "traduction": "catalisador",
+    "class": "substantive",
+    "examples": "Education is a catalyst for change.",
+    "synonyms": "stimulus|trigger",
+    "sound": null
+  }
+]

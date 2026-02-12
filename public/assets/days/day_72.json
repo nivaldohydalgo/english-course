@@ -1,0 +1,132 @@
+[
+  {
+    "id": 924,
+    "day": 72,
+    "word": "generate",
+    "traduction": "gerar",
+    "class": "verb",
+    "examples": "Generate new ideas.",
+    "synonyms": "produce|create",
+    "sound": null
+  },
+  {
+    "id": 925,
+    "day": 72,
+    "word": "illustrate",
+    "traduction": "ilustrar",
+    "class": "verb",
+    "examples": "Illustrate with examples.",
+    "synonyms": "demonstrate|depict",
+    "sound": null
+  },
+  {
+    "id": 926,
+    "day": 72,
+    "word": "implement",
+    "traduction": "implementar",
+    "class": "verb",
+    "examples": "Implement the plan.",
+    "synonyms": "apply|execute",
+    "sound": null
+  },
+  {
+    "id": 927,
+    "day": 72,
+    "word": "relevant",
+    "traduction": "relevante",
+    "class": "adjective",
+    "examples": "The data is relevant.",
+    "synonyms": "important|pertinent",
+    "sound": null
+  },
+  {
+    "id": 928,
+    "day": 72,
+    "word": "remarkable",
+    "traduction": "notável",
+    "class": "adjective",
+    "examples": "Her progress is remarkable.",
+    "synonyms": "extraordinary|impressive",
+    "sound": null
+  },
+  {
+    "id": 929,
+    "day": 72,
+    "word": "rigorous",
+    "traduction": "rigoroso",
+    "class": "adjective",
+    "examples": "The test is rigorous.",
+    "synonyms": "strict|thorough",
+    "sound": null
+  },
+  {
+    "id": 930,
+    "day": 72,
+    "word": "end",
+    "traduction": "fim",
+    "class": "substantive",
+    "examples": "The end is near.",
+    "synonyms": "finish|conclusion",
+    "sound": null
+  },
+  {
+    "id": 931,
+    "day": 72,
+    "word": "moment",
+    "traduction": "momento",
+    "class": "substantive",
+    "examples": "Wait a moment.",
+    "synonyms": "instant|second",
+    "sound": null
+  },
+  {
+    "id": 932,
+    "day": 72,
+    "word": "Monday",
+    "traduction": "segunda-feira",
+    "class": "substantive",
+    "examples": "Monday is busy.",
+    "synonyms": "weekday|first day",
+    "sound": null
+  },
+  {
+    "id": 933,
+    "day": 72,
+    "word": "Thursday",
+    "traduction": "quinta-feira",
+    "class": "substantive",
+    "examples": "Thursday is short.",
+    "synonyms": "weekday|fourth day",
+    "sound": null
+  },
+  {
+    "id": 934,
+    "day": 72,
+    "word": "Tuesday",
+    "traduction": "terça-feira",
+    "class": "substantive",
+    "examples": "Tuesday is quiet.",
+    "synonyms": "weekday|second day",
+    "sound": null
+  },
+  {
+    "id": 935,
+    "day": 72,
+    "word": "Wednesday",
+    "traduction": "quarta-feira",
+    "class": "substantive",
+    "examples": "Wednesday is long.",
+    "synonyms": "weekday|midweek",
+    "sound": null
+  },
+  {
+    "id": 936,
+    "day": 72,
+    "word": "weekend",
+    "traduction": "fim de semana",
+    "class": "substantive",
+    "examples": "The weekend is fun.",
+    "synonyms": "Saturday and Sunday|days off",
+    "sound": null
+  }
+]

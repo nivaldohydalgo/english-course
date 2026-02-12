@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1067,
+    "day": 83,
+    "word": "restrict",
+    "traduction": "restringir",
+    "class": "verb",
+    "examples": "Restrict access.",
+    "synonyms": "limit|confine",
+    "sound": null
+  },
+  {
+    "id": 1068,
+    "day": 83,
+    "word": "retain",
+    "traduction": "reter",
+    "class": "verb",
+    "examples": "Retain information.",
+    "synonyms": "keep|hold",
+    "sound": null
+  },
+  {
+    "id": 1069,
+    "day": 83,
+    "word": "reveal",
+    "traduction": "revelar",
+    "class": "verb",
+    "examples": "Reveal the secret.",
+    "synonyms": "disclose|uncover",
+    "sound": null
+  },
+  {
+    "id": 1070,
+    "day": 83,
+    "word": "conscientious",
+    "traduction": "consciencioso",
+    "class": "adjective",
+    "examples": "She is conscientious.",
+    "synonyms": "diligent|careful",
+    "sound": null
+  },
+  {
+    "id": 1071,
+    "day": 83,
+    "word": "conspicuous",
+    "traduction": "conspícuo",
+    "class": "adjective",
+    "examples": "The sign is conspicuous.",
+    "synonyms": "noticeable|obvious",
+    "sound": null
+  },
+  {
+    "id": 1072,
+    "day": 83,
+    "word": "pizza",
+    "traduction": "pizza",
+    "class": "substantive",
+    "examples": "Pizza is delicious.",
+    "synonyms": "pie|flatbread",
+    "sound": null
+  },
+  {
+    "id": 1073,
+    "day": 83,
+    "word": "assignment",
+    "traduction": "tarefa",
+    "class": "substantive",
+    "examples": "Finish the assignment.",
+    "synonyms": "task|duty",
+    "sound": null
+  },
+  {
+    "id": 1074,
+    "day": 83,
+    "word": "balcony",
+    "traduction": "varanda",
+    "class": "substantive",
+    "examples": "The balcony is wide.",
+    "synonyms": "terrace|veranda",
+    "sound": null
+  },
+  {
+    "id": 1075,
+    "day": 83,
+    "word": "handle",
+    "traduction": "maçaneta",
+    "class": "substantive",
+    "examples": "Turn the handle.",
+    "synonyms": "knob|grip",
+    "sound": null
+  },
+  {
+    "id": 1076,
+    "day": 83,
+    "word": "instrument",
+    "traduction": "instrumento",
+    "class": "substantive",
+    "examples": "The guitar is an instrument.",
+    "synonyms": "tool|device",
+    "sound": null
+  },
+  {
+    "id": 1077,
+    "day": 83,
+    "word": "patio",
+    "traduction": "pátio",
+    "class": "substantive",
+    "examples": "The patio is sunny.",
+    "synonyms": "courtyard|terrace",
+    "sound": null
+  },
+  {
+    "id": 1078,
+    "day": 83,
+    "word": "principal",
+    "traduction": "diretor",
+    "class": "substantive",
+    "examples": "The principal is strict.",
+    "synonyms": "headmaster|leader",
+    "sound": null
+  },
+  {
+    "id": 1079,
+    "day": 83,
+    "word": "terrace",
+    "traduction": "terraço",
+    "class": "substantive",
+    "examples": "We eat on the terrace.",
+    "synonyms": "patio|balcony",
+    "sound": null
+  }
+]

@@ -53,11 +53,13 @@ export class LearnDay implements OnInit {
         if ( this.numberDay <= environment.qtDays && this.numberDay > 0 ) {
             this.validDay = true
             this.urlJson = 'assets/days/day_' + this.day + '.json'
-    
+            console.log(this.urlJson)
+
             this.http.get(this.urlJson).subscribe({
                 next: response => { this.words = response; },
                 error: () => { this.words = []; }
             });
+            console.log(this.words)
         
             if ( this.numberDay == 1 ) {
                 this.firstDay = true

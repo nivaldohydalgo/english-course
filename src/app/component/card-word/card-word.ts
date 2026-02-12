@@ -15,15 +15,16 @@ export class CardWord {
 
     ngOnInit() {
 
-        if (this.word.types != '') {
+        console.log(this.word)
+        if (this.word.types != '' && this.word.types != undefined && this.word.types != null ) {
             this.types = this.word.types.split('|');
         }
 
-        if (this.word.examples != '') {
+        if (this.word.examples != '' && this.word.examples != undefined && this.word.examples != null ) {
             this.examples = this.word.examples.split('|');
         }
 
-        if (this.word.synonyms != '') {
+        if (this.word.synonyms != '' && this.word.synonyms != undefined && this.word.synonyms != null ) {
             this.synonyms = this.word.synonyms.split('|');
         }
 

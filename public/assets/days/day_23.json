@@ -1,0 +1,132 @@
+[
+  {
+    "id": 287,
+    "day": 23,
+    "word": "build",
+    "traduction": "construir",
+    "class": "verb",
+    "examples": "Build a house.",
+    "synonyms": "construct|erect",
+    "sound": null
+  },
+  {
+    "id": 288,
+    "day": 23,
+    "word": "make",
+    "traduction": "fazer",
+    "class": "verb",
+    "examples": "Make a cake.",
+    "synonyms": "produce|create",
+    "sound": null
+  },
+  {
+    "id": 289,
+    "day": 23,
+    "word": "cool",
+    "traduction": "fresco",
+    "class": "adjective",
+    "examples": "The evening is cool.",
+    "synonyms": "chilly|refreshing",
+    "sound": null
+  },
+  {
+    "id": 290,
+    "day": 23,
+    "word": "warm",
+    "traduction": "morno",
+    "class": "adjective",
+    "examples": "The water is warm.",
+    "synonyms": "lukewarm|mild",
+    "sound": null
+  },
+  {
+    "id": 291,
+    "day": 23,
+    "word": "forty",
+    "traduction": "quarenta",
+    "class": "numeral",
+    "examples": "Forty students in school.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 292,
+    "day": 23,
+    "word": "thirty",
+    "traduction": "trinta",
+    "class": "numeral",
+    "examples": "Thirty minutes late.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 293,
+    "day": 23,
+    "word": "answer",
+    "traduction": "resposta",
+    "class": "substantive",
+    "examples": "The answer is correct.",
+    "synonyms": "reply|solution",
+    "sound": null
+  },
+  {
+    "id": 294,
+    "day": 23,
+    "word": "ball",
+    "traduction": "bola",
+    "class": "substantive",
+    "examples": "Kick the ball.",
+    "synonyms": "sphere|orb",
+    "sound": null
+  },
+  {
+    "id": 295,
+    "day": 23,
+    "word": "classroom",
+    "traduction": "sala de aula",
+    "class": "substantive",
+    "examples": "The classroom is clean.",
+    "synonyms": "room|lecture hall",
+    "sound": null
+  },
+  {
+    "id": 296,
+    "day": 23,
+    "word": "homework",
+    "traduction": "dever de casa",
+    "class": "substantive",
+    "examples": "Do your homework.",
+    "synonyms": "assignment|task",
+    "sound": null
+  },
+  {
+    "id": 297,
+    "day": 23,
+    "word": "lesson",
+    "traduction": "lição",
+    "class": "substantive",
+    "examples": "The lesson is easy.",
+    "synonyms": "class|teaching",
+    "sound": null
+  },
+  {
+    "id": 298,
+    "day": 23,
+    "word": "question",
+    "traduction": "pergunta",
+    "class": "substantive",
+    "examples": "Answer the question.",
+    "synonyms": "query|inquiry",
+    "sound": null
+  },
+  {
+    "id": 299,
+    "day": 23,
+    "word": "test",
+    "traduction": "teste",
+    "class": "substantive",
+    "examples": "The test is difficult.",
+    "synonyms": "quiz|exam",
+    "sound": null
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 66,
+    "day": 6,
+    "word": "cook",
+    "traduction": "cozinhar",
+    "class": "verb",
+    "examples": "She cooks dinner.",
+    "synonyms": "prepare|bake",
+    "sound": null
+  },
+  {
+    "id": 67,
+    "day": 6,
+    "word": "like",
+    "traduction": "gostar",
+    "class": "verb",
+    "examples": "I like pizza.",
+    "synonyms": "enjoy|prefer",
+    "sound": null
+  },
+  {
+    "id": 68,
+    "day": 6,
+    "word": "first",
+    "traduction": "primeiro",
+    "class": "adjective",
+    "examples": "This is my first time.",
+    "synonyms": "initial|primary",
+    "sound": null
+  },
+  {
+    "id": 69,
+    "day": 6,
+    "word": "last",
+    "traduction": "último",
+    "class": "adjective",
+    "examples": "He finished last.",
+    "synonyms": "final|ultimate",
+    "sound": null
+  },
+  {
+    "id": 70,
+    "day": 6,
+    "word": "much",
+    "traduction": "muito",
+    "class": "adjective|pronoun",
+    "examples": "There is much work.",
+    "synonyms": "a lot|plenty",
+    "sound": null
+  },
+  {
+    "id": 71,
+    "day": 6,
+    "word": "none",
+    "traduction": "nenhum",
+    "class": "pronoun",
+    "examples": "None of them came.",
+    "synonyms": "zero|nothing",
+    "sound": null
+  },
+  {
+    "id": 72,
+    "day": 6,
+    "word": "bag",
+    "traduction": "bolsa",
+    "class": "substantive",
+    "examples": "The bag is heavy.",
+    "synonyms": "sack|backpack",
+    "sound": null
+  },
+  {
+    "id": 73,
+    "day": 6,
+    "word": "clothes",
+    "traduction": "roupas",
+    "class": "substantive",
+    "examples": "She bought new clothes.",
+    "synonyms": "garments|apparel",
+    "sound": null
+  },
+  {
+    "id": 74,
+    "day": 6,
+    "word": "dress",
+    "traduction": "vestido",
+    "class": "substantive",
+    "examples": "The dress is red.",
+    "synonyms": "gown|frock",
+    "sound": null
+  },
+  {
+    "id": 75,
+    "day": 6,
+    "word": "hat",
+    "traduction": "chapéu",
+    "class": "substantive",
+    "examples": "He wears a hat.",
+    "synonyms": "cap|headwear",
+    "sound": null
+  },
+  {
+    "id": 76,
+    "day": 6,
+    "word": "pants",
+    "traduction": "calças",
+    "class": "substantive",
+    "examples": "He wears pants.",
+    "synonyms": "trousers|slacks",
+    "sound": null
+  },
+  {
+    "id": 77,
+    "day": 6,
+    "word": "shirt",
+    "traduction": "camisa",
+    "class": "substantive",
+    "examples": "The shirt is blue.",
+    "synonyms": "top|blouse",
+    "sound": null
+  },
+  {
+    "id": 78,
+    "day": 6,
+    "word": "shoes",
+    "traduction": "sapatos",
+    "class": "substantive",
+    "examples": "Her shoes are black.",
+    "synonyms": "footwear|sneakers",
+    "sound": null
+  }
+]

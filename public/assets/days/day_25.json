@@ -1,0 +1,132 @@
+[
+  {
+    "id": 313,
+    "day": 25,
+    "word": "sit",
+    "traduction": "sentar",
+    "class": "verb",
+    "examples": "Sit down.",
+    "synonyms": "rest|take a seat",
+    "sound": null
+  },
+  {
+    "id": 314,
+    "day": 25,
+    "word": "stand",
+    "traduction": "ficar de pé",
+    "class": "verb",
+    "examples": "Stand up.",
+    "synonyms": "rise|remain upright",
+    "sound": null
+  },
+  {
+    "id": 315,
+    "day": 25,
+    "word": "large",
+    "traduction": "grande",
+    "class": "adjective",
+    "examples": "This is a large coat.",
+    "synonyms": "big|huge",
+    "sound": null
+  },
+  {
+    "id": 316,
+    "day": 25,
+    "word": "long",
+    "traduction": "longo",
+    "class": "adjective",
+    "examples": "The skirt is long.",
+    "synonyms": "extended|lengthy",
+    "sound": null
+  },
+  {
+    "id": 317,
+    "day": 25,
+    "word": "eighty",
+    "traduction": "oitenta",
+    "class": "numeral",
+    "examples": "Eighty houses in town.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 318,
+    "day": 25,
+    "word": "seventy",
+    "traduction": "setenta",
+    "class": "numeral",
+    "examples": "Seventy years old.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 319,
+    "day": 25,
+    "word": "father",
+    "traduction": "pai",
+    "class": "substantive",
+    "examples": "His father is tall.",
+    "synonyms": "dad|parent",
+    "sound": null
+  },
+  {
+    "id": 320,
+    "day": 25,
+    "word": "holiday",
+    "traduction": "feriado",
+    "class": "substantive",
+    "examples": "Today is a holiday.",
+    "synonyms": "vacation|break",
+    "sound": null
+  },
+  {
+    "id": 321,
+    "day": 25,
+    "word": "hotel",
+    "traduction": "hotel",
+    "class": "substantive",
+    "examples": "The hotel is expensive.",
+    "synonyms": "inn|lodging",
+    "sound": null
+  },
+  {
+    "id": 322,
+    "day": 25,
+    "word": "mother",
+    "traduction": "mãe",
+    "class": "substantive",
+    "examples": "My mother is kind.",
+    "synonyms": "mom|parent",
+    "sound": null
+  },
+  {
+    "id": 323,
+    "day": 25,
+    "word": "parent",
+    "traduction": "pai/mãe",
+    "class": "substantive",
+    "examples": "Parents love their children.",
+    "synonyms": "guardian|caretaker",
+    "sound": null
+  },
+  {
+    "id": 324,
+    "day": 25,
+    "word": "trip",
+    "traduction": "viagem",
+    "class": "substantive",
+    "examples": "The trip was fun.",
+    "synonyms": "journey|excursion",
+    "sound": null
+  },
+  {
+    "id": 325,
+    "day": 25,
+    "word": "vacation",
+    "traduction": "ferias",
+    "class": "substantive",
+    "examples": "We are on vacation.",
+    "synonyms": "holiday|break",
+    "sound": null
+  }
+]

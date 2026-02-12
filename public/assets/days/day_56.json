@@ -1,0 +1,132 @@
+[
+  {
+    "id": 716,
+    "day": 56,
+    "word": "divide",
+    "traduction": "dividir",
+    "class": "verb",
+    "examples": "Divide ten by two.",
+    "synonyms": "split|share",
+    "sound": null
+  },
+  {
+    "id": 717,
+    "day": 56,
+    "word": "here",
+    "traduction": "aqui",
+    "class": "adverb",
+    "examples": "Come here.",
+    "synonyms": "this place|nearby",
+    "sound": null
+  },
+  {
+    "id": 718,
+    "day": 56,
+    "word": "there",
+    "traduction": "ali/lá",
+    "class": "adverb",
+    "examples": "Go there.",
+    "synonyms": "that place|yonder",
+    "sound": null
+  },
+  {
+    "id": 719,
+    "day": 56,
+    "word": "Japanese",
+    "traduction": "japonês",
+    "class": "substantive",
+    "examples": "Japanese is spoken in Japan.",
+    "synonyms": "language|tongue",
+    "sound": null
+  },
+  {
+    "id": 720,
+    "day": 56,
+    "word": "compass",
+    "traduction": "bússola",
+    "class": "substantive",
+    "examples": "The compass shows direction.",
+    "synonyms": "navigator|indicator",
+    "sound": null
+  },
+  {
+    "id": 721,
+    "day": 56,
+    "word": "direction",
+    "traduction": "direção",
+    "class": "substantive",
+    "examples": "Follow the directions.",
+    "synonyms": "course|orientation",
+    "sound": null
+  },
+  {
+    "id": 722,
+    "day": 56,
+    "word": "harbor",
+    "traduction": "porto",
+    "class": "substantive",
+    "examples": "The harbor is crowded.",
+    "synonyms": "port|dock",
+    "sound": null
+  },
+  {
+    "id": 723,
+    "day": 56,
+    "word": "luggage",
+    "traduction": "bagagem",
+    "class": "substantive",
+    "examples": "Carry your luggage.",
+    "synonyms": "baggage|suitcase",
+    "sound": null
+  },
+  {
+    "id": 724,
+    "day": 56,
+    "word": "passport",
+    "traduction": "passaporte",
+    "class": "substantive",
+    "examples": "Show your passport.",
+    "synonyms": "document|ID",
+    "sound": null
+  },
+  {
+    "id": 725,
+    "day": 56,
+    "word": "port",
+    "traduction": "porto",
+    "class": "substantive",
+    "examples": "The port is busy.",
+    "synonyms": "harbor|dock",
+    "sound": null
+  },
+  {
+    "id": 726,
+    "day": 56,
+    "word": "tunnel",
+    "traduction": "túnel",
+    "class": "substantive",
+    "examples": "The tunnel is dark.",
+    "synonyms": "underpass|passage",
+    "sound": null
+  },
+  {
+    "id": 727,
+    "day": 56,
+    "word": "visa",
+    "traduction": "visto",
+    "class": "substantive",
+    "examples": "He needs a visa.",
+    "synonyms": "permit|authorization",
+    "sound": null
+  },
+  {
+    "id": 728,
+    "day": 56,
+    "word": "dusk",
+    "traduction": "entardecer",
+    "class": "substantive",
+    "examples": null,
+    "synonyms": null,
+    "sound": null
+  }
+]

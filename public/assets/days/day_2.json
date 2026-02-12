@@ -1,3 +1,132 @@
 [
-{"id":"5","day":"2","word":"To Help","traduction":"Ajudar","types":"Verb","examples":"","synonyms":""},{"id":"6","day":"2","word":"To Fink","traduction":"Pensar","types":"Verb","examples":"","synonyms":""},{"id":"7","day":"2","word":"Water","traduction":"Água","types":"","examples":"","synonyms":"Gelo|Neve"},{"id":"8","day":"2","word":"Day","traduction":"Dia","types":"","examples":"","synonyms":""}
+  {
+    "id": 14,
+    "day": 2,
+    "word": "drink",
+    "traduction": "beber",
+    "class": "verb",
+    "examples": "She drinks coffee in the morning.",
+    "synonyms": "sip|consume",
+    "sound": null
+  },
+  {
+    "id": 15,
+    "day": 2,
+    "word": "learn",
+    "traduction": "aprender",
+    "class": "verb",
+    "examples": "We learn English at school.",
+    "synonyms": "study|acquire",
+    "sound": null
+  },
+  {
+    "id": 16,
+    "day": 2,
+    "word": "fast",
+    "traduction": "rápido",
+    "class": "adjective",
+    "examples": "This car is very fast.",
+    "synonyms": "quick|speedy",
+    "sound": null
+  },
+  {
+    "id": 17,
+    "day": 2,
+    "word": "small",
+    "traduction": "pequeno",
+    "class": "adjective",
+    "examples": "This is a small room.",
+    "synonyms": "tiny|little",
+    "sound": null
+  },
+  {
+    "id": 18,
+    "day": 2,
+    "word": "any",
+    "traduction": "qualquer",
+    "class": "pronoun",
+    "examples": "Do you have any questions?",
+    "synonyms": "whatever|whichever",
+    "sound": null
+  },
+  {
+    "id": 19,
+    "day": 2,
+    "word": "some",
+    "traduction": "algum",
+    "class": "pronoun",
+    "examples": "I need some help.",
+    "synonyms": "a few|several",
+    "sound": null
+  },
+  {
+    "id": 20,
+    "day": 2,
+    "word": "day",
+    "traduction": "dia",
+    "class": "substantive",
+    "examples": "Today is a sunny day.",
+    "synonyms": "24 hours|daytime",
+    "sound": null
+  },
+  {
+    "id": 21,
+    "day": 2,
+    "word": "family",
+    "traduction": "família",
+    "class": "substantive",
+    "examples": "My family is very supportive.",
+    "synonyms": "relatives|household",
+    "sound": null
+  },
+  {
+    "id": 22,
+    "day": 2,
+    "word": "market",
+    "traduction": "mercado",
+    "class": "substantive",
+    "examples": "The market is crowded.",
+    "synonyms": "bazaar|fair",
+    "sound": null
+  },
+  {
+    "id": 23,
+    "day": 2,
+    "word": "money",
+    "traduction": "dinheiro",
+    "class": "substantive",
+    "examples": "He saved a lot of money.",
+    "synonyms": "cash|currency",
+    "sound": null
+  },
+  {
+    "id": 24,
+    "day": 2,
+    "word": "night",
+    "traduction": "noite",
+    "class": "substantive",
+    "examples": "The stars shine at night.",
+    "synonyms": "evening|darkness",
+    "sound": null
+  },
+  {
+    "id": 25,
+    "day": 2,
+    "word": "time",
+    "traduction": "tempo",
+    "class": "substantive",
+    "examples": "What time is it?",
+    "synonyms": "moment|hour",
+    "sound": null
+  },
+  {
+    "id": 26,
+    "day": 2,
+    "word": "water",
+    "traduction": "água",
+    "class": "substantive",
+    "examples": "Drink water every day.",
+    "synonyms": "H2O|liquid",
+    "sound": null
+  }
 ]

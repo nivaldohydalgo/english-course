@@ -1,0 +1,132 @@
+[
+  {
+    "id": 794,
+    "day": 62,
+    "word": "anticipate",
+    "traduction": "antecipar/prever",
+    "class": "verb",
+    "examples": "They anticipate problems.",
+    "synonyms": "expect|foresee",
+    "sound": null
+  },
+  {
+    "id": 795,
+    "day": 62,
+    "word": "assert",
+    "traduction": "afirmar",
+    "class": "verb",
+    "examples": "She asserted her opinion.",
+    "synonyms": "declare|state",
+    "sound": null
+  },
+  {
+    "id": 796,
+    "day": 62,
+    "word": "assess",
+    "traduction": "avaliar",
+    "class": "verb",
+    "examples": "We assess the risks.",
+    "synonyms": "evaluate|judge",
+    "sound": null
+  },
+  {
+    "id": 797,
+    "day": 62,
+    "word": "credible",
+    "traduction": "crível",
+    "class": "adjective",
+    "examples": "The source is credible.",
+    "synonyms": "reliable|trustworthy",
+    "sound": null
+  },
+  {
+    "id": 798,
+    "day": 62,
+    "word": "crucial",
+    "traduction": "crucial",
+    "class": "adjective",
+    "examples": "This step is crucial.",
+    "synonyms": "essential|vital",
+    "sound": null
+  },
+  {
+    "id": 799,
+    "day": 62,
+    "word": "detrimental",
+    "traduction": "detrimental",
+    "class": "adjective",
+    "examples": "Smoking is detrimental to health.",
+    "synonyms": "harmful|damaging",
+    "sound": null
+  },
+  {
+    "id": 800,
+    "day": 62,
+    "word": "donkey",
+    "traduction": "burro",
+    "class": "substantive",
+    "examples": "The donkey carries loads.",
+    "synonyms": "ass|mule",
+    "sound": null
+  },
+  {
+    "id": 801,
+    "day": 62,
+    "word": "frog",
+    "traduction": "sapo",
+    "class": "substantive",
+    "examples": "The frog jumps.",
+    "synonyms": "toad|amphibian",
+    "sound": null
+  },
+  {
+    "id": 802,
+    "day": 62,
+    "word": "insect",
+    "traduction": "inseto",
+    "class": "substantive",
+    "examples": "Insects are small.",
+    "synonyms": "bug|creature",
+    "sound": null
+  },
+  {
+    "id": 803,
+    "day": 62,
+    "word": "monkey",
+    "traduction": "macaco",
+    "class": "substantive",
+    "examples": "The monkey is funny.",
+    "synonyms": "ape|primate",
+    "sound": null
+  },
+  {
+    "id": 804,
+    "day": 62,
+    "word": "rat",
+    "traduction": "rato",
+    "class": "substantive",
+    "examples": "The rat is big.",
+    "synonyms": "rodent|vermin",
+    "sound": null
+  },
+  {
+    "id": 805,
+    "day": 62,
+    "word": "snake",
+    "traduction": "cobra",
+    "class": "substantive",
+    "examples": "The snake is long.",
+    "synonyms": "serpent|reptile",
+    "sound": null
+  },
+  {
+    "id": 806,
+    "day": 62,
+    "word": "turtle",
+    "traduction": "tartaruga",
+    "class": "substantive",
+    "examples": "The turtle is slow.",
+    "synonyms": "reptile|tortoise",
+    "sound": null
+  }
+]

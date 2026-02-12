@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1119,
+    "day": 87,
+    "word": "abolish",
+    "traduction": "abolir",
+    "class": "verb",
+    "examples": "They abolished the law.",
+    "synonyms": "eliminate|end",
+    "sound": null
+  },
+  {
+    "id": 1120,
+    "day": 87,
+    "word": "accelerate",
+    "traduction": "acelerar",
+    "class": "verb",
+    "examples": "Accelerate the process.",
+    "synonyms": "speed up|hasten",
+    "sound": null
+  },
+  {
+    "id": 1121,
+    "day": 87,
+    "word": "withstand",
+    "traduction": "resistir",
+    "class": "verb",
+    "examples": "Withstand pressure.",
+    "synonyms": "endure|resist",
+    "sound": null
+  },
+  {
+    "id": 1122,
+    "day": 87,
+    "word": "diverse",
+    "traduction": "diverso",
+    "class": "adjective",
+    "examples": "The group is diverse.",
+    "synonyms": "varied|different",
+    "sound": null
+  },
+  {
+    "id": 1123,
+    "day": 87,
+    "word": "eloquent",
+    "traduction": "eloquente",
+    "class": "adjective",
+    "examples": "He gave an eloquent speech.",
+    "synonyms": "expressive|fluent",
+    "sound": null
+  },
+  {
+    "id": 1124,
+    "day": 87,
+    "word": "ice cream",
+    "traduction": "sorvete",
+    "class": "substantive",
+    "examples": "Ice cream melts.",
+    "synonyms": "gelato|dessert",
+    "sound": null
+  },
+  {
+    "id": 1125,
+    "day": 87,
+    "word": "championship",
+    "traduction": "campeonato",
+    "class": "substantive",
+    "examples": "The championship is tomorrow.",
+    "synonyms": "tournament|contest",
+    "sound": null
+  },
+  {
+    "id": 1126,
+    "day": 87,
+    "word": "competition",
+    "traduction": "competição",
+    "class": "substantive",
+    "examples": "The competition is strong.",
+    "synonyms": "contest|rivalry",
+    "sound": null
+  },
+  {
+    "id": 1127,
+    "day": 87,
+    "word": "league",
+    "traduction": "liga",
+    "class": "substantive",
+    "examples": "The league is famous.",
+    "synonyms": "association|division",
+    "sound": null
+  },
+  {
+    "id": 1128,
+    "day": 87,
+    "word": "performance",
+    "traduction": "apresentação",
+    "class": "substantive",
+    "examples": "The performance is great.",
+    "synonyms": "show|act",
+    "sound": null
+  },
+  {
+    "id": 1129,
+    "day": 87,
+    "word": "public",
+    "traduction": "público",
+    "class": "substantive",
+    "examples": "The public is waiting.",
+    "synonyms": "crowd|people",
+    "sound": null
+  },
+  {
+    "id": 1130,
+    "day": 87,
+    "word": "referee",
+    "traduction": "árbitro",
+    "class": "substantive",
+    "examples": "The referee blew the whistle.",
+    "synonyms": "umpire|judge",
+    "sound": null
+  },
+  {
+    "id": 1131,
+    "day": 87,
+    "word": "tournament",
+    "traduction": "torneio",
+    "class": "substantive",
+    "examples": "The tournament is big.",
+    "synonyms": "competition|event",
+    "sound": null
+  }
+]

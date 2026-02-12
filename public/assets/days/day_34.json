@@ -1,0 +1,132 @@
+[
+  {
+    "id": 430,
+    "day": 34,
+    "word": "finish",
+    "traduction": "terminar",
+    "class": "verb",
+    "examples": "Finish your homework.",
+    "synonyms": "complete|conclude",
+    "sound": null
+  },
+  {
+    "id": 431,
+    "day": 34,
+    "word": "stop",
+    "traduction": "parar",
+    "class": "verb",
+    "examples": "Stop talking.",
+    "synonyms": "halt|cease",
+    "sound": null
+  },
+  {
+    "id": 432,
+    "day": 34,
+    "word": "equal",
+    "traduction": "igual",
+    "class": "adjective",
+    "examples": "Two plus two equals four.",
+    "synonyms": "same|identical",
+    "sound": null
+  },
+  {
+    "id": 433,
+    "day": 34,
+    "word": "fifth",
+    "traduction": "quinto",
+    "class": "adjective",
+    "examples": "He is fifth in class.",
+    "synonyms": "ordinal|position",
+    "sound": null
+  },
+  {
+    "id": 434,
+    "day": 34,
+    "word": "action",
+    "traduction": "ação",
+    "class": "substantive",
+    "examples": "The action is fast.",
+    "synonyms": "movement|activity",
+    "sound": null
+  },
+  {
+    "id": 435,
+    "day": 34,
+    "word": "adventure",
+    "traduction": "aventura",
+    "class": "substantive",
+    "examples": "The adventure is exciting.",
+    "synonyms": "quest|journey",
+    "sound": null
+  },
+  {
+    "id": 436,
+    "day": 34,
+    "word": "artist",
+    "traduction": "artista",
+    "class": "substantive",
+    "examples": "The artist is creative.",
+    "synonyms": "creator|painter",
+    "sound": null
+  },
+  {
+    "id": 437,
+    "day": 34,
+    "word": "camera",
+    "traduction": "câmera",
+    "class": "substantive",
+    "examples": "The camera is new.",
+    "synonyms": "device|recorder",
+    "sound": null
+  },
+  {
+    "id": 438,
+    "day": 34,
+    "word": "cartoon",
+    "traduction": "desenho animado",
+    "class": "substantive",
+    "examples": "The cartoon is funny.",
+    "synonyms": "animation|comic",
+    "sound": null
+  },
+  {
+    "id": 439,
+    "day": 34,
+    "word": "drama",
+    "traduction": "drama",
+    "class": "substantive",
+    "examples": "The drama is serious.",
+    "synonyms": "play|tragedy",
+    "sound": null
+  },
+  {
+    "id": 440,
+    "day": 34,
+    "word": "drawing",
+    "traduction": "desenho",
+    "class": "substantive",
+    "examples": "The drawing is simple.",
+    "synonyms": "sketch|illustration",
+    "sound": null
+  },
+  {
+    "id": 441,
+    "day": 34,
+    "word": "radio",
+    "traduction": "rádio",
+    "class": "substantive",
+    "examples": "I listen to the radio.",
+    "synonyms": "receiver|broadcast",
+    "sound": null
+  },
+  {
+    "id": 442,
+    "day": 34,
+    "word": "romance",
+    "traduction": "romance",
+    "class": "substantive",
+    "examples": "The romance is sweet.",
+    "synonyms": "love story|affair",
+    "sound": null
+  }
+]

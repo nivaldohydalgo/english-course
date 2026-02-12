@@ -1,0 +1,132 @@
+[
+  {
+    "id": 326,
+    "day": 26,
+    "word": "drive",
+    "traduction": "dirigir",
+    "class": "verb",
+    "examples": "Drive a car.",
+    "synonyms": "operate|steer",
+    "sound": null
+  },
+  {
+    "id": 327,
+    "day": 26,
+    "word": "ride",
+    "traduction": "andar/montar",
+    "class": "verb",
+    "examples": "Ride a bike.",
+    "synonyms": "cycle|mount",
+    "sound": null
+  },
+  {
+    "id": 328,
+    "day": 26,
+    "word": "dirty",
+    "traduction": "sujo",
+    "class": "adjective",
+    "examples": "The shirt is dirty.",
+    "synonyms": "unclean|filthy",
+    "sound": null
+  },
+  {
+    "id": 329,
+    "day": 26,
+    "word": "short",
+    "traduction": "curto",
+    "class": "adjective",
+    "examples": "The shorts are short.",
+    "synonyms": "brief|small",
+    "sound": null
+  },
+  {
+    "id": 330,
+    "day": 26,
+    "word": "hundred",
+    "traduction": "cem",
+    "class": "numeral",
+    "examples": "One hundred dollars.",
+    "synonyms": "century|number",
+    "sound": null
+  },
+  {
+    "id": 331,
+    "day": 26,
+    "word": "ninety",
+    "traduction": "noventa",
+    "class": "numeral",
+    "examples": "Ninety points scored.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 332,
+    "day": 26,
+    "word": "baby",
+    "traduction": "bebê",
+    "class": "substantive",
+    "examples": "The baby is sleeping.",
+    "synonyms": "infant|newborn",
+    "sound": null
+  },
+  {
+    "id": 333,
+    "day": 26,
+    "word": "brother",
+    "traduction": "irmão",
+    "class": "substantive",
+    "examples": "My brother is older.",
+    "synonyms": "sibling|kin",
+    "sound": null
+  },
+  {
+    "id": 334,
+    "day": 26,
+    "word": "daughter",
+    "traduction": "filha",
+    "class": "substantive",
+    "examples": "Her daughter is cute.",
+    "synonyms": "girl|offspring",
+    "sound": null
+  },
+  {
+    "id": 335,
+    "day": 26,
+    "word": "grandfather",
+    "traduction": "avô",
+    "class": "substantive",
+    "examples": "His grandfather is strong.",
+    "synonyms": "grandpa|elder",
+    "sound": null
+  },
+  {
+    "id": 336,
+    "day": 26,
+    "word": "grandmother",
+    "traduction": "avó",
+    "class": "substantive",
+    "examples": "My grandmother is sweet.",
+    "synonyms": "grandma|nana",
+    "sound": null
+  },
+  {
+    "id": 337,
+    "day": 26,
+    "word": "sister",
+    "traduction": "irmã",
+    "class": "substantive",
+    "examples": "Her sister is younger.",
+    "synonyms": "sibling|kin",
+    "sound": null
+  },
+  {
+    "id": 338,
+    "day": 26,
+    "word": "son",
+    "traduction": "filho",
+    "class": "substantive",
+    "examples": "Their son is smart.",
+    "synonyms": "boy|offspring",
+    "sound": null
+  }
+]

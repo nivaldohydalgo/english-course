@@ -1,4 +1,4 @@
 
 export const environment = {
-    qtDays: 5
+    qtDays: 100
 }

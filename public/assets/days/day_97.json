@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1249,
+    "day": 97,
+    "word": "apparent",
+    "traduction": "aparente",
+    "class": "adjective",
+    "examples": "The error was apparent.",
+    "synonyms": "obvious|evident",
+    "sound": null
+  },
+  {
+    "id": 1250,
+    "day": 97,
+    "word": "enumerate",
+    "traduction": "enumerar",
+    "class": "verb",
+    "examples": "Enumerate the points.",
+    "synonyms": "list|count",
+    "sound": null
+  },
+  {
+    "id": 1251,
+    "day": 97,
+    "word": "eradicate",
+    "traduction": "erradicar",
+    "class": "verb",
+    "examples": "Eradicate the disease.",
+    "synonyms": "eliminate|destroy",
+    "sound": null
+  },
+  {
+    "id": 1252,
+    "day": 97,
+    "word": "morbid",
+    "traduction": "mórbido",
+    "class": "adjective",
+    "examples": "He has a morbid curiosity.",
+    "synonyms": "gruesome|unhealthy",
+    "sound": null
+  },
+  {
+    "id": 1253,
+    "day": 97,
+    "word": "mundane",
+    "traduction": "mundano",
+    "class": "adjective",
+    "examples": "The task is mundane.",
+    "synonyms": "ordinary|routine",
+    "sound": null
+  },
+  {
+    "id": 1254,
+    "day": 97,
+    "word": "mountain",
+    "traduction": "montanha",
+    "class": "substantive",
+    "examples": "The mountain is high.",
+    "synonyms": "peak|hill",
+    "sound": null
+  },
+  {
+    "id": 1255,
+    "day": 97,
+    "word": "AI",
+    "traduction": "inteligência artificial",
+    "class": "substantive",
+    "examples": "AI is powerful.",
+    "synonyms": "artificial intelligence|machine learning",
+    "sound": null
+  },
+  {
+    "id": 1256,
+    "day": 97,
+    "word": "interest",
+    "traduction": "juros",
+    "class": "substantive",
+    "examples": "The interest is high.",
+    "synonyms": "rate|charge",
+    "sound": null
+  },
+  {
+    "id": 1257,
+    "day": 97,
+    "word": "kiwi",
+    "traduction": "kiwi (ave)",
+    "class": "substantive",
+    "examples": "The kiwi cannot fly.",
+    "synonyms": "bird|nocturnal",
+    "sound": null
+  },
+  {
+    "id": 1258,
+    "day": 97,
+    "word": "loan",
+    "traduction": "empréstimo",
+    "class": "substantive",
+    "examples": "He took a loan.",
+    "synonyms": "credit|advance",
+    "sound": null
+  },
+  {
+    "id": 1259,
+    "day": 97,
+    "word": "orchestra",
+    "traduction": "orquestra",
+    "class": "substantive",
+    "examples": "The orchestra is large.",
+    "synonyms": "ensemble|symphony",
+    "sound": null
+  },
+  {
+    "id": 1260,
+    "day": 97,
+    "word": "rhino",
+    "traduction": "rhino/rinoceronte",
+    "class": "substantive",
+    "examples": "The rhino has a horn.",
+    "synonyms": "rhinoceros|mammal",
+    "sound": null
+  },
+  {
+    "id": 1261,
+    "day": 97,
+    "word": "idea",
+    "traduction": "ideia",
+    "class": "substantive",
+    "examples": "That‚Äôs a brilliant idea!",
+    "synonyms": "concept|notion",
+    "sound": null
+  }
+]

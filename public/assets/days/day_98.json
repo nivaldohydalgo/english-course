@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1262,
+    "day": 98,
+    "word": "approximate",
+    "traduction": "aproximado",
+    "class": "adjective",
+    "examples": "The cost is approximate.",
+    "synonyms": "estimated|near",
+    "sound": null
+  },
+  {
+    "id": 1263,
+    "day": 98,
+    "word": "exemplify",
+    "traduction": "exemplificar",
+    "class": "verb",
+    "examples": "She exemplifies kindness.",
+    "synonyms": "illustrate|demonstrate",
+    "sound": null
+  },
+  {
+    "id": 1264,
+    "day": 98,
+    "word": "fortify",
+    "traduction": "fortificar",
+    "class": "verb",
+    "examples": "Fortify the defenses.",
+    "synonyms": "strengthen|reinforce",
+    "sound": null
+  },
+  {
+    "id": 1265,
+    "day": 98,
+    "word": "negligible",
+    "traduction": "insignificante",
+    "class": "adjective",
+    "examples": "The cost is negligible.",
+    "synonyms": "trivial|minor",
+    "sound": null
+  },
+  {
+    "id": 1266,
+    "day": 98,
+    "word": "noteworthy",
+    "traduction": "notável",
+    "class": "adjective",
+    "examples": "Her work is noteworthy.",
+    "synonyms": "remarkable|significant",
+    "sound": null
+  },
+  {
+    "id": 1267,
+    "day": 98,
+    "word": "hill",
+    "traduction": "colina",
+    "class": "substantive",
+    "examples": "The hill is small.",
+    "synonyms": "mound|rise",
+    "sound": null
+  },
+  {
+    "id": 1268,
+    "day": 98,
+    "word": "autonomy",
+    "traduction": "autonomia",
+    "class": "substantive",
+    "examples": "The region has autonomy.",
+    "synonyms": "independence|freedom",
+    "sound": null
+  },
+  {
+    "id": 1269,
+    "day": 98,
+    "word": "criterion",
+    "traduction": "critério",
+    "class": "substantive",
+    "examples": "We used strict criteria.",
+    "synonyms": "standard|benchmark",
+    "sound": null
+  },
+  {
+    "id": 1270,
+    "day": 98,
+    "word": "deficit",
+    "traduction": "deficit",
+    "class": "substantive",
+    "examples": "The budget shows a deficit.",
+    "synonyms": "shortfall|loss",
+    "sound": null
+  },
+  {
+    "id": 1271,
+    "day": 98,
+    "word": "discrepancy",
+    "traduction": "discrepância",
+    "class": "substantive",
+    "examples": "There is a discrepancy in data.",
+    "synonyms": "difference|inconsistency",
+    "sound": null
+  },
+  {
+    "id": 1272,
+    "day": 98,
+    "word": "discretion",
+    "traduction": "discrição",
+    "class": "substantive",
+    "examples": "Use discretion in decisions.",
+    "synonyms": "judgment|prudence",
+    "sound": null
+  },
+  {
+    "id": 1273,
+    "day": 98,
+    "word": "endeavor",
+    "traduction": "esforço/empenho",
+    "class": "substantive",
+    "examples": "His endeavor succeeded.",
+    "synonyms": "attempt|effort",
+    "sound": null
+  },
+  {
+    "id": 1274,
+    "day": 98,
+    "word": "hypothesis",
+    "traduction": "hipótese",
+    "class": "substantive",
+    "examples": "The hypothesis was tested.",
+    "synonyms": "assumption|theory",
+    "sound": null
+  }
+]

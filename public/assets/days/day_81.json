@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1041,
+    "day": 81,
+    "word": "reinforce",
+    "traduction": "reforçar",
+    "class": "verb",
+    "examples": "Reinforce the structure.",
+    "synonyms": "strengthen|support",
+    "sound": null
+  },
+  {
+    "id": 1042,
+    "day": 81,
+    "word": "reiterate",
+    "traduction": "reiterar",
+    "class": "verb",
+    "examples": "He reiterated his point.",
+    "synonyms": "repeat|restate",
+    "sound": null
+  },
+  {
+    "id": 1043,
+    "day": 81,
+    "word": "rely",
+    "traduction": "confiar",
+    "class": "verb",
+    "examples": "We rely on evidence.",
+    "synonyms": "depend|trust",
+    "sound": null
+  },
+  {
+    "id": 1044,
+    "day": 81,
+    "word": "attentive",
+    "traduction": "atento",
+    "class": "adjective",
+    "examples": "He is attentive to details.",
+    "synonyms": "observant|mindful",
+    "sound": null
+  },
+  {
+    "id": 1045,
+    "day": 81,
+    "word": "candid",
+    "traduction": "franco",
+    "class": "adjective",
+    "examples": "She gave a candid answer.",
+    "synonyms": "honest|straightforward",
+    "sound": null
+  },
+  {
+    "id": 1046,
+    "day": 81,
+    "word": "salad",
+    "traduction": "salada",
+    "class": "substantive",
+    "examples": "The salad is fresh.",
+    "synonyms": "greens|dish",
+    "sound": null
+  },
+  {
+    "id": 1047,
+    "day": 81,
+    "word": "crow",
+    "traduction": "corvo",
+    "class": "substantive",
+    "examples": "The crow is black.",
+    "synonyms": "bird|raven",
+    "sound": null
+  },
+  {
+    "id": 1048,
+    "day": 81,
+    "word": "eagle",
+    "traduction": "águia",
+    "class": "substantive",
+    "examples": "The eagle flies high.",
+    "synonyms": "bird|raptor",
+    "sound": null
+  },
+  {
+    "id": 1049,
+    "day": 81,
+    "word": "hawk",
+    "traduction": "falcão",
+    "class": "substantive",
+    "examples": "The hawk hunts mice.",
+    "synonyms": "bird|raptor",
+    "sound": null
+  },
+  {
+    "id": 1050,
+    "day": 81,
+    "word": "owl",
+    "traduction": "coruja",
+    "class": "substantive",
+    "examples": "The owl sees at night.",
+    "synonyms": "bird|nocturnal",
+    "sound": null
+  },
+  {
+    "id": 1051,
+    "day": 81,
+    "word": "peacock",
+    "traduction": "pavão",
+    "class": "substantive",
+    "examples": "The peacock shows feathers.",
+    "synonyms": "bird|fowl",
+    "sound": null
+  },
+  {
+    "id": 1052,
+    "day": 81,
+    "word": "penguin",
+    "traduction": "pinguim",
+    "class": "substantive",
+    "examples": "The penguin cannot fly.",
+    "synonyms": "bird|aquatic",
+    "sound": null
+  },
+  {
+    "id": 1053,
+    "day": 81,
+    "word": "swan",
+    "traduction": "cisne",
+    "class": "substantive",
+    "examples": "The swan is elegant.",
+    "synonyms": "bird|fowl",
+    "sound": null
+  }
+]

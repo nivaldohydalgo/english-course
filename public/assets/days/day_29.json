@@ -1,0 +1,132 @@
+[
+  {
+    "id": 365,
+    "day": 29,
+    "word": "smile",
+    "traduction": "sorrir",
+    "class": "verb",
+    "examples": "She smiles often.",
+    "synonyms": "grin|beam",
+    "sound": null
+  },
+  {
+    "id": 366,
+    "day": 29,
+    "word": "wake up",
+    "traduction": "acordar",
+    "class": "verb",
+    "examples": "Wake up early.",
+    "synonyms": "rise|get up",
+    "sound": null
+  },
+  {
+    "id": 367,
+    "day": 29,
+    "word": "heavy",
+    "traduction": "pesado",
+    "class": "adjective",
+    "examples": "The box is heavy.",
+    "synonyms": "weighty|massive",
+    "sound": null
+  },
+  {
+    "id": 368,
+    "day": 29,
+    "word": "tall",
+    "traduction": "alto",
+    "class": "adjective",
+    "examples": "The man is tall.",
+    "synonyms": "high|lofty",
+    "sound": null
+  },
+  {
+    "id": 369,
+    "day": 29,
+    "word": "into",
+    "traduction": "em",
+    "class": "preposition",
+    "examples": "Put it into the box.",
+    "synonyms": "inside|within",
+    "sound": null
+  },
+  {
+    "id": 370,
+    "day": 29,
+    "word": "over",
+    "traduction": "sobre",
+    "class": "preposition",
+    "examples": "The plane flies over the city.",
+    "synonyms": "above|across",
+    "sound": null
+  },
+  {
+    "id": 371,
+    "day": 29,
+    "word": "under",
+    "traduction": "embaixo",
+    "class": "preposition",
+    "examples": "The shoes are under the bed.",
+    "synonyms": "beneath|below",
+    "sound": null
+  },
+  {
+    "id": 372,
+    "day": 29,
+    "word": "adult",
+    "traduction": "adulto",
+    "class": "substantive",
+    "examples": "Adults work every day.",
+    "synonyms": "grown-up|mature person",
+    "sound": null
+  },
+  {
+    "id": 373,
+    "day": 29,
+    "word": "age",
+    "traduction": "idade",
+    "class": "substantive",
+    "examples": "What is your age?",
+    "synonyms": "years|lifetime",
+    "sound": null
+  },
+  {
+    "id": 374,
+    "day": 29,
+    "word": "clock",
+    "traduction": "relógio",
+    "class": "substantive",
+    "examples": "The clock shows the time.",
+    "synonyms": "watch|timepiece",
+    "sound": null
+  },
+  {
+    "id": 375,
+    "day": 29,
+    "word": "neighbor",
+    "traduction": "vizinho",
+    "class": "substantive",
+    "examples": "My neighbor is kind.",
+    "synonyms": "resident|acquaintance",
+    "sound": null
+  },
+  {
+    "id": 376,
+    "day": 29,
+    "word": "newspaper",
+    "traduction": "jornal",
+    "class": "substantive",
+    "examples": "I read the newspaper.",
+    "synonyms": "daily|gazette",
+    "sound": null
+  },
+  {
+    "id": 377,
+    "day": 29,
+    "word": "watch",
+    "traduction": "relógio de pulso",
+    "class": "substantive",
+    "examples": "He wears a watch.",
+    "synonyms": "timepiece|chronometer",
+    "sound": null
+  }
+]

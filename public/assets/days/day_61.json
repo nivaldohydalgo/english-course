@@ -1,0 +1,132 @@
+[
+  {
+    "id": 781,
+    "day": 61,
+    "word": "acquire",
+    "traduction": "adquirir",
+    "class": "verb",
+    "examples": "He acquired new skills.",
+    "synonyms": "obtain|gain",
+    "sound": null
+  },
+  {
+    "id": 782,
+    "day": 61,
+    "word": "adapt",
+    "traduction": "adaptar",
+    "class": "verb",
+    "examples": "We must adapt to change.",
+    "synonyms": "adjust|modify",
+    "sound": null
+  },
+  {
+    "id": 783,
+    "day": 61,
+    "word": "analyze",
+    "traduction": "analisar",
+    "class": "verb",
+    "examples": "We analyze the data carefully.",
+    "synonyms": "examine|study",
+    "sound": null
+  },
+  {
+    "id": 784,
+    "day": 61,
+    "word": "coherent",
+    "traduction": "coerente",
+    "class": "adjective",
+    "examples": "Her argument is coherent.",
+    "synonyms": "logical|consistent",
+    "sound": null
+  },
+  {
+    "id": 785,
+    "day": 61,
+    "word": "comprehensive",
+    "traduction": "abrangente",
+    "class": "adjective",
+    "examples": "The report is comprehensive.",
+    "synonyms": "complete|thorough",
+    "sound": null
+  },
+  {
+    "id": 786,
+    "day": 61,
+    "word": "concurrent",
+    "traduction": "concorrente/simultâneo",
+    "class": "adjective",
+    "examples": "Concurrent events occurred.",
+    "synonyms": "simultaneous|parallel",
+    "sound": null
+  },
+  {
+    "id": 787,
+    "day": 61,
+    "word": "children",
+    "traduction": "crianças",
+    "class": "substantive",
+    "examples": "Children play outside.",
+    "synonyms": "kids|youngsters",
+    "sound": null
+  },
+  {
+    "id": 788,
+    "day": 61,
+    "word": "duck",
+    "traduction": "pato",
+    "class": "substantive",
+    "examples": "The duck is swimming.",
+    "synonyms": "drake|waterfowl",
+    "sound": null
+  },
+  {
+    "id": 789,
+    "day": 61,
+    "word": "mouse",
+    "traduction": "camundongo",
+    "class": "substantive",
+    "examples": "The mouse is small.",
+    "synonyms": "rodent|rat",
+    "sound": null
+  },
+  {
+    "id": 790,
+    "day": 61,
+    "word": "parents",
+    "traduction": "pais",
+    "class": "substantive",
+    "examples": "Parents love their children.",
+    "synonyms": "guardians|caretakers",
+    "sound": null
+  },
+  {
+    "id": 791,
+    "day": 61,
+    "word": "rabbit",
+    "traduction": "coelho",
+    "class": "substantive",
+    "examples": "The rabbit is fast.",
+    "synonyms": "bunny|hare",
+    "sound": null
+  },
+  {
+    "id": 792,
+    "day": 61,
+    "word": "rock",
+    "traduction": "rocha",
+    "class": "substantive",
+    "examples": "The rock is big.",
+    "synonyms": "boulder|stone",
+    "sound": null
+  },
+  {
+    "id": 793,
+    "day": 61,
+    "word": "stone",
+    "traduction": "pedra",
+    "class": "substantive",
+    "examples": "The stone is heavy.",
+    "synonyms": "rock|pebble",
+    "sound": null
+  }
+]
