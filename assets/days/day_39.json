@@ -1,0 +1,132 @@
+[
+  {
+    "id": 495,
+    "day": 39,
+    "word": "bake",
+    "traduction": "assar",
+    "class": "verb",
+    "examples": "Bake a cake.",
+    "synonyms": "roast|cook",
+    "sound": null
+  },
+  {
+    "id": 496,
+    "day": 39,
+    "word": "dislike",
+    "traduction": "não gostar",
+    "class": "verb",
+    "examples": "He dislikes loud music.",
+    "synonyms": "hate|detest",
+    "sound": null
+  },
+  {
+    "id": 497,
+    "day": 39,
+    "word": "difficult",
+    "traduction": "difícil",
+    "class": "adjective",
+    "examples": "The exam is difficult.",
+    "synonyms": "hard|tough",
+    "sound": null
+  },
+  {
+    "id": 498,
+    "day": 39,
+    "word": "domestic",
+    "traduction": "doméstico",
+    "class": "adjective",
+    "examples": "Cats are domestic animals.",
+    "synonyms": "tame|household",
+    "sound": null
+  },
+  {
+    "id": 499,
+    "day": 39,
+    "word": "wild",
+    "traduction": "silvestre",
+    "class": "adjective",
+    "examples": "The tiger is wild.",
+    "synonyms": "untamed|feral",
+    "sound": null
+  },
+  {
+    "id": 500,
+    "day": 39,
+    "word": "beef",
+    "traduction": "carne bovina",
+    "class": "substantive",
+    "examples": "Beef is expensive.",
+    "synonyms": "steak|meat",
+    "sound": null
+  },
+  {
+    "id": 501,
+    "day": 39,
+    "word": "business",
+    "traduction": "negócio",
+    "class": "substantive",
+    "examples": "He started a business.",
+    "synonyms": "enterprise|trade",
+    "sound": null
+  },
+  {
+    "id": 502,
+    "day": 39,
+    "word": "customer",
+    "traduction": "cliente",
+    "class": "substantive",
+    "examples": "The customer is satisfied.",
+    "synonyms": "buyer|client",
+    "sound": null
+  },
+  {
+    "id": 503,
+    "day": 39,
+    "word": "milkshake",
+    "traduction": "milkshake",
+    "class": "substantive",
+    "examples": "She likes chocolate milkshake.",
+    "synonyms": "smoothie|shake",
+    "sound": null
+  },
+  {
+    "id": 504,
+    "day": 39,
+    "word": "oil",
+    "traduction": "óleo",
+    "class": "substantive",
+    "examples": "Cook with oil.",
+    "synonyms": "fat|grease",
+    "sound": null
+  },
+  {
+    "id": 505,
+    "day": 39,
+    "word": "pork",
+    "traduction": "carne de porco",
+    "class": "substantive",
+    "examples": "Pork is popular.",
+    "synonyms": "ham|bacon",
+    "sound": null
+  },
+  {
+    "id": 506,
+    "day": 39,
+    "word": "price",
+    "traduction": "preço",
+    "class": "substantive",
+    "examples": "The price is too high.",
+    "synonyms": "cost|value",
+    "sound": null
+  },
+  {
+    "id": 507,
+    "day": 39,
+    "word": "season",
+    "traduction": "estação",
+    "class": "substantive",
+    "examples": "Summer is my favorite season.",
+    "synonyms": "period|time",
+    "sound": null
+  }
+]

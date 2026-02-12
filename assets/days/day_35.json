@@ -1,0 +1,132 @@
+[
+  {
+    "id": 443,
+    "day": 35,
+    "word": "continue",
+    "traduction": "continuar",
+    "class": "verb",
+    "examples": "Continue reading.",
+    "synonyms": "proceed|carry on",
+    "sound": null
+  },
+  {
+    "id": 444,
+    "day": 35,
+    "word": "count",
+    "traduction": "contar",
+    "class": "verb",
+    "examples": "Count the apples.",
+    "synonyms": "enumerate|tally",
+    "sound": null
+  },
+  {
+    "id": 445,
+    "day": 35,
+    "word": "false",
+    "traduction": "falso",
+    "class": "adjective",
+    "examples": "The answer is false.",
+    "synonyms": "incorrect|untrue",
+    "sound": null
+  },
+  {
+    "id": 446,
+    "day": 35,
+    "word": "cheap",
+    "traduction": "barato",
+    "class": "adjective",
+    "examples": "This shirt is cheap.",
+    "synonyms": "inexpensive|low-cost",
+    "sound": null
+  },
+  {
+    "id": 447,
+    "day": 35,
+    "word": "expensive",
+    "traduction": "caro",
+    "class": "adjective",
+    "examples": "That car is expensive.",
+    "synonyms": "costly|pricey",
+    "sound": null
+  },
+  {
+    "id": 448,
+    "day": 35,
+    "word": "court",
+    "traduction": "quadra",
+    "class": "substantive",
+    "examples": "The court is small.",
+    "synonyms": "arena|ground",
+    "sound": null
+  },
+  {
+    "id": 449,
+    "day": 35,
+    "word": "match",
+    "traduction": "partida",
+    "class": "substantive",
+    "examples": "The match starts now.",
+    "synonyms": "game|contest",
+    "sound": null
+  },
+  {
+    "id": 450,
+    "day": 35,
+    "word": "medal",
+    "traduction": "medalha",
+    "class": "substantive",
+    "examples": "She got a medal.",
+    "synonyms": "award|prize",
+    "sound": null
+  },
+  {
+    "id": 451,
+    "day": 35,
+    "word": "race",
+    "traduction": "corrida",
+    "class": "substantive",
+    "examples": "The race is fast.",
+    "synonyms": "contest|run",
+    "sound": null
+  },
+  {
+    "id": 452,
+    "day": 35,
+    "word": "screen",
+    "traduction": "tela",
+    "class": "substantive",
+    "examples": "The screen is big.",
+    "synonyms": "monitor|display",
+    "sound": null
+  },
+  {
+    "id": 453,
+    "day": 35,
+    "word": "soccer",
+    "traduction": "futebol",
+    "class": "substantive",
+    "examples": "Soccer is played worldwide.",
+    "synonyms": "football|game",
+    "sound": null
+  },
+  {
+    "id": 454,
+    "day": 35,
+    "word": "trophy",
+    "traduction": "troféu",
+    "class": "substantive",
+    "examples": "The trophy is shiny.",
+    "synonyms": "award|prize",
+    "sound": null
+  },
+  {
+    "id": 455,
+    "day": 35,
+    "word": "video",
+    "traduction": "vídeo",
+    "class": "substantive",
+    "examples": "The video is long.",
+    "synonyms": "clip|recording",
+    "sound": null
+  }
+]

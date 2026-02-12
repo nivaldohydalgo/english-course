@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1028,
+    "day": 80,
+    "word": "reconcile",
+    "traduction": "reconciliar",
+    "class": "verb",
+    "examples": "Reconcile differences.",
+    "synonyms": "settle|harmonize",
+    "sound": null
+  },
+  {
+    "id": 1029,
+    "day": 80,
+    "word": "recur",
+    "traduction": "recorrer/repetir",
+    "class": "verb",
+    "examples": "The problem recurs often.",
+    "synonyms": "repeat|happen again",
+    "sound": null
+  },
+  {
+    "id": 1030,
+    "day": 80,
+    "word": "refine",
+    "traduction": "refinar",
+    "class": "verb",
+    "examples": "Refine the process.",
+    "synonyms": "improve|polish",
+    "sound": null
+  },
+  {
+    "id": 1031,
+    "day": 80,
+    "word": "assertive",
+    "traduction": "assertivo",
+    "class": "adjective",
+    "examples": "Be assertive in meetings.",
+    "synonyms": "confident|firm",
+    "sound": null
+  },
+  {
+    "id": 1032,
+    "day": 80,
+    "word": "astonishing",
+    "traduction": "assombroso",
+    "class": "adjective",
+    "examples": "The view was astonishing.",
+    "synonyms": "amazing|incredible",
+    "sound": null
+  },
+  {
+    "id": 1033,
+    "day": 80,
+    "word": "soup",
+    "traduction": "sopa",
+    "class": "substantive",
+    "examples": "The soup is hot.",
+    "synonyms": "broth|stew",
+    "sound": null
+  },
+  {
+    "id": 1034,
+    "day": 80,
+    "word": "antelope",
+    "traduction": "antílope",
+    "class": "substantive",
+    "examples": "The antelope runs fast.",
+    "synonyms": "gazelle|deer",
+    "sound": null
+  },
+  {
+    "id": 1035,
+    "day": 80,
+    "word": "dolphin",
+    "traduction": "golfinho",
+    "class": "substantive",
+    "examples": "The dolphin is smart.",
+    "synonyms": "mammal|porpoise",
+    "sound": null
+  },
+  {
+    "id": 1036,
+    "day": 80,
+    "word": "rectangle",
+    "traduction": "retângulo",
+    "class": "substantive",
+    "examples": "Draw a rectangle.",
+    "synonyms": "shape|figure",
+    "sound": null
+  },
+  {
+    "id": 1037,
+    "day": 80,
+    "word": "seal",
+    "traduction": "foca",
+    "class": "substantive",
+    "examples": "The seal claps its fins.",
+    "synonyms": "pinniped|mammal",
+    "sound": null
+  },
+  {
+    "id": 1038,
+    "day": 80,
+    "word": "shark",
+    "traduction": "tubarão",
+    "class": "substantive",
+    "examples": "The shark swims fast.",
+    "synonyms": "predator|fish",
+    "sound": null
+  },
+  {
+    "id": 1039,
+    "day": 80,
+    "word": "triangle",
+    "traduction": "triângulo",
+    "class": "substantive",
+    "examples": "Draw a triangle.",
+    "synonyms": "shape|figure",
+    "sound": null
+  },
+  {
+    "id": 1040,
+    "day": 80,
+    "word": "whale",
+    "traduction": "baleia",
+    "class": "substantive",
+    "examples": "The whale is huge.",
+    "synonyms": "mammal|cetacean",
+    "sound": null
+  }
+]

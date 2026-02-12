@@ -1,0 +1,132 @@
+[
+  {
+    "id": 820,
+    "day": 64,
+    "word": "confer",
+    "traduction": "conferir/conceder",
+    "class": "verb",
+    "examples": "The committee conferred an award.",
+    "synonyms": "grant|bestow",
+    "sound": null
+  },
+  {
+    "id": 821,
+    "day": 64,
+    "word": "contemplate",
+    "traduction": "contemplar/refletir",
+    "class": "verb",
+    "examples": "She contemplated the idea.",
+    "synonyms": "consider|ponder",
+    "sound": null
+  },
+  {
+    "id": 822,
+    "day": 64,
+    "word": "contradict",
+    "traduction": "contradizer",
+    "class": "verb",
+    "examples": "His words contradict his actions.",
+    "synonyms": "oppose|deny",
+    "sound": null
+  },
+  {
+    "id": 823,
+    "day": 64,
+    "word": "erroneous",
+    "traduction": "errôneo",
+    "class": "adjective",
+    "examples": "The data was erroneous.",
+    "synonyms": "wrong|incorrect",
+    "sound": null
+  },
+  {
+    "id": 824,
+    "day": 64,
+    "word": "explicit",
+    "traduction": "explícito",
+    "class": "adjective",
+    "examples": "The rules are explicit.",
+    "synonyms": "clear|direct",
+    "sound": null
+  },
+  {
+    "id": 825,
+    "day": 64,
+    "word": "feasible",
+    "traduction": "viável",
+    "class": "adjective",
+    "examples": "The plan is feasible.",
+    "synonyms": "possible|achievable",
+    "sound": null
+  },
+  {
+    "id": 826,
+    "day": 64,
+    "word": "bus",
+    "traduction": "ônibus",
+    "class": "substantive",
+    "examples": "The bus is full.",
+    "synonyms": "coach|vehicle",
+    "sound": null
+  },
+  {
+    "id": 827,
+    "day": 64,
+    "word": "corn",
+    "traduction": "milho",
+    "class": "substantive",
+    "examples": "Corn grows tall.",
+    "synonyms": "maize|grain",
+    "sound": null
+  },
+  {
+    "id": 828,
+    "day": 64,
+    "word": "farm",
+    "traduction": "fazenda",
+    "class": "substantive",
+    "examples": "The farm is large.",
+    "synonyms": "ranch|estate",
+    "sound": null
+  },
+  {
+    "id": 829,
+    "day": 64,
+    "word": "farmer",
+    "traduction": "agricultor",
+    "class": "substantive",
+    "examples": "The farmer works hard.",
+    "synonyms": "grower|cultivator",
+    "sound": null
+  },
+  {
+    "id": 830,
+    "day": 64,
+    "word": "field",
+    "traduction": "campo",
+    "class": "substantive",
+    "examples": "The field is green.",
+    "synonyms": "meadow|pasture",
+    "sound": null
+  },
+  {
+    "id": 831,
+    "day": 64,
+    "word": "plant",
+    "traduction": "planta",
+    "class": "substantive",
+    "examples": "The plant is growing.",
+    "synonyms": "flora|vegetation",
+    "sound": null
+  },
+  {
+    "id": 832,
+    "day": 64,
+    "word": "seed",
+    "traduction": "semente",
+    "class": "substantive",
+    "examples": "Plant the seed.",
+    "synonyms": "kernel|grain",
+    "sound": null
+  }
+]

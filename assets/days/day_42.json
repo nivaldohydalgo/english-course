@@ -1,0 +1,132 @@
+[
+  {
+    "id": 534,
+    "day": 42,
+    "word": "cheer",
+    "traduction": "torcer",
+    "class": "verb",
+    "examples": "They cheer for the team.",
+    "synonyms": "applaud|encourage",
+    "sound": null
+  },
+  {
+    "id": 535,
+    "day": 42,
+    "word": "score",
+    "traduction": "pontuar",
+    "class": "verb",
+    "examples": "He scored a goal.",
+    "synonyms": "point|tally",
+    "sound": null
+  },
+  {
+    "id": 536,
+    "day": 42,
+    "word": "bored",
+    "traduction": "entediado",
+    "class": "adjective",
+    "examples": "He is bored.",
+    "synonyms": "uninterested|weary",
+    "sound": null
+  },
+  {
+    "id": 537,
+    "day": 42,
+    "word": "fight",
+    "traduction": "luta",
+    "class": "substantive",
+    "examples": "The fight is over.",
+    "synonyms": "battle|struggle",
+    "sound": null
+  },
+  {
+    "id": 538,
+    "day": 42,
+    "word": "coach",
+    "traduction": "treinador",
+    "class": "substantive",
+    "examples": "The coach is strict.",
+    "synonyms": "trainer|instructor",
+    "sound": null
+  },
+  {
+    "id": 539,
+    "day": 42,
+    "word": "geography",
+    "traduction": "geografia",
+    "class": "substantive",
+    "examples": "Geography studies the Earth.",
+    "synonyms": "earth science|cartography",
+    "sound": null
+  },
+  {
+    "id": 540,
+    "day": 42,
+    "word": "history",
+    "traduction": "história",
+    "class": "substantive",
+    "examples": "History teaches us lessons.",
+    "synonyms": "past|record",
+    "sound": null
+  },
+  {
+    "id": 541,
+    "day": 42,
+    "word": "painting",
+    "traduction": "pintura",
+    "class": "substantive",
+    "examples": "The painting is old.",
+    "synonyms": "artwork|picture",
+    "sound": null
+  },
+  {
+    "id": 542,
+    "day": 42,
+    "word": "science",
+    "traduction": "ciência",
+    "class": "substantive",
+    "examples": "Science is interesting.",
+    "synonyms": "knowledge|discipline",
+    "sound": null
+  },
+  {
+    "id": 543,
+    "day": 42,
+    "word": "stadium",
+    "traduction": "estádio",
+    "class": "substantive",
+    "examples": "The stadium is full.",
+    "synonyms": "arena|field",
+    "sound": null
+  },
+  {
+    "id": 544,
+    "day": 42,
+    "word": "subject",
+    "traduction": "matéria",
+    "class": "substantive",
+    "examples": "Math is my favorite subject.",
+    "synonyms": "topic|discipline",
+    "sound": null
+  },
+  {
+    "id": 545,
+    "day": 42,
+    "word": "university",
+    "traduction": "universidade",
+    "class": "substantive",
+    "examples": "She studies at the university.",
+    "synonyms": "college|institution",
+    "sound": null
+  },
+  {
+    "id": 546,
+    "day": 42,
+    "word": "caution",
+    "traduction": "cautela",
+    "class": "substantive",
+    "examples": "Proceed with caution.",
+    "synonyms": "care|prudence",
+    "sound": null
+  }
+]

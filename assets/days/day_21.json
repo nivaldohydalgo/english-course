@@ -1,0 +1,132 @@
+[
+  {
+    "id": 261,
+    "day": 21,
+    "word": "change",
+    "traduction": "mudar",
+    "class": "verb",
+    "examples": "Change your clothes.",
+    "synonyms": "alter|switch",
+    "sound": null
+  },
+  {
+    "id": 262,
+    "day": 21,
+    "word": "take off",
+    "traduction": "tirar",
+    "class": "verb",
+    "examples": "Take off your shoes.",
+    "synonyms": "remove|strip",
+    "sound": null
+  },
+  {
+    "id": 263,
+    "day": 21,
+    "word": "pretty",
+    "traduction": "bonito",
+    "class": "adjective",
+    "examples": "She is pretty.",
+    "synonyms": "lovely|cute",
+    "sound": null
+  },
+  {
+    "id": 264,
+    "day": 21,
+    "word": "ugly",
+    "traduction": "feio",
+    "class": "adjective",
+    "examples": "The building is ugly.",
+    "synonyms": "unattractive|unpleasant",
+    "sound": null
+  },
+  {
+    "id": 265,
+    "day": 21,
+    "word": "eighteen",
+    "traduction": "dezoito",
+    "class": "numeral",
+    "examples": "Eighteen students passed.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 266,
+    "day": 21,
+    "word": "seventeen",
+    "traduction": "dezessete",
+    "class": "numeral",
+    "examples": "Seventeen years old.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 267,
+    "day": 21,
+    "word": "arm",
+    "traduction": "braço",
+    "class": "substantive",
+    "examples": "His arm is strong.",
+    "synonyms": "limb|appendage",
+    "sound": null
+  },
+  {
+    "id": 268,
+    "day": 21,
+    "word": "ear",
+    "traduction": "orelha",
+    "class": "substantive",
+    "examples": "Her ears are small.",
+    "synonyms": "organ|auditory organ",
+    "sound": null
+  },
+  {
+    "id": 269,
+    "day": 21,
+    "word": "hair",
+    "traduction": "cabelo",
+    "class": "substantive",
+    "examples": "Her hair is long.",
+    "synonyms": "locks|strands",
+    "sound": null
+  },
+  {
+    "id": 270,
+    "day": 21,
+    "word": "hand",
+    "traduction": "mão",
+    "class": "substantive",
+    "examples": "Raise your hand.",
+    "synonyms": "palm|fist",
+    "sound": null
+  },
+  {
+    "id": 271,
+    "day": 21,
+    "word": "head",
+    "traduction": "cabeça",
+    "class": "substantive",
+    "examples": "He shakes his head.",
+    "synonyms": "skull|cranium",
+    "sound": null
+  },
+  {
+    "id": 272,
+    "day": 21,
+    "word": "leg",
+    "traduction": "perna",
+    "class": "substantive",
+    "examples": "Her legs are long.",
+    "synonyms": "limb|extremity",
+    "sound": null
+  },
+  {
+    "id": 273,
+    "day": 21,
+    "word": "mouth",
+    "traduction": "boca",
+    "class": "substantive",
+    "examples": "Open your mouth.",
+    "synonyms": "organ|lips",
+    "sound": null
+  }
+]

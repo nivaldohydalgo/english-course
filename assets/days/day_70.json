@@ -1,0 +1,132 @@
+[
+  {
+    "id": 898,
+    "day": 70,
+    "word": "exclude",
+    "traduction": "excluir",
+    "class": "verb",
+    "examples": "Exclude irrelevant data.",
+    "synonyms": "omit|leave out",
+    "sound": null
+  },
+  {
+    "id": 899,
+    "day": 70,
+    "word": "exploit",
+    "traduction": "explorar",
+    "class": "verb",
+    "examples": "They exploit resources.",
+    "synonyms": "use|take advantage",
+    "sound": null
+  },
+  {
+    "id": 900,
+    "day": 70,
+    "word": "expose",
+    "traduction": "expor",
+    "class": "verb",
+    "examples": "Expose the truth.",
+    "synonyms": "reveal|uncover",
+    "sound": null
+  },
+  {
+    "id": 901,
+    "day": 70,
+    "word": "qualitative",
+    "traduction": "qualitativo",
+    "class": "adjective",
+    "examples": "This is a qualitative study.",
+    "synonyms": "descriptive|non-numerical",
+    "sound": null
+  },
+  {
+    "id": 902,
+    "day": 70,
+    "word": "quantitative",
+    "traduction": "quantitativo",
+    "class": "adjective",
+    "examples": "Quantitative data is useful.",
+    "synonyms": "numerical|measurable",
+    "sound": null
+  },
+  {
+    "id": 903,
+    "day": 70,
+    "word": "radical",
+    "traduction": "radical",
+    "class": "adjective",
+    "examples": "They proposed radical changes.",
+    "synonyms": "extreme|fundamental",
+    "sound": null
+  },
+  {
+    "id": 904,
+    "day": 70,
+    "word": "finger",
+    "traduction": "dedo",
+    "class": "substantive",
+    "examples": "She cut her finger.",
+    "synonyms": "digit|appendage",
+    "sound": null
+  },
+  {
+    "id": 905,
+    "day": 70,
+    "word": "life",
+    "traduction": "vida",
+    "class": "substantive",
+    "examples": "Life is beautiful.",
+    "synonyms": "existence|living",
+    "sound": null
+  },
+  {
+    "id": 906,
+    "day": 70,
+    "word": "lip",
+    "traduction": "lábio",
+    "class": "substantive",
+    "examples": "Her lips are red.",
+    "synonyms": "mouth part|edge",
+    "sound": null
+  },
+  {
+    "id": 907,
+    "day": 70,
+    "word": "neck",
+    "traduction": "pescoço",
+    "class": "substantive",
+    "examples": "His neck is short.",
+    "synonyms": "throat|collar",
+    "sound": null
+  },
+  {
+    "id": 908,
+    "day": 70,
+    "word": "shoulder",
+    "traduction": "ombro",
+    "class": "substantive",
+    "examples": "Her shoulder hurts.",
+    "synonyms": "joint|upper limb",
+    "sound": null
+  },
+  {
+    "id": 909,
+    "day": 70,
+    "word": "tongue",
+    "traduction": "língua",
+    "class": "substantive",
+    "examples": "Stick out your tongue.",
+    "synonyms": "organ|muscle",
+    "sound": null
+  },
+  {
+    "id": 910,
+    "day": 70,
+    "word": "tooth",
+    "traduction": "dente",
+    "class": "substantive",
+    "examples": "Brush your teeth.",
+    "synonyms": "molar|incisor",
+    "sound": null
+  }
+]

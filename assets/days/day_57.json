@@ -1,0 +1,132 @@
+[
+  {
+    "id": 729,
+    "day": 57,
+    "word": "compare",
+    "traduction": "comparar",
+    "class": "verb",
+    "examples": "Compare the answers.",
+    "synonyms": "contrast|evaluate",
+    "sound": null
+  },
+  {
+    "id": 730,
+    "day": 57,
+    "word": "once",
+    "traduction": "uma vez",
+    "class": "adverb",
+    "examples": "I went there once.",
+    "synonyms": "one time|single time",
+    "sound": null
+  },
+  {
+    "id": 731,
+    "day": 57,
+    "word": "twice",
+    "traduction": "duas vezes",
+    "class": "adverb",
+    "examples": "I saw him twice.",
+    "synonyms": "two times|double",
+    "sound": null
+  },
+  {
+    "id": 732,
+    "day": 57,
+    "word": "Korean",
+    "traduction": "coreano",
+    "class": "substantive",
+    "examples": "Korean is spoken in Korea.",
+    "synonyms": "language|tongue",
+    "sound": null
+  },
+  {
+    "id": 733,
+    "day": 57,
+    "word": "check-in",
+    "traduction": "check-in",
+    "class": "substantive",
+    "examples": "Check-in at the hotel.",
+    "synonyms": "registration|arrival",
+    "sound": null
+  },
+  {
+    "id": 734,
+    "day": 57,
+    "word": "check-out",
+    "traduction": "check-out",
+    "class": "substantive",
+    "examples": "Check-out at noon.",
+    "synonyms": "departure|exit",
+    "sound": null
+  },
+  {
+    "id": 735,
+    "day": 57,
+    "word": "clothing",
+    "traduction": "vestuário",
+    "class": "substantive",
+    "examples": "Clothing is important.",
+    "synonyms": "apparel|garments",
+    "sound": null
+  },
+  {
+    "id": 736,
+    "day": 57,
+    "word": "dessert",
+    "traduction": "sobremesa",
+    "class": "substantive",
+    "examples": "Dessert is sweet.",
+    "synonyms": "pudding|treat",
+    "sound": null
+  },
+  {
+    "id": 737,
+    "day": 57,
+    "word": "pattern",
+    "traduction": "padrão",
+    "class": "substantive",
+    "examples": "The shirt has a pattern.",
+    "synonyms": "design|motif",
+    "sound": null
+  },
+  {
+    "id": 738,
+    "day": 57,
+    "word": "reservation",
+    "traduction": "reserva",
+    "class": "substantive",
+    "examples": "Make a reservation.",
+    "synonyms": "booking|appointment",
+    "sound": null
+  },
+  {
+    "id": 739,
+    "day": 57,
+    "word": "style",
+    "traduction": "estilo",
+    "class": "substantive",
+    "examples": "Her style is unique.",
+    "synonyms": "fashion|manner",
+    "sound": null
+  },
+  {
+    "id": 740,
+    "day": 57,
+    "word": "uniform",
+    "traduction": "uniforme",
+    "class": "substantive",
+    "examples": "Students wear a uniform.",
+    "synonyms": "outfit|attire",
+    "sound": null
+  },
+  {
+    "id": 741,
+    "day": 57,
+    "word": "dawn",
+    "traduction": "amanhecer",
+    "class": "substantive",
+    "examples": null,
+    "synonyms": null,
+    "sound": null
+  }
+]

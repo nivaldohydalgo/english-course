@@ -1,0 +1,132 @@
+[
+  {
+    "id": 27,
+    "day": 3,
+    "word": "buy",
+    "traduction": "comprar",
+    "class": "verb",
+    "examples": "She buys clothes online.",
+    "synonyms": "purchase|acquire",
+    "sound": null
+  },
+  {
+    "id": 28,
+    "day": 3,
+    "word": "listen",
+    "traduction": "ouvir",
+    "class": "verb",
+    "examples": "Listen to your teacher.",
+    "synonyms": "hear|attend",
+    "sound": null
+  },
+  {
+    "id": 29,
+    "day": 3,
+    "word": "cold",
+    "traduction": "frio",
+    "class": "adjective",
+    "examples": "It is very cold outside.",
+    "synonyms": "chilly|freezing",
+    "sound": null
+  },
+  {
+    "id": 30,
+    "day": 3,
+    "word": "hot",
+    "traduction": "quente",
+    "class": "adjective",
+    "examples": "The soup is hot.",
+    "synonyms": "warm|heated",
+    "sound": null
+  },
+  {
+    "id": 31,
+    "day": 3,
+    "word": "few",
+    "traduction": "poucos",
+    "class": "adjective",
+    "examples": "Few cars are on the road.",
+    "synonyms": "several|a handful",
+    "sound": null
+  },
+  {
+    "id": 32,
+    "day": 3,
+    "word": "many",
+    "traduction": "muitos",
+    "class": "adjective|pronoun",
+    "examples": "Many people are here.",
+    "synonyms": "numerous|plenty",
+    "sound": null
+  },
+  {
+    "id": 33,
+    "day": 3,
+    "word": "computer",
+    "traduction": "computador",
+    "class": "substantive",
+    "examples": "The computer is new.",
+    "synonyms": "PC|machine",
+    "sound": null
+  },
+  {
+    "id": 34,
+    "day": 3,
+    "word": "food",
+    "traduction": "comida",
+    "class": "substantive",
+    "examples": "We need to buy food.",
+    "synonyms": "meal|nourishment",
+    "sound": null
+  },
+  {
+    "id": 35,
+    "day": 3,
+    "word": "letter",
+    "traduction": "carta",
+    "class": "substantive",
+    "examples": "She received a letter.",
+    "synonyms": "note|message",
+    "sound": null
+  },
+  {
+    "id": 36,
+    "day": 3,
+    "word": "music",
+    "traduction": "música",
+    "class": "substantive",
+    "examples": "I love listening to music.",
+    "synonyms": "melody|tune",
+    "sound": null
+  },
+  {
+    "id": 37,
+    "day": 3,
+    "word": "paper",
+    "traduction": "papel",
+    "class": "substantive",
+    "examples": "Write on the paper.",
+    "synonyms": "sheet|document",
+    "sound": null
+  },
+  {
+    "id": 38,
+    "day": 3,
+    "word": "pen",
+    "traduction": "caneta",
+    "class": "substantive",
+    "examples": "I need a pen.",
+    "synonyms": "ballpoint|marker",
+    "sound": null
+  },
+  {
+    "id": 39,
+    "day": 3,
+    "word": "song",
+    "traduction": "canção",
+    "class": "substantive",
+    "examples": "That song is beautiful.",
+    "synonyms": "track|melody",
+    "sound": null
+  }
+]

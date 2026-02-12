@@ -1,0 +1,132 @@
+[
+  {
+    "id": 521,
+    "day": 41,
+    "word": "save",
+    "traduction": "economizar",
+    "class": "verb",
+    "examples": "Save money for the trip.",
+    "synonyms": "store|reserve",
+    "sound": null
+  },
+  {
+    "id": 522,
+    "day": 41,
+    "word": "spend",
+    "traduction": "gastar",
+    "class": "verb",
+    "examples": "Don‚Äôt spend too much.",
+    "synonyms": "use|consume",
+    "sound": null
+  },
+  {
+    "id": 523,
+    "day": 41,
+    "word": "excited",
+    "traduction": "animado",
+    "class": "adjective",
+    "examples": "She is excited.",
+    "synonyms": "thrilled|enthusiastic",
+    "sound": null
+  },
+  {
+    "id": 524,
+    "day": 41,
+    "word": "surprised",
+    "traduction": "surpreso",
+    "class": "adjective",
+    "examples": "I am surprised.",
+    "synonyms": "astonished|amazed",
+    "sound": null
+  },
+  {
+    "id": 525,
+    "day": 41,
+    "word": "rule",
+    "traduction": "regra",
+    "class": "substantive",
+    "examples": "Follow the rules.",
+    "synonyms": "guideline|regulation",
+    "sound": null
+  },
+  {
+    "id": 526,
+    "day": 41,
+    "word": "boss",
+    "traduction": "chefe",
+    "class": "substantive",
+    "examples": "The boss is strict.",
+    "synonyms": "manager|supervisor",
+    "sound": null
+  },
+  {
+    "id": 527,
+    "day": 41,
+    "word": "card",
+    "traduction": "cartão",
+    "class": "substantive",
+    "examples": "Use a card to pay.",
+    "synonyms": "credit card|debit card",
+    "sound": null
+  },
+  {
+    "id": 528,
+    "day": 41,
+    "word": "cost",
+    "traduction": "custo",
+    "class": "substantive",
+    "examples": "The cost is high.",
+    "synonyms": "price|expense",
+    "sound": null
+  },
+  {
+    "id": 529,
+    "day": 41,
+    "word": "group",
+    "traduction": "grupo",
+    "class": "substantive",
+    "examples": "The group is large.",
+    "synonyms": "assembly|bunch",
+    "sound": null
+  },
+  {
+    "id": 530,
+    "day": 41,
+    "word": "machine",
+    "traduction": "máquina",
+    "class": "substantive",
+    "examples": "The machine is broken.",
+    "synonyms": "device|engine",
+    "sound": null
+  },
+  {
+    "id": 531,
+    "day": 41,
+    "word": "team",
+    "traduction": "time",
+    "class": "substantive",
+    "examples": "The team won the game.",
+    "synonyms": "group|squad",
+    "sound": null
+  },
+  {
+    "id": 532,
+    "day": 41,
+    "word": "tool",
+    "traduction": "ferramenta",
+    "class": "substantive",
+    "examples": "Use this tool.",
+    "synonyms": "instrument|implement",
+    "sound": null
+  },
+  {
+    "id": 533,
+    "day": 41,
+    "word": "worker",
+    "traduction": "trabalhador",
+    "class": "substantive",
+    "examples": "The worker is tired.",
+    "synonyms": "employee|laborer",
+    "sound": null
+  }
+]

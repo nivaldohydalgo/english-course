@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1145,
+    "day": 89,
+    "word": "acquaint",
+    "traduction": "familiarizar-se",
+    "class": "verb",
+    "examples": "Acquaint yourself with the rules.",
+    "synonyms": "inform|familiarize",
+    "sound": null
+  },
+  {
+    "id": 1146,
+    "day": 89,
+    "word": "adhere",
+    "traduction": "aderir",
+    "class": "verb",
+    "examples": "Adhere to the policy.",
+    "synonyms": "follow|comply",
+    "sound": null
+  },
+  {
+    "id": 1147,
+    "day": 89,
+    "word": "adjust",
+    "traduction": "ajustar",
+    "class": "verb",
+    "examples": "Adjust the settings.",
+    "synonyms": "modify|adapt",
+    "sound": null
+  },
+  {
+    "id": 1148,
+    "day": 89,
+    "word": "exhaustive",
+    "traduction": "exaustivo",
+    "class": "adjective",
+    "examples": "The report is exhaustive.",
+    "synonyms": "comprehensive|thorough",
+    "sound": null
+  },
+  {
+    "id": 1149,
+    "day": 89,
+    "word": "formidable",
+    "traduction": "formidável",
+    "class": "adjective",
+    "examples": "The task is formidable.",
+    "synonyms": "challenging|intimidating",
+    "sound": null
+  },
+  {
+    "id": 1150,
+    "day": 89,
+    "word": "grass",
+    "traduction": "grama",
+    "class": "substantive",
+    "examples": "The grass is green.",
+    "synonyms": "lawn|turf",
+    "sound": null
+  },
+  {
+    "id": 1151,
+    "day": 89,
+    "word": "athlete",
+    "traduction": "atleta",
+    "class": "substantive",
+    "examples": "The athlete is strong.",
+    "synonyms": "sportsman|competitor",
+    "sound": null
+  },
+  {
+    "id": 1152,
+    "day": 89,
+    "word": "champion",
+    "traduction": "campeão",
+    "class": "substantive",
+    "examples": "The champion is proud.",
+    "synonyms": "winner|victor",
+    "sound": null
+  },
+  {
+    "id": 1153,
+    "day": 89,
+    "word": "record",
+    "traduction": "recorde",
+    "class": "substantive",
+    "examples": "He broke the record.",
+    "synonyms": "achievement|best",
+    "sound": null
+  },
+  {
+    "id": 1154,
+    "day": 89,
+    "word": "skating",
+    "traduction": "patinação",
+    "class": "substantive",
+    "examples": "Skating is fun.",
+    "synonyms": "sport|ice activity",
+    "sound": null
+  },
+  {
+    "id": 1155,
+    "day": 89,
+    "word": "ski",
+    "traduction": "esqui",
+    "class": "substantive",
+    "examples": "Ski in winter.",
+    "synonyms": "sport|snow activity",
+    "sound": null
+  },
+  {
+    "id": 1156,
+    "day": 89,
+    "word": "surf",
+    "traduction": "surfe",
+    "class": "substantive",
+    "examples": "Surf in the sea.",
+    "synonyms": "sport|wave riding",
+    "sound": null
+  },
+  {
+    "id": 1157,
+    "day": 89,
+    "word": "training",
+    "traduction": "treino",
+    "class": "substantive",
+    "examples": "Training is hard.",
+    "synonyms": "practice|preparation",
+    "sound": null
+  }
+]

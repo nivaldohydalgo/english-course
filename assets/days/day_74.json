@@ -1,0 +1,132 @@
+[
+  {
+    "id": 950,
+    "day": 74,
+    "word": "inhibit",
+    "traduction": "inibir",
+    "class": "verb",
+    "examples": "Fear inhibits progress.",
+    "synonyms": "restrain|hinder",
+    "sound": null
+  },
+  {
+    "id": 951,
+    "day": 74,
+    "word": "initiate",
+    "traduction": "iniciar",
+    "class": "verb",
+    "examples": "Initiate the project.",
+    "synonyms": "start|begin",
+    "sound": null
+  },
+  {
+    "id": 952,
+    "day": 74,
+    "word": "innovate",
+    "traduction": "inovar",
+    "class": "verb",
+    "examples": "They innovate constantly.",
+    "synonyms": "create|invent",
+    "sound": null
+  },
+  {
+    "id": 953,
+    "day": 74,
+    "word": "sufficient",
+    "traduction": "suficiente",
+    "class": "adjective",
+    "examples": "The evidence is sufficient.",
+    "synonyms": "adequate|enough",
+    "sound": null
+  },
+  {
+    "id": 954,
+    "day": 74,
+    "word": "tangible",
+    "traduction": "tangível",
+    "class": "adjective",
+    "examples": "The results are tangible.",
+    "synonyms": "real|concrete",
+    "sound": null
+  },
+  {
+    "id": 955,
+    "day": 74,
+    "word": "transient",
+    "traduction": "transitório",
+    "class": "adjective",
+    "examples": "The effect is transient.",
+    "synonyms": "temporary|short-lived",
+    "sound": null
+  },
+  {
+    "id": 956,
+    "day": 74,
+    "word": "August",
+    "traduction": "agosto",
+    "class": "substantive",
+    "examples": "August is dry.",
+    "synonyms": "month|eighth month",
+    "sound": null
+  },
+  {
+    "id": 957,
+    "day": 74,
+    "word": "July",
+    "traduction": "julho",
+    "class": "substantive",
+    "examples": "July is hot.",
+    "synonyms": "month|seventh month",
+    "sound": null
+  },
+  {
+    "id": 958,
+    "day": 74,
+    "word": "June",
+    "traduction": "junho",
+    "class": "substantive",
+    "examples": "June is sunny.",
+    "synonyms": "month|sixth month",
+    "sound": null
+  },
+  {
+    "id": 959,
+    "day": 74,
+    "word": "May",
+    "traduction": "maio",
+    "class": "substantive",
+    "examples": "May is warm.",
+    "synonyms": "month|fifth month",
+    "sound": null
+  },
+  {
+    "id": 960,
+    "day": 74,
+    "word": "November",
+    "traduction": "novembro",
+    "class": "substantive",
+    "examples": "November is cloudy.",
+    "synonyms": "month|eleventh month",
+    "sound": null
+  },
+  {
+    "id": 961,
+    "day": 74,
+    "word": "October",
+    "traduction": "outubro",
+    "class": "substantive",
+    "examples": "October is spooky.",
+    "synonyms": "month|tenth month",
+    "sound": null
+  },
+  {
+    "id": 962,
+    "day": 74,
+    "word": "September",
+    "traduction": "setembro",
+    "class": "substantive",
+    "examples": "September is cool.",
+    "synonyms": "month|ninth month",
+    "sound": null
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1223,
+    "day": 95,
+    "word": "abundant",
+    "traduction": "abundante",
+    "class": "adjective",
+    "examples": "Resources are abundant in this region.",
+    "synonyms": "plentiful|ample",
+    "sound": null
+  },
+  {
+    "id": 1224,
+    "day": 95,
+    "word": "detract",
+    "traduction": "diminuir",
+    "class": "verb",
+    "examples": "Criticism detracts from his work.",
+    "synonyms": "reduce|lessen",
+    "sound": null
+  },
+  {
+    "id": 1225,
+    "day": 95,
+    "word": "discern",
+    "traduction": "discernir",
+    "class": "verb",
+    "examples": "Discern the difference.",
+    "synonyms": "perceive|distinguish",
+    "sound": null
+  },
+  {
+    "id": 1226,
+    "day": 95,
+    "word": "intuitive",
+    "traduction": "intuitivo",
+    "class": "adjective",
+    "examples": "Her choice was intuitive.",
+    "synonyms": "instinctive|natural",
+    "sound": null
+  },
+  {
+    "id": 1227,
+    "day": 95,
+    "word": "ironic",
+    "traduction": "irônico",
+    "class": "adjective",
+    "examples": "It is ironic.",
+    "synonyms": "sarcastic|paradoxical",
+    "sound": null
+  },
+  {
+    "id": 1228,
+    "day": 95,
+    "word": "beach",
+    "traduction": "praia",
+    "class": "substantive",
+    "examples": "The beach is sandy.",
+    "synonyms": "shore|coast",
+    "sound": null
+  },
+  {
+    "id": 1229,
+    "day": 95,
+    "word": "barley",
+    "traduction": "cevada",
+    "class": "substantive",
+    "examples": "Barley is used in beer.",
+    "synonyms": "grain|cereal",
+    "sound": null
+  },
+  {
+    "id": 1230,
+    "day": 95,
+    "word": "battle",
+    "traduction": "batalha",
+    "class": "substantive",
+    "examples": "The battle was long.",
+    "synonyms": "combat|clash",
+    "sound": null
+  },
+  {
+    "id": 1231,
+    "day": 95,
+    "word": "continent",
+    "traduction": "continente",
+    "class": "substantive",
+    "examples": "Africa is a continent.",
+    "synonyms": "landmass|area",
+    "sound": null
+  },
+  {
+    "id": 1232,
+    "day": 95,
+    "word": "defeat",
+    "traduction": "derrota",
+    "class": "substantive",
+    "examples": "The team faced defeat.",
+    "synonyms": "loss|failure",
+    "sound": null
+  },
+  {
+    "id": 1233,
+    "day": 95,
+    "word": "oats",
+    "traduction": "aveia",
+    "class": "substantive",
+    "examples": "Oats are healthy.",
+    "synonyms": "grain|cereal",
+    "sound": null
+  },
+  {
+    "id": 1234,
+    "day": 95,
+    "word": "region",
+    "traduction": "região",
+    "class": "substantive",
+    "examples": "The region is famous.",
+    "synonyms": "district|territory",
+    "sound": null
+  },
+  {
+    "id": 1235,
+    "day": 95,
+    "word": "universe",
+    "traduction": "universo",
+    "class": "substantive",
+    "examples": "The universe is vast.",
+    "synonyms": "cosmos|creation",
+    "sound": null
+  }
+]

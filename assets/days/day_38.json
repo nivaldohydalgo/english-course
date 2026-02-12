@@ -1,0 +1,132 @@
+[
+  {
+    "id": 482,
+    "day": 38,
+    "word": "run",
+    "traduction": "correr",
+    "class": "verb",
+    "examples": "She runs every morning.",
+    "synonyms": "jog|sprint",
+    "sound": null
+  },
+  {
+    "id": 483,
+    "day": 38,
+    "word": "sell",
+    "traduction": "vender",
+    "class": "verb",
+    "examples": "They sell fruits at the market.",
+    "synonyms": "trade|exchange",
+    "sound": null
+  },
+  {
+    "id": 484,
+    "day": 38,
+    "word": "handsome",
+    "traduction": "bonito (homem)",
+    "class": "adjective",
+    "examples": "He is handsome.",
+    "synonyms": "attractive|good-looking",
+    "sound": null
+  },
+  {
+    "id": 485,
+    "day": 38,
+    "word": "healthy",
+    "traduction": "saudável",
+    "class": "adjective",
+    "examples": "She is healthy.",
+    "synonyms": "fit|well",
+    "sound": null
+  },
+  {
+    "id": 486,
+    "day": 38,
+    "word": "bike",
+    "traduction": "bicicleta",
+    "class": "substantive",
+    "examples": "Ride a bike.",
+    "synonyms": "cycle|bicycle",
+    "sound": null
+  },
+  {
+    "id": 487,
+    "day": 38,
+    "word": "motorcycle",
+    "traduction": "motocicleta",
+    "class": "substantive",
+    "examples": "The motorcycle is fast.",
+    "synonyms": "bike|motorbike",
+    "sound": null
+  },
+  {
+    "id": 488,
+    "day": 38,
+    "word": "program",
+    "traduction": "programa",
+    "class": "substantive",
+    "examples": "Run the program.",
+    "synonyms": "application|software",
+    "sound": null
+  },
+  {
+    "id": 489,
+    "day": 38,
+    "word": "story",
+    "traduction": "história",
+    "class": "substantive",
+    "examples": "The story is funny.",
+    "synonyms": "tale|narrative",
+    "sound": null
+  },
+  {
+    "id": 490,
+    "day": 38,
+    "word": "truck",
+    "traduction": "caminhão",
+    "class": "substantive",
+    "examples": "The truck is heavy.",
+    "synonyms": "lorry|vehicle",
+    "sound": null
+  },
+  {
+    "id": 491,
+    "day": 38,
+    "word": "company",
+    "traduction": "empresa",
+    "class": "substantive",
+    "examples": "The company is growing.",
+    "synonyms": "firm|corporation",
+    "sound": null
+  },
+  {
+    "id": 492,
+    "day": 38,
+    "word": "friendship",
+    "traduction": "amizade",
+    "class": "substantive",
+    "examples": "Their friendship is strong.",
+    "synonyms": "companionship|fellowship",
+    "sound": null
+  },
+  {
+    "id": 493,
+    "day": 38,
+    "word": "language",
+    "traduction": "idioma",
+    "class": "substantive",
+    "examples": "English is a global language.",
+    "synonyms": "tongue|dialect",
+    "sound": null
+  },
+  {
+    "id": 494,
+    "day": 38,
+    "word": "office",
+    "traduction": "escritório",
+    "class": "substantive",
+    "examples": "He works in an office.",
+    "synonyms": "workplace|bureau",
+    "sound": null
+  }
+]

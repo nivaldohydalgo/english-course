@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1002,
+    "day": 78,
+    "word": "obtain",
+    "traduction": "obter",
+    "class": "verb",
+    "examples": "Obtain permission first.",
+    "synonyms": "acquire|get",
+    "sound": null
+  },
+  {
+    "id": 1003,
+    "day": 78,
+    "word": "opt",
+    "traduction": "escolher",
+    "class": "verb",
+    "examples": "He opted for a new plan.",
+    "synonyms": "choose|select",
+    "sound": null
+  },
+  {
+    "id": 1004,
+    "day": 78,
+    "word": "perceive",
+    "traduction": "perceber",
+    "class": "verb",
+    "examples": "We perceive changes.",
+    "synonyms": "notice|observe",
+    "sound": null
+  },
+  {
+    "id": 1005,
+    "day": 78,
+    "word": "advantageous",
+    "traduction": "vantajoso",
+    "class": "adjective",
+    "examples": "This is advantageous.",
+    "synonyms": "beneficial|useful",
+    "sound": null
+  },
+  {
+    "id": 1006,
+    "day": 78,
+    "word": "adverse",
+    "traduction": "adverso",
+    "class": "adjective",
+    "examples": "The weather was adverse.",
+    "synonyms": "unfavorable|harmful",
+    "sound": null
+  },
+  {
+    "id": 1007,
+    "day": 78,
+    "word": "ample",
+    "traduction": "amplo",
+    "class": "adjective",
+    "examples": "There is ample evidence.",
+    "synonyms": "sufficient|abundant",
+    "sound": null
+  },
+  {
+    "id": 1008,
+    "day": 78,
+    "word": "box",
+    "traduction": "caixa",
+    "class": "substantive",
+    "examples": "The box is empty.",
+    "synonyms": "container|case",
+    "sound": null
+  },
+  {
+    "id": 1009,
+    "day": 78,
+    "word": "carpet",
+    "traduction": "tapete",
+    "class": "substantive",
+    "examples": "The carpet is soft.",
+    "synonyms": "rug|mat",
+    "sound": null
+  },
+  {
+    "id": 1010,
+    "day": 78,
+    "word": "curtain",
+    "traduction": "cortina",
+    "class": "substantive",
+    "examples": "Close the curtain.",
+    "synonyms": "drape|cover",
+    "sound": null
+  },
+  {
+    "id": 1011,
+    "day": 78,
+    "word": "drawer",
+    "traduction": "gaveta",
+    "class": "substantive",
+    "examples": "Open the drawer.",
+    "synonyms": "compartment|box",
+    "sound": null
+  },
+  {
+    "id": 1012,
+    "day": 78,
+    "word": "mat",
+    "traduction": "tapete pequeno",
+    "class": "substantive",
+    "examples": "Put the mat at the door.",
+    "synonyms": "rug|pad",
+    "sound": null
+  },
+  {
+    "id": 1013,
+    "day": 78,
+    "word": "pool",
+    "traduction": "piscina",
+    "class": "substantive",
+    "examples": "The pool is clean.",
+    "synonyms": "swimming pool|basin",
+    "sound": null
+  },
+  {
+    "id": 1014,
+    "day": 78,
+    "word": "shelf",
+    "traduction": "prateleira",
+    "class": "substantive",
+    "examples": "Books are on the shelf.",
+    "synonyms": "rack|ledge",
+    "sound": null
+  }
+]

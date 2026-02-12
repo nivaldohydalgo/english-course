@@ -1,0 +1,132 @@
+[
+  {
+    "id": 872,
+    "day": 68,
+    "word": "elaborate",
+    "traduction": "elaborar/detalhar",
+    "class": "verb",
+    "examples": "Elaborate your answer.",
+    "synonyms": "expand|explain",
+    "sound": null
+  },
+  {
+    "id": 873,
+    "day": 68,
+    "word": "emphasize",
+    "traduction": "enfatizar",
+    "class": "verb",
+    "examples": "She emphasized the point.",
+    "synonyms": "highlight|stress",
+    "sound": null
+  },
+  {
+    "id": 874,
+    "day": 68,
+    "word": "enhance",
+    "traduction": "melhorar",
+    "class": "verb",
+    "examples": "Enhance your skills.",
+    "synonyms": "improve|boost",
+    "sound": null
+  },
+  {
+    "id": 875,
+    "day": 68,
+    "word": "pertinent",
+    "traduction": "pertinente",
+    "class": "adjective",
+    "examples": "The question is pertinent.",
+    "synonyms": "relevant|appropriate",
+    "sound": null
+  },
+  {
+    "id": 876,
+    "day": 68,
+    "word": "plausible",
+    "traduction": "plausível",
+    "class": "adjective",
+    "examples": "The theory is plausible.",
+    "synonyms": "reasonable|credible",
+    "sound": null
+  },
+  {
+    "id": 877,
+    "day": 68,
+    "word": "precise",
+    "traduction": "preciso",
+    "class": "adjective",
+    "examples": "Give a precise answer.",
+    "synonyms": "exact|accurate",
+    "sound": null
+  },
+  {
+    "id": 878,
+    "day": 68,
+    "word": "cap",
+    "traduction": "boné",
+    "class": "substantive",
+    "examples": "The cap is green.",
+    "synonyms": "hat|headwear",
+    "sound": null
+  },
+  {
+    "id": 879,
+    "day": 68,
+    "word": "coat",
+    "traduction": "casaco",
+    "class": "substantive",
+    "examples": "The coat is warm.",
+    "synonyms": "jacket|overcoat",
+    "sound": null
+  },
+  {
+    "id": 880,
+    "day": 68,
+    "word": "jacket",
+    "traduction": "jaqueta",
+    "class": "substantive",
+    "examples": "The jacket is new.",
+    "synonyms": "coat|blazer",
+    "sound": null
+  },
+  {
+    "id": 881,
+    "day": 68,
+    "word": "mirror",
+    "traduction": "espelho",
+    "class": "substantive",
+    "examples": "Look in the mirror.",
+    "synonyms": "glass|reflector",
+    "sound": null
+  },
+  {
+    "id": 882,
+    "day": 68,
+    "word": "size",
+    "traduction": "tamanho",
+    "class": "substantive",
+    "examples": "What size is this?",
+    "synonyms": "dimension|measurement",
+    "sound": null
+  },
+  {
+    "id": 883,
+    "day": 68,
+    "word": "sweater",
+    "traduction": "blusa de lã",
+    "class": "substantive",
+    "examples": "The sweater is soft.",
+    "synonyms": "jumper|pullover",
+    "sound": null
+  },
+  {
+    "id": 884,
+    "day": 68,
+    "word": "t-shirt",
+    "traduction": "camiseta",
+    "class": "substantive",
+    "examples": "The t-shirt is white.",
+    "synonyms": "tee|shirt",
+    "sound": null
+  }
+]

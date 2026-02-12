@@ -1,0 +1,132 @@
+[
+  {
+    "id": 469,
+    "day": 37,
+    "word": "cycle",
+    "traduction": "pedalar",
+    "class": "verb",
+    "examples": "Cycle to school.",
+    "synonyms": "bike|ride",
+    "sound": null
+  },
+  {
+    "id": 470,
+    "day": 37,
+    "word": "practice",
+    "traduction": "praticar",
+    "class": "verb",
+    "examples": "Practice every day.",
+    "synonyms": "train|rehearse",
+    "sound": null
+  },
+  {
+    "id": 471,
+    "day": 37,
+    "word": "colorful",
+    "traduction": "colorido",
+    "class": "adjective",
+    "examples": "The painting is colorful.",
+    "synonyms": "vivid|bright",
+    "sound": null
+  },
+  {
+    "id": 472,
+    "day": 37,
+    "word": "poor",
+    "traduction": "pobre",
+    "class": "adjective",
+    "examples": "They are poor.",
+    "synonyms": "needy|destitute",
+    "sound": null
+  },
+  {
+    "id": 473,
+    "day": 37,
+    "word": "to",
+    "traduction": "para",
+    "class": "preposition",
+    "examples": "Go to school.",
+    "synonyms": "toward|into",
+    "sound": null
+  },
+  {
+    "id": 474,
+    "day": 37,
+    "word": "app",
+    "traduction": "aplicativo",
+    "class": "substantive",
+    "examples": "Download the app.",
+    "synonyms": "application|program",
+    "sound": null
+  },
+  {
+    "id": 475,
+    "day": 37,
+    "word": "glove",
+    "traduction": "luva",
+    "class": "substantive",
+    "examples": "Wear a glove.",
+    "synonyms": "mitt|handwear",
+    "sound": null
+  },
+  {
+    "id": 476,
+    "day": 37,
+    "word": "helmet",
+    "traduction": "capacete",
+    "class": "substantive",
+    "examples": "Wear a helmet.",
+    "synonyms": "headgear|protection",
+    "sound": null
+  },
+  {
+    "id": 477,
+    "day": 37,
+    "word": "laptop",
+    "traduction": "notebook",
+    "class": "substantive",
+    "examples": "She bought a laptop.",
+    "synonyms": "portable computer|notebook",
+    "sound": null
+  },
+  {
+    "id": 478,
+    "day": 37,
+    "word": "link",
+    "traduction": "link",
+    "class": "substantive",
+    "examples": "Click the link.",
+    "synonyms": "connection|URL",
+    "sound": null
+  },
+  {
+    "id": 479,
+    "day": 37,
+    "word": "page",
+    "traduction": "página",
+    "class": "substantive",
+    "examples": "Open the page.",
+    "synonyms": "sheet|site",
+    "sound": null
+  },
+  {
+    "id": 480,
+    "day": 37,
+    "word": "shorts",
+    "traduction": "shorts",
+    "class": "substantive",
+    "examples": "Wear shorts.",
+    "synonyms": "trousers|pants",
+    "sound": null
+  },
+  {
+    "id": 481,
+    "day": 37,
+    "word": "smartphone",
+    "traduction": "smartphone",
+    "class": "substantive",
+    "examples": "Smartphones are popular.",
+    "synonyms": "mobile|cell phone",
+    "sound": null
+  }
+]

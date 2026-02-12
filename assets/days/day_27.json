@@ -1,0 +1,132 @@
+[
+  {
+    "id": 339,
+    "day": 27,
+    "word": "born",
+    "traduction": "nascer",
+    "class": "verb",
+    "examples": "She was born in May.",
+    "synonyms": "come into life|originate",
+    "sound": null
+  },
+  {
+    "id": 340,
+    "day": 27,
+    "word": "live",
+    "traduction": "viver",
+    "class": "verb",
+    "examples": "We live in Brazil.",
+    "synonyms": "reside|exist",
+    "sound": null
+  },
+  {
+    "id": 341,
+    "day": 27,
+    "word": "angry",
+    "traduction": "zangado",
+    "class": "adjective",
+    "examples": "She is angry.",
+    "synonyms": "mad|furious",
+    "sound": null
+  },
+  {
+    "id": 342,
+    "day": 27,
+    "word": "sad",
+    "traduction": "triste",
+    "class": "adjective",
+    "examples": "He is sad.",
+    "synonyms": "unhappy|sorrowful",
+    "sound": null
+  },
+  {
+    "id": 343,
+    "day": 27,
+    "word": "thousand",
+    "traduction": "mil",
+    "class": "numeral",
+    "examples": "One thousand people.",
+    "synonyms": "number|multitude",
+    "sound": null
+  },
+  {
+    "id": 344,
+    "day": 27,
+    "word": "in",
+    "traduction": "dentro",
+    "class": "preposition",
+    "examples": "The book is in the bag.",
+    "synonyms": "inside|within",
+    "sound": null
+  },
+  {
+    "id": 345,
+    "day": 27,
+    "word": "aunt",
+    "traduction": "tia",
+    "class": "substantive",
+    "examples": "Her aunt is kind.",
+    "synonyms": "relative|kin",
+    "sound": null
+  },
+  {
+    "id": 346,
+    "day": 27,
+    "word": "bedroom",
+    "traduction": "quarto",
+    "class": "substantive",
+    "examples": "The bedroom is cozy.",
+    "synonyms": "chamber|sleeping room",
+    "sound": null
+  },
+  {
+    "id": 347,
+    "day": 27,
+    "word": "cousin",
+    "traduction": "primo/prima",
+    "class": "substantive",
+    "examples": "My cousin is friendly.",
+    "synonyms": "relative|kin",
+    "sound": null
+  },
+  {
+    "id": 348,
+    "day": 27,
+    "word": "grandparents",
+    "traduction": "avós",
+    "class": "substantive",
+    "examples": "My grandparents live nearby.",
+    "synonyms": "elders|ancestors",
+    "sound": null
+  },
+  {
+    "id": 349,
+    "day": 27,
+    "word": "home",
+    "traduction": "lar",
+    "class": "substantive",
+    "examples": "Home is where I live.",
+    "synonyms": "house|residence",
+    "sound": null
+  },
+  {
+    "id": 350,
+    "day": 27,
+    "word": "living room",
+    "traduction": "sala de estar",
+    "class": "substantive",
+    "examples": "We sit in the living room.",
+    "synonyms": "lounge|parlor",
+    "sound": null
+  },
+  {
+    "id": 351,
+    "day": 27,
+    "word": "uncle",
+    "traduction": "tio",
+    "class": "substantive",
+    "examples": "My uncle is funny.",
+    "synonyms": "relative|kin",
+    "sound": null
+  }
+]

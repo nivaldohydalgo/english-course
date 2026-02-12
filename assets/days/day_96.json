@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1236,
+    "day": 96,
+    "word": "ambiguous",
+    "traduction": "ambíguo",
+    "class": "adjective",
+    "examples": "The text is ambiguous.",
+    "synonyms": "unclear|vague",
+    "sound": null
+  },
+  {
+    "id": 1237,
+    "day": 96,
+    "word": "enlighten",
+    "traduction": "esclarecer",
+    "class": "verb",
+    "examples": "Enlighten the audience.",
+    "synonyms": "inform|educate",
+    "sound": null
+  },
+  {
+    "id": 1238,
+    "day": 96,
+    "word": "entail",
+    "traduction": "implicar",
+    "class": "verb",
+    "examples": "The job entails travel.",
+    "synonyms": "involve|require",
+    "sound": null
+  },
+  {
+    "id": 1239,
+    "day": 96,
+    "word": "judicious",
+    "traduction": "judicioso",
+    "class": "adjective",
+    "examples": "Be judicious in spending.",
+    "synonyms": "wise|prudent",
+    "sound": null
+  },
+  {
+    "id": 1240,
+    "day": 96,
+    "word": "lucid",
+    "traduction": "lúcido",
+    "class": "adjective",
+    "examples": "His explanation was lucid.",
+    "synonyms": "clear|intelligible",
+    "sound": null
+  },
+  {
+    "id": 1241,
+    "day": 96,
+    "word": "sand",
+    "traduction": "areia",
+    "class": "substantive",
+    "examples": "The sand is hot.",
+    "synonyms": "grains|particles",
+    "sound": null
+  },
+  {
+    "id": 1242,
+    "day": 96,
+    "word": "century",
+    "traduction": " século",
+    "class": "substantive",
+    "examples": "The 21st century is modern.",
+    "synonyms": "era|hundred years",
+    "sound": null
+  },
+  {
+    "id": 1243,
+    "day": 96,
+    "word": "decade",
+    "traduction": "década",
+    "class": "substantive",
+    "examples": "The decade is ending.",
+    "synonyms": "ten years|period",
+    "sound": null
+  },
+  {
+    "id": 1244,
+    "day": 96,
+    "word": "disease",
+    "traduction": "doença",
+    "class": "substantive",
+    "examples": "The disease is dangerous.",
+    "synonyms": "illness|sickness",
+    "sound": null
+  },
+  {
+    "id": 1245,
+    "day": 96,
+    "word": "fashion",
+    "traduction": "moda",
+    "class": "substantive",
+    "examples": "Fashion changes quickly.",
+    "synonyms": "style|trend",
+    "sound": null
+  },
+  {
+    "id": 1246,
+    "day": 96,
+    "word": "hippopotamus",
+    "traduction": "hipopótamo",
+    "class": "substantive",
+    "examples": "The hippopotamus lives in rivers.",
+    "synonyms": "mammal|hippo",
+    "sound": null
+  },
+  {
+    "id": 1247,
+    "day": 96,
+    "word": "millennium",
+    "traduction": "milênio",
+    "class": "substantive",
+    "examples": "A millennium is 1000 years.",
+    "synonyms": "era|thousand years",
+    "sound": null
+  },
+  {
+    "id": 1248,
+    "day": 96,
+    "word": "relationship",
+    "traduction": "relacionamento",
+    "class": "substantive",
+    "examples": "Their relationship is strong.",
+    "synonyms": "connection|bond",
+    "sound": null
+  }
+]

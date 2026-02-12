@@ -1,0 +1,132 @@
+[
+  {
+    "id": 547,
+    "day": 43,
+    "word": "forget",
+    "traduction": "esquecer",
+    "class": "verb",
+    "examples": "Don‚Äôt forget your homework.",
+    "synonyms": "omit|neglect",
+    "sound": null
+  },
+  {
+    "id": 548,
+    "day": 43,
+    "word": "previous",
+    "traduction": "anterior",
+    "class": "adjective",
+    "examples": "The previous lesson was easy.",
+    "synonyms": "earlier|former",
+    "sound": null
+  },
+  {
+    "id": 549,
+    "day": 43,
+    "word": "similar",
+    "traduction": "similar",
+    "class": "adjective",
+    "examples": "The houses are similar.",
+    "synonyms": "alike|comparable",
+    "sound": null
+  },
+  {
+    "id": 550,
+    "day": 43,
+    "word": "while",
+    "traduction": "enquanto",
+    "class": "conjunction",
+    "examples": "She sang while cooking.",
+    "synonyms": "as|during",
+    "sound": null
+  },
+  {
+    "id": 551,
+    "day": 43,
+    "word": "blood",
+    "traduction": "sangue",
+    "class": "substantive",
+    "examples": "Blood is red.",
+    "synonyms": "fluid|plasma",
+    "sound": null
+  },
+  {
+    "id": 552,
+    "day": 43,
+    "word": "brain",
+    "traduction": "cérebro",
+    "class": "substantive",
+    "examples": "The brain is complex.",
+    "synonyms": "mind|intellect",
+    "sound": null
+  },
+  {
+    "id": 553,
+    "day": 43,
+    "word": "crowd",
+    "traduction": "multidão",
+    "class": "substantive",
+    "examples": "The crowd is cheering.",
+    "synonyms": "audience|gathering",
+    "sound": null
+  },
+  {
+    "id": 554,
+    "day": 43,
+    "word": "health",
+    "traduction": "saúde",
+    "class": "substantive",
+    "examples": "Health is important.",
+    "synonyms": "wellness|fitness",
+    "sound": null
+  },
+  {
+    "id": 555,
+    "day": 43,
+    "word": "medicine",
+    "traduction": "remédio",
+    "class": "substantive",
+    "examples": "Take your medicine.",
+    "synonyms": "drug|treatment",
+    "sound": null
+  },
+  {
+    "id": 556,
+    "day": 43,
+    "word": "noise",
+    "traduction": "ruído",
+    "class": "substantive",
+    "examples": "The noise is disturbing.",
+    "synonyms": "din|racket",
+    "sound": null
+  },
+  {
+    "id": 557,
+    "day": 43,
+    "word": "pill",
+    "traduction": "pílula",
+    "class": "substantive",
+    "examples": "Take a pill.",
+    "synonyms": "tablet|capsule",
+    "sound": null
+  },
+  {
+    "id": 558,
+    "day": 43,
+    "word": "silence",
+    "traduction": "silêncio",
+    "class": "substantive",
+    "examples": "Silence is important.",
+    "synonyms": "quiet|hush",
+    "sound": null
+  },
+  {
+    "id": 559,
+    "day": 43,
+    "word": "competence",
+    "traduction": "competência",
+    "class": "substantive",
+    "examples": "She showed competence.",
+    "synonyms": "ability|skill",
+    "sound": null
+  }
+]

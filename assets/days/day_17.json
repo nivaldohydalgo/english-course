@@ -1,0 +1,132 @@
+[
+  {
+    "id": 209,
+    "day": 17,
+    "word": "say",
+    "traduction": "dizer",
+    "class": "verb",
+    "examples": "Say hello.",
+    "synonyms": "speak|utter",
+    "sound": null
+  },
+  {
+    "id": 210,
+    "day": 17,
+    "word": "talk",
+    "traduction": "conversar",
+    "class": "verb",
+    "examples": null,
+    "synonyms": "chat|discuss",
+    "sound": null
+  },
+  {
+    "id": 211,
+    "day": 17,
+    "word": "green",
+    "traduction": "verde",
+    "class": "adjective",
+    "examples": "The grass is green.",
+    "synonyms": "emerald|olive",
+    "sound": null
+  },
+  {
+    "id": 212,
+    "day": 17,
+    "word": "yellow",
+    "traduction": "amarelo",
+    "class": "adjective",
+    "examples": "The sun is yellow.",
+    "synonyms": "golden|lemon",
+    "sound": null
+  },
+  {
+    "id": 213,
+    "day": 17,
+    "word": "nine",
+    "traduction": "nove",
+    "class": "numeral",
+    "examples": "Nine people are waiting.",
+    "synonyms": "nonet|group",
+    "sound": null
+  },
+  {
+    "id": 214,
+    "day": 17,
+    "word": "ten",
+    "traduction": "dez",
+    "class": "numeral",
+    "examples": "Ten fingers on hands.",
+    "synonyms": "decimal|group",
+    "sound": null
+  },
+  {
+    "id": 215,
+    "day": 17,
+    "word": "cup",
+    "traduction": "xícara",
+    "class": "substantive",
+    "examples": "The cup is full.",
+    "synonyms": "mug|glass",
+    "sound": null
+  },
+  {
+    "id": 216,
+    "day": 17,
+    "word": "dinner",
+    "traduction": "jantar",
+    "class": "substantive",
+    "examples": "Dinner is at night.",
+    "synonyms": "evening meal|supper",
+    "sound": null
+  },
+  {
+    "id": 217,
+    "day": 17,
+    "word": "fork",
+    "traduction": "garfo",
+    "class": "substantive",
+    "examples": "Use a fork to eat.",
+    "synonyms": "utensil|prong",
+    "sound": null
+  },
+  {
+    "id": 218,
+    "day": 17,
+    "word": "glass",
+    "traduction": "copo",
+    "class": "substantive",
+    "examples": "The glass is empty.",
+    "synonyms": "tumbler|goblet",
+    "sound": null
+  },
+  {
+    "id": 219,
+    "day": 17,
+    "word": "knife",
+    "traduction": "faca",
+    "class": "substantive",
+    "examples": "Cut with a knife.",
+    "synonyms": "blade|cutter",
+    "sound": null
+  },
+  {
+    "id": 220,
+    "day": 17,
+    "word": "meal",
+    "traduction": "refeição",
+    "class": "substantive",
+    "examples": "This meal is delicious.",
+    "synonyms": "repast|dish",
+    "sound": null
+  },
+  {
+    "id": 221,
+    "day": 17,
+    "word": "plate",
+    "traduction": "prato",
+    "class": "substantive",
+    "examples": "The plate is clean.",
+    "synonyms": "dish|platter",
+    "sound": null
+  }
+]

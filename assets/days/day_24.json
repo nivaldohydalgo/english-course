@@ -1,0 +1,132 @@
+[
+  {
+    "id": 300,
+    "day": 24,
+    "word": "do",
+    "traduction": "fazer",
+    "class": "verb",
+    "examples": "Do your homework.",
+    "synonyms": "perform|complete",
+    "sound": null
+  },
+  {
+    "id": 301,
+    "day": 24,
+    "word": "move",
+    "traduction": "mover",
+    "class": "verb",
+    "examples": "Move the chair.",
+    "synonyms": "shift|relocate",
+    "sound": null
+  },
+  {
+    "id": 302,
+    "day": 24,
+    "word": "medium",
+    "traduction": "médio",
+    "class": "adjective",
+    "examples": "I wear a medium size.",
+    "synonyms": "average|middle",
+    "sound": null
+  },
+  {
+    "id": 303,
+    "day": 24,
+    "word": "young",
+    "traduction": "jovem",
+    "class": "adjective",
+    "examples": "She is young.",
+    "synonyms": "teenage|youthful",
+    "sound": null
+  },
+  {
+    "id": 304,
+    "day": 24,
+    "word": "fifty",
+    "traduction": "cinquenta",
+    "class": "numeral",
+    "examples": "Fifty cars in parking.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 305,
+    "day": 24,
+    "word": "sixty",
+    "traduction": "sessenta",
+    "class": "numeral",
+    "examples": "Sixty minutes in an hour.",
+    "synonyms": "number|group",
+    "sound": null
+  },
+  {
+    "id": 306,
+    "day": 24,
+    "word": "earth",
+    "traduction": "terra",
+    "class": "substantive",
+    "examples": "The earth is round.",
+    "synonyms": "planet|globe",
+    "sound": null
+  },
+  {
+    "id": 307,
+    "day": 24,
+    "word": "email",
+    "traduction": "email",
+    "class": "substantive",
+    "examples": "Send me an email.",
+    "synonyms": "message|mail",
+    "sound": null
+  },
+  {
+    "id": 308,
+    "day": 24,
+    "word": "internet",
+    "traduction": "internet",
+    "class": "substantive",
+    "examples": "The internet is fast.",
+    "synonyms": "web|network",
+    "sound": null
+  },
+  {
+    "id": 309,
+    "day": 24,
+    "word": "map",
+    "traduction": "mapa",
+    "class": "substantive",
+    "examples": "Look at the map.",
+    "synonyms": "chart|plan",
+    "sound": null
+  },
+  {
+    "id": 310,
+    "day": 24,
+    "word": "message",
+    "traduction": "mensagem",
+    "class": "substantive",
+    "examples": "I sent a message.",
+    "synonyms": "note|communication",
+    "sound": null
+  },
+  {
+    "id": 311,
+    "day": 24,
+    "word": "town",
+    "traduction": "cidade pequena",
+    "class": "substantive",
+    "examples": "The town is quiet.",
+    "synonyms": "village|borough",
+    "sound": null
+  },
+  {
+    "id": 312,
+    "day": 24,
+    "word": "village",
+    "traduction": "vila",
+    "class": "substantive",
+    "examples": "The village is small.",
+    "synonyms": "hamlet|settlement",
+    "sound": null
+  }
+]

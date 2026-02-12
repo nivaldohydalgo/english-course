@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1184,
+    "day": 92,
+    "word": "collaborate",
+    "traduction": "colaborar",
+    "class": "verb",
+    "examples": "They collaborate on projects.",
+    "synonyms": "cooperate|work together",
+    "sound": null
+  },
+  {
+    "id": 1185,
+    "day": 92,
+    "word": "commend",
+    "traduction": "elogiar",
+    "class": "verb",
+    "examples": "Commend his effort.",
+    "synonyms": "praise|applaud",
+    "sound": null
+  },
+  {
+    "id": 1186,
+    "day": 92,
+    "word": "concede",
+    "traduction": "conceder",
+    "class": "verb",
+    "examples": "He conceded defeat.",
+    "synonyms": "admit|yield",
+    "sound": null
+  },
+  {
+    "id": 1187,
+    "day": 92,
+    "word": "illustrative",
+    "traduction": "ilustrativo",
+    "class": "adjective",
+    "examples": "This example is illustrative.",
+    "synonyms": "explanatory|demonstrative",
+    "sound": null
+  },
+  {
+    "id": 1188,
+    "day": 92,
+    "word": "imminent",
+    "traduction": "iminente",
+    "class": "adjective",
+    "examples": "Danger is imminent.",
+    "synonyms": "approaching|near",
+    "sound": null
+  },
+  {
+    "id": 1189,
+    "day": 92,
+    "word": "lake",
+    "traduction": "lago",
+    "class": "substantive",
+    "examples": "The lake is deep.",
+    "synonyms": "pond|reservoir",
+    "sound": null
+  },
+  {
+    "id": 1190,
+    "day": 92,
+    "word": "algebra",
+    "traduction": "álgebra",
+    "class": "substantive",
+    "examples": "Algebra uses symbols.",
+    "synonyms": "equations|mathematics",
+    "sound": null
+  },
+  {
+    "id": 1191,
+    "day": 92,
+    "word": "chemistry",
+    "traduction": "química",
+    "class": "substantive",
+    "examples": "Chemistry is complex.",
+    "synonyms": "science|reactions",
+    "sound": null
+  },
+  {
+    "id": 1192,
+    "day": 92,
+    "word": "debt",
+    "traduction": "dívida",
+    "class": "substantive",
+    "examples": "He is in debt.",
+    "synonyms": "liability|obligation",
+    "sound": null
+  },
+  {
+    "id": 1193,
+    "day": 92,
+    "word": "factory",
+    "traduction": "fábrica",
+    "class": "substantive",
+    "examples": "The factory is big.",
+    "synonyms": "plant|mill",
+    "sound": null
+  },
+  {
+    "id": 1194,
+    "day": 92,
+    "word": "geometry",
+    "traduction": "geometria",
+    "class": "substantive",
+    "examples": "Geometry studies shapes.",
+    "synonyms": "math|figures",
+    "sound": null
+  },
+  {
+    "id": 1195,
+    "day": 92,
+    "word": "manager",
+    "traduction": "gerente",
+    "class": "substantive",
+    "examples": "The manager is helpful.",
+    "synonyms": "administrator|director",
+    "sound": null
+  },
+  {
+    "id": 1196,
+    "day": 92,
+    "word": "physics",
+    "traduction": "física",
+    "class": "substantive",
+    "examples": "Physics explains motion.",
+    "synonyms": "mechanics|science",
+    "sound": null
+  }
+]

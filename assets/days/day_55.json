@@ -1,0 +1,132 @@
+[
+  {
+    "id": 703,
+    "day": 55,
+    "word": "multiply",
+    "traduction": "multiplicar",
+    "class": "verb",
+    "examples": "Multiply two by three.",
+    "synonyms": "times|product",
+    "sound": null
+  },
+  {
+    "id": 704,
+    "day": 55,
+    "word": "inside",
+    "traduction": "dentro",
+    "class": "adverb",
+    "examples": "The cat is inside.",
+    "synonyms": "within|indoors",
+    "sound": null
+  },
+  {
+    "id": 705,
+    "day": 55,
+    "word": "outside",
+    "traduction": "fora",
+    "class": "adverb",
+    "examples": "The dog is outside.",
+    "synonyms": "outdoors|beyond",
+    "sound": null
+  },
+  {
+    "id": 706,
+    "day": 55,
+    "word": "Chinese",
+    "traduction": "chines",
+    "class": "substantive",
+    "examples": "Chinese is spoken in China.",
+    "synonyms": "Mandarin|language",
+    "sound": null
+  },
+  {
+    "id": 707,
+    "day": 55,
+    "word": "branch",
+    "traduction": "ramo",
+    "class": "substantive",
+    "examples": "The branch is broken.",
+    "synonyms": "limb|bough",
+    "sound": null
+  },
+  {
+    "id": 708,
+    "day": 55,
+    "word": "flight",
+    "traduction": "voo",
+    "class": "substantive",
+    "examples": "The flight is delayed.",
+    "synonyms": "journey|trip",
+    "sound": null
+  },
+  {
+    "id": 709,
+    "day": 55,
+    "word": "harvest",
+    "traduction": "colheita",
+    "class": "substantive",
+    "examples": "The harvest is good.",
+    "synonyms": "yield|crop",
+    "sound": null
+  },
+  {
+    "id": 710,
+    "day": 55,
+    "word": "subway",
+    "traduction": "metrô",
+    "class": "substantive",
+    "examples": "The subway is crowded.",
+    "synonyms": "underground|metro",
+    "sound": null
+  },
+  {
+    "id": 711,
+    "day": 55,
+    "word": "tractor",
+    "traduction": "trator",
+    "class": "substantive",
+    "examples": "The tractor is strong.",
+    "synonyms": "machine|vehicle",
+    "sound": null
+  },
+  {
+    "id": 712,
+    "day": 55,
+    "word": "tram",
+    "traduction": "bonde",
+    "class": "substantive",
+    "examples": "The tram is slow.",
+    "synonyms": "streetcar|trolley",
+    "sound": null
+  },
+  {
+    "id": 713,
+    "day": 55,
+    "word": "transport",
+    "traduction": "transporte",
+    "class": "substantive",
+    "examples": "Transport is important.",
+    "synonyms": "conveyance|transit",
+    "sound": null
+  },
+  {
+    "id": 714,
+    "day": 55,
+    "word": "wheat",
+    "traduction": "trigo",
+    "class": "substantive",
+    "examples": "Wheat makes bread.",
+    "synonyms": "grain|cereal",
+    "sound": null
+  },
+  {
+    "id": 715,
+    "day": 55,
+    "word": "daytime",
+    "traduction": "durante o dia",
+    "class": "substantive",
+    "examples": null,
+    "synonyms": null,
+    "sound": null
+  }
+]

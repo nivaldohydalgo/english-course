@@ -1,0 +1,132 @@
+[
+  {
+    "id": 963,
+    "day": 75,
+    "word": "integrate",
+    "traduction": "integrar",
+    "class": "verb",
+    "examples": "Integrate new ideas.",
+    "synonyms": "combine|merge",
+    "sound": null
+  },
+  {
+    "id": 964,
+    "day": 75,
+    "word": "interpret",
+    "traduction": "interpretar",
+    "class": "verb",
+    "examples": "Interpret the data.",
+    "synonyms": "explain|understand",
+    "sound": null
+  },
+  {
+    "id": 965,
+    "day": 75,
+    "word": "intervene",
+    "traduction": "intervir",
+    "class": "verb",
+    "examples": "The teacher intervened.",
+    "synonyms": "mediate|step in",
+    "sound": null
+  },
+  {
+    "id": 966,
+    "day": 75,
+    "word": "transparent",
+    "traduction": "transparente",
+    "class": "adjective",
+    "examples": "The process is transparent.",
+    "synonyms": "clear|open",
+    "sound": null
+  },
+  {
+    "id": 967,
+    "day": 75,
+    "word": "ultimate",
+    "traduction": "final/último",
+    "class": "adjective",
+    "examples": "This is the ultimate goal.",
+    "synonyms": "final|supreme",
+    "sound": null
+  },
+  {
+    "id": 968,
+    "day": 75,
+    "word": "viable",
+    "traduction": "viável",
+    "class": "adjective",
+    "examples": "The plan is viable.",
+    "synonyms": "possible|feasible",
+    "sound": null
+  },
+  {
+    "id": 969,
+    "day": 75,
+    "word": "December",
+    "traduction": "dezembro",
+    "class": "substantive",
+    "examples": "December is cold.",
+    "synonyms": "month|twelfth month",
+    "sound": null
+  },
+  {
+    "id": 970,
+    "day": 75,
+    "word": "height",
+    "traduction": "altura",
+    "class": "substantive",
+    "examples": "The height is tall.",
+    "synonyms": "elevation|stature",
+    "sound": null
+  },
+  {
+    "id": 971,
+    "day": 75,
+    "word": "lot",
+    "traduction": "muito",
+    "class": "substantive",
+    "examples": "A lot of people came.",
+    "synonyms": "plenty|crowd",
+    "sound": null
+  },
+  {
+    "id": 972,
+    "day": 75,
+    "word": "pair",
+    "traduction": "par",
+    "class": "substantive",
+    "examples": "A pair of shoes.",
+    "synonyms": "couple|duo",
+    "sound": null
+  },
+  {
+    "id": 973,
+    "day": 75,
+    "word": "part",
+    "traduction": "parte",
+    "class": "substantive",
+    "examples": "This is part of the plan.",
+    "synonyms": "piece|portion",
+    "sound": null
+  },
+  {
+    "id": 974,
+    "day": 75,
+    "word": "piece",
+    "traduction": "peça",
+    "class": "substantive",
+    "examples": "A piece of cake.",
+    "synonyms": "portion|slice",
+    "sound": null
+  },
+  {
+    "id": 975,
+    "day": 75,
+    "word": "weight",
+    "traduction": "peso",
+    "class": "substantive",
+    "examples": "The weight is heavy.",
+    "synonyms": "mass|load",
+    "sound": null
+  }
+]

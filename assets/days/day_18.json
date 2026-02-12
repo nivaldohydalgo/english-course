@@ -1,0 +1,132 @@
+[
+  {
+    "id": 222,
+    "day": 18,
+    "word": "hear",
+    "traduction": "escutar",
+    "class": "verb",
+    "examples": "I can hear you.",
+    "synonyms": "listen|perceive",
+    "sound": null
+  },
+  {
+    "id": 223,
+    "day": 18,
+    "word": "see",
+    "traduction": "ver",
+    "class": "verb",
+    "examples": "I see the stars.",
+    "synonyms": "observe|notice",
+    "sound": null
+  },
+  {
+    "id": 224,
+    "day": 18,
+    "word": "black",
+    "traduction": "preto",
+    "class": "adjective",
+    "examples": "The cat is black.",
+    "synonyms": "dark|ebony",
+    "sound": null
+  },
+  {
+    "id": 225,
+    "day": 18,
+    "word": "white",
+    "traduction": "branco",
+    "class": "adjective",
+    "examples": "The paper is white.",
+    "synonyms": "pale|ivory",
+    "sound": null
+  },
+  {
+    "id": 226,
+    "day": 18,
+    "word": "eleven",
+    "traduction": "onze",
+    "class": "numeral",
+    "examples": "Eleven players in a team.",
+    "synonyms": "XI|group",
+    "sound": null
+  },
+  {
+    "id": 227,
+    "day": 18,
+    "word": "twelve",
+    "traduction": "doze",
+    "class": "numeral",
+    "examples": "Twelve months in a year.",
+    "synonyms": "dozen|group",
+    "sound": null
+  },
+  {
+    "id": 228,
+    "day": 18,
+    "word": "art",
+    "traduction": "arte",
+    "class": "substantive",
+    "examples": "Art is beautiful.",
+    "synonyms": "craft|creativity",
+    "sound": null
+  },
+  {
+    "id": 229,
+    "day": 18,
+    "word": "class",
+    "traduction": "aula",
+    "class": "substantive",
+    "examples": "The class starts at 9.",
+    "synonyms": "lesson|course",
+    "sound": null
+  },
+  {
+    "id": 230,
+    "day": 18,
+    "word": "dance",
+    "traduction": "dança",
+    "class": "substantive",
+    "examples": "She loves to dance.",
+    "synonyms": "ballet|movement",
+    "sound": null
+  },
+  {
+    "id": 231,
+    "day": 18,
+    "word": "math",
+    "traduction": "matemática",
+    "class": "substantive",
+    "examples": "Math is difficult.",
+    "synonyms": "arithmetic|algebra",
+    "sound": null
+  },
+  {
+    "id": 232,
+    "day": 18,
+    "word": "restaurant",
+    "traduction": "restaurante",
+    "class": "substantive",
+    "examples": "The restaurant is busy.",
+    "synonyms": "eatery|diner",
+    "sound": null
+  },
+  {
+    "id": 233,
+    "day": 18,
+    "word": "spoon",
+    "traduction": "colher",
+    "class": "substantive",
+    "examples": "Stir with a spoon.",
+    "synonyms": "utensil|ladle",
+    "sound": null
+  },
+  {
+    "id": 234,
+    "day": 18,
+    "word": "student",
+    "traduction": "estudante",
+    "class": "substantive",
+    "examples": "The student is reading.",
+    "synonyms": "pupil|learner",
+    "sound": null
+  }
+]

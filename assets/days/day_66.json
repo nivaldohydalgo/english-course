@@ -1,0 +1,132 @@
+[
+  {
+    "id": 846,
+    "day": 66,
+    "word": "denote",
+    "traduction": "denotar",
+    "class": "verb",
+    "examples": "The word denotes importance.",
+    "synonyms": "indicate|signify",
+    "sound": null
+  },
+  {
+    "id": 847,
+    "day": 66,
+    "word": "derive",
+    "traduction": "derivar",
+    "class": "verb",
+    "examples": "We derive meaning from context.",
+    "synonyms": "obtain|extract",
+    "sound": null
+  },
+  {
+    "id": 848,
+    "day": 66,
+    "word": "deviate",
+    "traduction": "desviar",
+    "class": "verb",
+    "examples": "Do not deviate from the plan.",
+    "synonyms": "diverge|stray",
+    "sound": null
+  },
+  {
+    "id": 849,
+    "day": 66,
+    "word": "intense",
+    "traduction": "intenso",
+    "class": "adjective",
+    "examples": "The heat is intense.",
+    "synonyms": "strong|extreme",
+    "sound": null
+  },
+  {
+    "id": 850,
+    "day": 66,
+    "word": "intricate",
+    "traduction": "intrincado",
+    "class": "adjective",
+    "examples": "The design is intricate.",
+    "synonyms": "complex|detailed",
+    "sound": null
+  },
+  {
+    "id": 851,
+    "day": 66,
+    "word": "legitimate",
+    "traduction": "legítimo",
+    "class": "adjective",
+    "examples": "The claim is legitimate.",
+    "synonyms": "valid|lawful",
+    "sound": null
+  },
+  {
+    "id": 852,
+    "day": 66,
+    "word": "east",
+    "traduction": "leste",
+    "class": "substantive",
+    "examples": "The sun rises in the east.",
+    "synonyms": "orient|sunrise side",
+    "sound": null
+  },
+  {
+    "id": 853,
+    "day": 66,
+    "word": "north",
+    "traduction": "norte",
+    "class": "substantive",
+    "examples": "The compass points north.",
+    "synonyms": "upward|polar",
+    "sound": null
+  },
+  {
+    "id": 854,
+    "day": 66,
+    "word": "south",
+    "traduction": "sul",
+    "class": "substantive",
+    "examples": "Brazil is in the south.",
+    "synonyms": "downward|polar",
+    "sound": null
+  },
+  {
+    "id": 855,
+    "day": 66,
+    "word": "suitcase",
+    "traduction": "mala",
+    "class": "substantive",
+    "examples": "The suitcase is full.",
+    "synonyms": "case|luggage",
+    "sound": null
+  },
+  {
+    "id": 856,
+    "day": 66,
+    "word": "ticket",
+    "traduction": "passagem",
+    "class": "substantive",
+    "examples": "Buy a ticket.",
+    "synonyms": "pass|voucher",
+    "sound": null
+  },
+  {
+    "id": 857,
+    "day": 66,
+    "word": "way",
+    "traduction": "caminho",
+    "class": "substantive",
+    "examples": "This is the way.",
+    "synonyms": "route|direction",
+    "sound": null
+  },
+  {
+    "id": 858,
+    "day": 66,
+    "word": "west",
+    "traduction": "oeste",
+    "class": "substantive",
+    "examples": "The sun sets in the west.",
+    "synonyms": "occident|sunset side",
+    "sound": null
+  }
+]

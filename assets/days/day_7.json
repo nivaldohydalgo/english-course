@@ -1,0 +1,132 @@
+[
+  {
+    "id": 79,
+    "day": 7,
+    "word": "pay",
+    "traduction": "pagar",
+    "class": "verb",
+    "examples": "Pay the bill.",
+    "synonyms": "settle|compensate",
+    "sound": null
+  },
+  {
+    "id": 80,
+    "day": 7,
+    "word": "swim",
+    "traduction": "nadar",
+    "class": "verb",
+    "examples": "He swims fast.",
+    "synonyms": "dive|bathe",
+    "sound": null
+  },
+  {
+    "id": 81,
+    "day": 7,
+    "word": "next",
+    "traduction": "próximo",
+    "class": "adjective",
+    "examples": "See you next week.",
+    "synonyms": "following|upcoming",
+    "sound": null
+  },
+  {
+    "id": 82,
+    "day": 7,
+    "word": "other",
+    "traduction": "outro",
+    "class": "adjective",
+    "examples": "I need the other book.",
+    "synonyms": "different|alternative",
+    "sound": null
+  },
+  {
+    "id": 83,
+    "day": 7,
+    "word": "both",
+    "traduction": "ambos",
+    "class": "pronoun",
+    "examples": "Both answers are correct.",
+    "synonyms": "two|pair",
+    "sound": null
+  },
+  {
+    "id": 84,
+    "day": 7,
+    "word": "half",
+    "traduction": "metade",
+    "class": "substantive",
+    "examples": "Half of the cake is gone.",
+    "synonyms": "part|portion",
+    "sound": null
+  },
+  {
+    "id": 85,
+    "day": 7,
+    "word": "bed",
+    "traduction": "cama",
+    "class": "substantive",
+    "examples": "The bed is comfortable.",
+    "synonyms": "cot|mattress",
+    "sound": null
+  },
+  {
+    "id": 86,
+    "day": 7,
+    "word": "chair",
+    "traduction": "cadeira",
+    "class": "substantive",
+    "examples": "Sit on the chair.",
+    "synonyms": "seat|stool",
+    "sound": null
+  },
+  {
+    "id": 87,
+    "day": 7,
+    "word": "door",
+    "traduction": "porta",
+    "class": "substantive",
+    "examples": "Close the door.",
+    "synonyms": "gate|entrance",
+    "sound": null
+  },
+  {
+    "id": 88,
+    "day": 7,
+    "word": "kitchen",
+    "traduction": "cozinha",
+    "class": "substantive",
+    "examples": "The kitchen is modern.",
+    "synonyms": "cookhouse|galley",
+    "sound": null
+  },
+  {
+    "id": 89,
+    "day": 7,
+    "word": "room",
+    "traduction": "quarto",
+    "class": "substantive",
+    "examples": "The room is clean.",
+    "synonyms": "chamber|space",
+    "sound": null
+  },
+  {
+    "id": 90,
+    "day": 7,
+    "word": "table",
+    "traduction": "mesa",
+    "class": "substantive",
+    "examples": "The table is round.",
+    "synonyms": "desk|counter",
+    "sound": null
+  },
+  {
+    "id": 91,
+    "day": 7,
+    "word": "window",
+    "traduction": "janela",
+    "class": "substantive",
+    "examples": "Open the window.",
+    "synonyms": "pane|casement",
+    "sound": null
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 144,
+    "day": 12,
+    "word": "draw",
+    "traduction": "desenhar",
+    "class": "verb",
+    "examples": "Draw a picture.",
+    "synonyms": "sketch|illustrate",
+    "sound": null
+  },
+  {
+    "id": 145,
+    "day": 12,
+    "word": "paint",
+    "traduction": "pintar",
+    "class": "verb",
+    "examples": "Paint the wall.",
+    "synonyms": "color|decorate",
+    "sound": null
+  },
+  {
+    "id": 146,
+    "day": 12,
+    "word": "loud",
+    "traduction": "alto",
+    "class": "adjective",
+    "examples": "The music is loud.",
+    "synonyms": "noisy|booming",
+    "sound": null
+  },
+  {
+    "id": 147,
+    "day": 12,
+    "word": "quiet",
+    "traduction": "silencioso",
+    "class": "adjective",
+    "examples": "The room is quiet.",
+    "synonyms": "silent|calm",
+    "sound": null
+  },
+  {
+    "id": 148,
+    "day": 12,
+    "word": "bye",
+    "traduction": "tchau",
+    "class": "interjection",
+    "examples": "Bye, take care.",
+    "synonyms": "goodbye|see you",
+    "sound": null
+  },
+  {
+    "id": 149,
+    "day": 12,
+    "word": "ok",
+    "traduction": "ok",
+    "class": "interjection",
+    "examples": "Ok, let‚Äôs start.",
+    "synonyms": "alright|fine",
+    "sound": null
+  },
+  {
+    "id": 150,
+    "day": 12,
+    "word": "bird",
+    "traduction": "pássaro",
+    "class": "substantive",
+    "examples": "The bird is flying.",
+    "synonyms": "avian|fowl",
+    "sound": null
+  },
+  {
+    "id": 151,
+    "day": 12,
+    "word": "cat",
+    "traduction": "gato",
+    "class": "substantive",
+    "examples": "The cat is cute.",
+    "synonyms": "feline|kitty",
+    "sound": null
+  },
+  {
+    "id": 152,
+    "day": 12,
+    "word": "cow",
+    "traduction": "vaca",
+    "class": "substantive",
+    "examples": "The cow gives milk.",
+    "synonyms": "cattle|bovine",
+    "sound": null
+  },
+  {
+    "id": 153,
+    "day": 12,
+    "word": "dog",
+    "traduction": "cachorro",
+    "class": "substantive",
+    "examples": "The dog is barking.",
+    "synonyms": "canine|puppy",
+    "sound": null
+  },
+  {
+    "id": 154,
+    "day": 12,
+    "word": "fish",
+    "traduction": "peixe",
+    "class": "substantive",
+    "examples": "The fish swims fast.",
+    "synonyms": "marine creature|aquatic animal",
+    "sound": null
+  },
+  {
+    "id": 155,
+    "day": 12,
+    "word": "horse",
+    "traduction": "cavalo",
+    "class": "substantive",
+    "examples": "The horse runs quickly.",
+    "synonyms": "stallion|pony",
+    "sound": null
+  },
+  {
+    "id": 156,
+    "day": 12,
+    "word": "pig",
+    "traduction": "porco",
+    "class": "substantive",
+    "examples": "The pig is eating.",
+    "synonyms": "swine|hog",
+    "sound": null
+  }
+]

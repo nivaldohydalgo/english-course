@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1275,
+    "day": 99,
+    "word": "authentic",
+    "traduction": "autêntico",
+    "class": "adjective",
+    "examples": "The document is authentic.",
+    "synonyms": "genuine|real",
+    "sound": null
+  },
+  {
+    "id": 1276,
+    "day": 99,
+    "word": "foster",
+    "traduction": "fomentar",
+    "class": "verb",
+    "examples": "Foster innovation.",
+    "synonyms": "encourage|promote",
+    "sound": null
+  },
+  {
+    "id": 1277,
+    "day": 99,
+    "word": "gratify",
+    "traduction": "gratificar",
+    "class": "verb",
+    "examples": "The gift gratified her.",
+    "synonyms": "please|satisfy",
+    "sound": null
+  },
+  {
+    "id": 1278,
+    "day": 99,
+    "word": "obsolete",
+    "traduction": "obsoleto",
+    "class": "adjective",
+    "examples": "The device is obsolete.",
+    "synonyms": "outdated|old",
+    "sound": null
+  },
+  {
+    "id": 1279,
+    "day": 99,
+    "word": "omnipresent",
+    "traduction": "onipresente",
+    "class": "adjective",
+    "examples": "Fear was omnipresent.",
+    "synonyms": "everywhere|pervasive",
+    "sound": null
+  },
+  {
+    "id": 1280,
+    "day": 99,
+    "word": "forest",
+    "traduction": "floresta",
+    "class": "substantive",
+    "examples": "The forest is dark.",
+    "synonyms": "woods|jungle",
+    "sound": null
+  },
+  {
+    "id": 1281,
+    "day": 99,
+    "word": "incentive",
+    "traduction": "incentivo",
+    "class": "substantive",
+    "examples": "They offered an incentive.",
+    "synonyms": "motivation|stimulus",
+    "sound": null
+  },
+  {
+    "id": 1282,
+    "day": 99,
+    "word": "notion",
+    "traduction": "noção",
+    "class": "substantive",
+    "examples": "The notion is outdated.",
+    "synonyms": "idea|concept",
+    "sound": null
+  },
+  {
+    "id": 1283,
+    "day": 99,
+    "word": "omission",
+    "traduction": "omissão",
+    "class": "substantive",
+    "examples": "His omission was noted.",
+    "synonyms": "oversight|exclusion",
+    "sound": null
+  },
+  {
+    "id": 1284,
+    "day": 99,
+    "word": "paradox",
+    "traduction": "paradoxo",
+    "class": "substantive",
+    "examples": "It is a paradox.",
+    "synonyms": "contradiction|puzzle",
+    "sound": null
+  },
+  {
+    "id": 1285,
+    "day": 99,
+    "word": "parameter",
+    "traduction": "parâmetro",
+    "class": "substantive",
+    "examples": "Set the parameters.",
+    "synonyms": "limit|boundary",
+    "sound": null
+  },
+  {
+    "id": 1286,
+    "day": 99,
+    "word": "prospect",
+    "traduction": "prospecto/perspectiva",
+    "class": "substantive",
+    "examples": "The prospect is exciting.",
+    "synonyms": "possibility|outlook",
+    "sound": null
+  },
+  {
+    "id": 1287,
+    "day": 99,
+    "word": "protocol",
+    "traduction": "protocolo",
+    "class": "substantive",
+    "examples": "Follow the protocol.",
+    "synonyms": "procedure|code",
+    "sound": null
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 664,
+    "day": 52,
+    "word": "die",
+    "traduction": "morrer",
+    "class": "verb",
+    "examples": "He died last year.",
+    "synonyms": "pass away|expire",
+    "sound": null
+  },
+  {
+    "id": 665,
+    "day": 52,
+    "word": "before",
+    "traduction": "antes",
+    "class": "adverb",
+    "examples": "Wash your hands before eating.",
+    "synonyms": "prior|earlier",
+    "sound": null
+  },
+  {
+    "id": 666,
+    "day": 52,
+    "word": "late",
+    "traduction": "tarde/Atrasado",
+    "class": "adverb",
+    "examples": "She arrived late.",
+    "synonyms": "delayed|overdue",
+    "sound": null
+  },
+  {
+    "id": 667,
+    "day": 52,
+    "word": "French",
+    "traduction": "francês",
+    "class": "substantive",
+    "examples": "French is spoken in France.",
+    "synonyms": "language|tongue",
+    "sound": null
+  },
+  {
+    "id": 668,
+    "day": 52,
+    "word": "ape",
+    "traduction": "macaco grande",
+    "class": "substantive",
+    "examples": "Apes are intelligent.",
+    "synonyms": "primate|gorilla",
+    "sound": null
+  },
+  {
+    "id": 669,
+    "day": 52,
+    "word": "bear",
+    "traduction": "urso",
+    "class": "substantive",
+    "examples": "The bear is large.",
+    "synonyms": "grizzly|mammal",
+    "sound": null
+  },
+  {
+    "id": 670,
+    "day": 52,
+    "word": "elephant",
+    "traduction": "elefante",
+    "class": "substantive",
+    "examples": "The elephant is huge.",
+    "synonyms": "mammal|pachyderm",
+    "sound": null
+  },
+  {
+    "id": 671,
+    "day": 52,
+    "word": "giraffe",
+    "traduction": "girafa",
+    "class": "substantive",
+    "examples": "The giraffe is tall.",
+    "synonyms": "animal|mammal",
+    "sound": null
+  },
+  {
+    "id": 672,
+    "day": 52,
+    "word": "kangaroo",
+    "traduction": "canguru",
+    "class": "substantive",
+    "examples": "The kangaroo jumps.",
+    "synonyms": "marsupial|joey",
+    "sound": null
+  },
+  {
+    "id": 673,
+    "day": 52,
+    "word": "panda",
+    "traduction": "panda",
+    "class": "substantive",
+    "examples": "The panda eats bamboo.",
+    "synonyms": "bear|mammal",
+    "sound": null
+  },
+  {
+    "id": 674,
+    "day": 52,
+    "word": "tiger",
+    "traduction": "tigre",
+    "class": "substantive",
+    "examples": "The tiger is dangerous.",
+    "synonyms": "big cat|feline",
+    "sound": null
+  },
+  {
+    "id": 675,
+    "day": 52,
+    "word": "zebra",
+    "traduction": "zebra",
+    "class": "substantive",
+    "examples": "The zebra has stripes.",
+    "synonyms": "equid|horse",
+    "sound": null
+  },
+  {
+    "id": 676,
+    "day": 52,
+    "word": "niece",
+    "traduction": "sobrinha",
+    "class": "substantive",
+    "examples": null,
+    "synonyms": null,
+    "sound": null
+  }
+]

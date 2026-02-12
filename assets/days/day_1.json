@@ -1,3 +1,132 @@
 [
-{"id":"1","day":"1","word":"To Want","traduction":"Querer","types":"Verb|Subs","examples":"I want to go now|I want a same water","synonyms":""},{"id":"2","day":"1","word":"To Need","traduction":"Precisar","types":"Verb","examples":"","synonyms":""},{"id":"3","day":"1","word":"I","traduction":"Eu","types":"","examples":"","synonyms":""},{"id":"4","day":"1","word":"You","traduction":"Você","types":"","examples":"","synonyms":""}
+  {
+    "id": 1,
+    "day": 1,
+    "word": "eat",
+    "traduction": "comer",
+    "class": "verb",
+    "examples": "We eat dinner at 7 pm.",
+    "synonyms": "consume|devour",
+    "sound": null
+  },
+  {
+    "id": 2,
+    "day": 1,
+    "word": "work",
+    "traduction": "trabalhar",
+    "class": "verb",
+    "examples": "She works in a hospital.",
+    "synonyms": "labor|operate",
+    "sound": null
+  },
+  {
+    "id": 3,
+    "day": 1,
+    "word": "big",
+    "traduction": "grande",
+    "class": "adjective",
+    "examples": "That is a big dog.",
+    "synonyms": "large|huge",
+    "sound": null
+  },
+  {
+    "id": 4,
+    "day": 1,
+    "word": "happy",
+    "traduction": "feliz",
+    "class": "adjective",
+    "examples": "She is very happy today.",
+    "synonyms": "joyful|glad",
+    "sound": null
+  },
+  {
+    "id": 5,
+    "day": 1,
+    "word": "each",
+    "traduction": "cada",
+    "class": "adjective",
+    "examples": "Each student has a book.",
+    "synonyms": "every|individual",
+    "sound": null
+  },
+  {
+    "id": 6,
+    "day": 1,
+    "word": "every",
+    "traduction": "todo",
+    "class": "adjective",
+    "examples": "Every child needs care.",
+    "synonyms": "all|each",
+    "sound": null
+  },
+  {
+    "id": 7,
+    "day": 1,
+    "word": "book",
+    "traduction": "livro",
+    "class": "substantive",
+    "examples": "I read a book every night.",
+    "synonyms": "volume|publication",
+    "sound": null
+  },
+  {
+    "id": 8,
+    "day": 1,
+    "word": "car",
+    "traduction": "carro",
+    "class": "substantive",
+    "examples": "My car is very old.",
+    "synonyms": "automobile|vehicle",
+    "sound": null
+  },
+  {
+    "id": 9,
+    "day": 1,
+    "word": "child",
+    "traduction": "criança",
+    "class": "substantive",
+    "examples": "The child is playing.",
+    "synonyms": "kid|youngster",
+    "sound": null
+  },
+  {
+    "id": 10,
+    "day": 1,
+    "word": "friend",
+    "traduction": "amigo",
+    "class": "substantive",
+    "examples": "He is my best friend.",
+    "synonyms": "companion|buddy",
+    "sound": null
+  },
+  {
+    "id": 11,
+    "day": 1,
+    "word": "house",
+    "traduction": "casa",
+    "class": "substantive",
+    "examples": "They live in a big house.",
+    "synonyms": "home|residence",
+    "sound": null
+  },
+  {
+    "id": 12,
+    "day": 1,
+    "word": "school",
+    "traduction": "escola",
+    "class": "substantive",
+    "examples": "Children go to school.",
+    "synonyms": "academy|institution",
+    "sound": null
+  },
+  {
+    "id": 13,
+    "day": 1,
+    "word": "teacher",
+    "traduction": "professor",
+    "class": "substantive",
+    "examples": "The teacher explains the lesson.",
+    "synonyms": "educator|instructor",
+    "sound": null
+  }
 ]

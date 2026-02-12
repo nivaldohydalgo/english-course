@@ -1,0 +1,132 @@
+[
+  {
+    "id": 53,
+    "day": 5,
+    "word": "call",
+    "traduction": "ligar",
+    "class": "verb",
+    "examples": "Call me tomorrow.",
+    "synonyms": "ring|contact",
+    "sound": null
+  },
+  {
+    "id": 54,
+    "day": 5,
+    "word": "read",
+    "traduction": "ler",
+    "class": "verb",
+    "examples": "I read newspapers every morning.",
+    "synonyms": "peruse|study",
+    "sound": null
+  },
+  {
+    "id": 55,
+    "day": 5,
+    "word": "new",
+    "traduction": "novo",
+    "class": "adjective",
+    "examples": "I bought a new phone.",
+    "synonyms": "fresh|recent",
+    "sound": null
+  },
+  {
+    "id": 56,
+    "day": 5,
+    "word": "old",
+    "traduction": "velho",
+    "class": "adjective",
+    "examples": "This is an old book.",
+    "synonyms": "ancient|aged",
+    "sound": null
+  },
+  {
+    "id": 57,
+    "day": 5,
+    "word": "less",
+    "traduction": "menos",
+    "class": "adjective|pronoun",
+    "examples": "Use less sugar.",
+    "synonyms": "fewer|reduced",
+    "sound": null
+  },
+  {
+    "id": 58,
+    "day": 5,
+    "word": "more",
+    "traduction": "mais",
+    "class": "adjective|pronoun",
+    "examples": "I need more water.",
+    "synonyms": "additional|extra",
+    "sound": null
+  },
+  {
+    "id": 59,
+    "day": 5,
+    "word": "boy",
+    "traduction": "menino",
+    "class": "substantive",
+    "examples": "The boy is playing football.",
+    "synonyms": "lad|youngster",
+    "sound": null
+  },
+  {
+    "id": 60,
+    "day": 5,
+    "word": "girl",
+    "traduction": "menina",
+    "class": "substantive",
+    "examples": "The girl is reading.",
+    "synonyms": "lass|young lady",
+    "sound": null
+  },
+  {
+    "id": 61,
+    "day": 5,
+    "word": "job",
+    "traduction": "emprego",
+    "class": "substantive",
+    "examples": "She found a new job.",
+    "synonyms": "position|role",
+    "sound": null
+  },
+  {
+    "id": 62,
+    "day": 5,
+    "word": "love",
+    "traduction": "amor",
+    "class": "substantive",
+    "examples": "Love is powerful.",
+    "synonyms": "affection|passion",
+    "sound": null
+  },
+  {
+    "id": 63,
+    "day": 5,
+    "word": "shop",
+    "traduction": "loja",
+    "class": "substantive",
+    "examples": "The shop is closed.",
+    "synonyms": "store|boutique",
+    "sound": null
+  },
+  {
+    "id": 64,
+    "day": 5,
+    "word": "store",
+    "traduction": "loja",
+    "class": "substantive",
+    "examples": "I went to the store.",
+    "synonyms": "market|outlet",
+    "sound": null
+  },
+  {
+    "id": 65,
+    "day": 5,
+    "word": "woman",
+    "traduction": "mulher",
+    "class": "substantive",
+    "examples": "The woman is smiling.",
+    "synonyms": "lady|female",
+    "sound": null
+  }
+]

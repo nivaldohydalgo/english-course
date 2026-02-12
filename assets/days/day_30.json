@@ -1,0 +1,132 @@
+[
+  {
+    "id": 378,
+    "day": 30,
+    "word": "cry",
+    "traduction": "chorar",
+    "class": "verb",
+    "examples": "The baby is crying.",
+    "synonyms": "weep|sob",
+    "sound": null
+  },
+  {
+    "id": 379,
+    "day": 30,
+    "word": "laugh",
+    "traduction": "rir",
+    "class": "verb",
+    "examples": "They laugh loudly.",
+    "synonyms": "giggle|chuckle",
+    "sound": null
+  },
+  {
+    "id": 380,
+    "day": 30,
+    "word": "high",
+    "traduction": "alto",
+    "class": "adjective",
+    "examples": "The mountain is high.",
+    "synonyms": "elevated|tall",
+    "sound": null
+  },
+  {
+    "id": 381,
+    "day": 30,
+    "word": "low",
+    "traduction": "baixo",
+    "class": "adjective",
+    "examples": "The price is low.",
+    "synonyms": "cheap|small",
+    "sound": null
+  },
+  {
+    "id": 382,
+    "day": 30,
+    "word": "at",
+    "traduction": "em",
+    "class": "preposition",
+    "examples": "Meet me at the park.",
+    "synonyms": "in|near",
+    "sound": null
+  },
+  {
+    "id": 383,
+    "day": 30,
+    "word": "between",
+    "traduction": "entre",
+    "class": "preposition",
+    "examples": "The ball is between the chairs.",
+    "synonyms": "amid|among",
+    "sound": null
+  },
+  {
+    "id": 384,
+    "day": 30,
+    "word": "by",
+    "traduction": "por",
+    "class": "preposition",
+    "examples": "The book was written by her.",
+    "synonyms": "via|through",
+    "sound": null
+  },
+  {
+    "id": 385,
+    "day": 30,
+    "word": "with",
+    "traduction": "com",
+    "class": "preposition",
+    "examples": "She is with her mother.",
+    "synonyms": "alongside|accompanied by",
+    "sound": null
+  },
+  {
+    "id": 386,
+    "day": 30,
+    "word": "birthday",
+    "traduction": "aniversário",
+    "class": "substantive",
+    "examples": "Happy birthday!",
+    "synonyms": "anniversary|celebration",
+    "sound": null
+  },
+  {
+    "id": 387,
+    "day": 30,
+    "word": "party",
+    "traduction": "festa",
+    "class": "substantive",
+    "examples": "The party is fun.",
+    "synonyms": "celebration|gathering",
+    "sound": null
+  },
+  {
+    "id": 388,
+    "day": 30,
+    "word": "place",
+    "traduction": "lugar",
+    "class": "substantive",
+    "examples": "This place is nice.",
+    "synonyms": "location|site",
+    "sound": null
+  },
+  {
+    "id": 389,
+    "day": 30,
+    "word": "planet",
+    "traduction": "planeta",
+    "class": "substantive",
+    "examples": "Mars is a planet.",
+    "synonyms": "world|celestial body",
+    "sound": null
+  },
+  {
+    "id": 390,
+    "day": 30,
+    "word": "police",
+    "traduction": "polícia",
+    "class": "substantive",
+    "examples": "The police are here.",
+    "synonyms": "officers|law enforcement",
+    "sound": null
+  }
+]

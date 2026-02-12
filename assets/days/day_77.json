@@ -1,0 +1,132 @@
+[
+  {
+    "id": 989,
+    "day": 77,
+    "word": "manifest",
+    "traduction": "manifestar",
+    "class": "verb",
+    "examples": "He manifested his opinion.",
+    "synonyms": "express|demonstrate",
+    "sound": null
+  },
+  {
+    "id": 990,
+    "day": 77,
+    "word": "manipulate",
+    "traduction": "manipular",
+    "class": "verb",
+    "examples": "They manipulated the data.",
+    "synonyms": "control|exploit",
+    "sound": null
+  },
+  {
+    "id": 991,
+    "day": 77,
+    "word": "mitigate",
+    "traduction": "mitigar",
+    "class": "verb",
+    "examples": "Mitigate the risks.",
+    "synonyms": "reduce|lessen",
+    "sound": null
+  },
+  {
+    "id": 992,
+    "day": 77,
+    "word": "absurd",
+    "traduction": "absurdo",
+    "class": "adjective",
+    "examples": "The idea is absurd.",
+    "synonyms": "ridiculous|illogical",
+    "sound": null
+  },
+  {
+    "id": 993,
+    "day": 77,
+    "word": "adjacent",
+    "traduction": "adjacente",
+    "class": "adjective",
+    "examples": "The park is adjacent to the school.",
+    "synonyms": "next to|neighboring",
+    "sound": null
+  },
+  {
+    "id": 994,
+    "day": 77,
+    "word": "zealous",
+    "traduction": "zeloso",
+    "class": "adjective",
+    "examples": "He is zealous in his work.",
+    "synonyms": "enthusiastic|passionate",
+    "sound": null
+  },
+  {
+    "id": 995,
+    "day": 77,
+    "word": "canary",
+    "traduction": "canário",
+    "class": "substantive",
+    "examples": "The canary sings.",
+    "synonyms": "bird|songbird",
+    "sound": null
+  },
+  {
+    "id": 996,
+    "day": 77,
+    "word": "dove",
+    "traduction": "pomba",
+    "class": "substantive",
+    "examples": "The dove is white.",
+    "synonyms": "bird|pigeon",
+    "sound": null
+  },
+  {
+    "id": 997,
+    "day": 77,
+    "word": "goose",
+    "traduction": "ganso",
+    "class": "substantive",
+    "examples": "The goose is white.",
+    "synonyms": "bird|fowl",
+    "sound": null
+  },
+  {
+    "id": 998,
+    "day": 77,
+    "word": "photo",
+    "traduction": "foto",
+    "class": "substantive",
+    "examples": "This photo is clear.",
+    "synonyms": "image|snapshot",
+    "sound": null
+  },
+  {
+    "id": 999,
+    "day": 77,
+    "word": "picture",
+    "traduction": "quadro/foto",
+    "class": "substantive",
+    "examples": "The picture is beautiful.",
+    "synonyms": "painting|photo",
+    "sound": null
+  },
+  {
+    "id": 1000,
+    "day": 77,
+    "word": "pigeon",
+    "traduction": "pombo",
+    "class": "substantive",
+    "examples": "The pigeon is common.",
+    "synonyms": "bird|dove",
+    "sound": null
+  },
+  {
+    "id": 1001,
+    "day": 77,
+    "word": "sparrow",
+    "traduction": "pardal",
+    "class": "substantive",
+    "examples": "The sparrow is small.",
+    "synonyms": "bird|passerine",
+    "sound": null
+  }
+]

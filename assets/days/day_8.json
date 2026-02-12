@@ -1,0 +1,132 @@
+[
+  {
+    "id": 92,
+    "day": 8,
+    "word": "jump",
+    "traduction": "pular",
+    "class": "verb",
+    "examples": "Jump over the fence.",
+    "synonyms": "leap|hop",
+    "sound": null
+  },
+  {
+    "id": 93,
+    "day": 8,
+    "word": "play",
+    "traduction": "jogar",
+    "class": "verb",
+    "examples": "Children play outside.",
+    "synonyms": "perform|engage",
+    "sound": null
+  },
+  {
+    "id": 94,
+    "day": 8,
+    "word": "different",
+    "traduction": "diferente",
+    "class": "adjective",
+    "examples": "This color is different.",
+    "synonyms": "distinct|unlike",
+    "sound": null
+  },
+  {
+    "id": 95,
+    "day": 8,
+    "word": "same",
+    "traduction": "mesmo",
+    "class": "adjective",
+    "examples": "We have the same idea.",
+    "synonyms": "identical|equal",
+    "sound": null
+  },
+  {
+    "id": 96,
+    "day": 8,
+    "word": "yes",
+    "traduction": "sim",
+    "class": "interjection",
+    "examples": "Yes, I agree.",
+    "synonyms": "affirmative|indeed",
+    "sound": null
+  },
+  {
+    "id": 97,
+    "day": 8,
+    "word": "whole",
+    "traduction": "inteiro",
+    "class": "adjective|substantive",
+    "examples": "Eat the whole apple.",
+    "synonyms": "entire|complete",
+    "sound": null
+  },
+  {
+    "id": 98,
+    "day": 8,
+    "word": "bathroom",
+    "traduction": "banheiro",
+    "class": "substantive",
+    "examples": "The bathroom is small.",
+    "synonyms": "restroom|washroom",
+    "sound": null
+  },
+  {
+    "id": 99,
+    "day": 8,
+    "word": "flower",
+    "traduction": "flor",
+    "class": "substantive",
+    "examples": "The flower is yellow.",
+    "synonyms": "blossom|bloom",
+    "sound": null
+  },
+  {
+    "id": 100,
+    "day": 8,
+    "word": "garden",
+    "traduction": "jardim",
+    "class": "substantive",
+    "examples": "The garden is beautiful.",
+    "synonyms": "yard|park",
+    "sound": null
+  },
+  {
+    "id": 101,
+    "day": 8,
+    "word": "park",
+    "traduction": "parque",
+    "class": "substantive",
+    "examples": "Children play in the park.",
+    "synonyms": "playground|garden",
+    "sound": null
+  },
+  {
+    "id": 102,
+    "day": 8,
+    "word": "road",
+    "traduction": "estrada",
+    "class": "substantive",
+    "examples": "The road is long.",
+    "synonyms": "highway|path",
+    "sound": null
+  },
+  {
+    "id": 103,
+    "day": 8,
+    "word": "street",
+    "traduction": "rua",
+    "class": "substantive",
+    "examples": "The street is busy.",
+    "synonyms": "road|avenue",
+    "sound": null
+  },
+  {
+    "id": 104,
+    "day": 8,
+    "word": "tree",
+    "traduction": "árvore",
+    "class": "substantive",
+    "examples": "The tree is tall.",
+    "synonyms": "plant|timber",
+    "sound": null
+  }
+]
