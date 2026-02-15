@@ -1,32 +1,32 @@
 import { Component , Input , OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-card-word',
-  imports: [],
-  templateUrl: './card-word.html',
-  styleUrl: './card-word.css',
+    selector: 'app-card-word',
+    imports: [],
+    templateUrl: './card-word.html',
+    styleUrl: './card-word.css',
 })
 export class CardWord {
-    types!: []
+    traductions!: []
+    classes!: []
     examples!: []
-    synonyms!: []
 
     @Input({ required: true }) word!: any;
 
     ngOnInit() {
 
-        console.log(this.word)
-        if (this.word.types != '' && this.word.types != undefined && this.word.types != null ) {
-            this.types = this.word.types.split('|');
+        if (this.word.traduction != '' && this.word.traduction != undefined && this.word.traduction != null ) {
+            this.traductions = this.word.traduction.split('|');
         }
 
-        if (this.word.examples != '' && this.word.examples != undefined && this.word.examples != null ) {
-            this.examples = this.word.examples.split('|');
+        if (this.word.class != '' && this.word.class != undefined && this.word.class != null ) {
+            this.classes = this.word.class.split('|');
         }
 
-        if (this.word.synonyms != '' && this.word.synonyms != undefined && this.word.synonyms != null ) {
-            this.synonyms = this.word.synonyms.split('|');
+        if (this.word.example != '' && this.word.example != undefined && this.word.example != null ) {
+            this.examples = this.word.example.split('|');
         }
+
 
     }
 }

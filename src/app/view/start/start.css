@@ -11,16 +11,14 @@
 .box-logo {
     display: flex;
     justify-content: center;
-    width: 80%;
     margin-top: 80px;
     margin-bottom: 50px;
     font-family: "Henny Penny", system-ui; 
-    font-weight: 600; 
+    font-weight: 800; 
     font-style: normal;
-    font-size: 60px;
+    font-size: calc(var(--font-size) * 3.6);
     letter-spacing: 1px;
-    color: #22577a;
-    text-shadow: #555555 1px 0 16px;     
+    color: #ff0054;
 }
 
 .box-proposal {
@@ -34,7 +32,7 @@
 
 .proposal-en {
     font-family: "Merriweather", serif; 
-    font-size: 40px;
+    font-size: calc(var(--font-size) * 2.6);
     font-optical-sizing: auto; 
     font-weight: bold; 
     font-style: normal; 
@@ -43,14 +41,14 @@
 
 .proposal-pt {
     font-family: "Oswald", sans-serif; 
-    font-size: 24px;
+    font-size: calc(var(--font-size) * 1.8);
     font-optical-sizing: auto; 
-    font-weight: 600; 
+    font-weight: 500; 
     font-style: normal;
 }
 
 .box-button {
-    background-color: #d62828;
+    background-color: #ffb703;
     width: 70%;
     display: flex;
     justify-content: center;
@@ -66,7 +64,7 @@
     font-optical-sizing: auto; 
     font-weight: bold;
     font-style: normal; 
-    font-size: 30px;
+    font-size: calc(var(--font-size) * 1.8);
     letter-spacing: 2px;
 }
 
@@ -82,42 +80,30 @@
 
 .label-url {
     font-family: "Oswald", sans-serif; 
-    font-size: 14px;
+    font-size: calc(var(--font-size) * 1.2);
     font-optical-sizing: auto; 
     font-weight: 400; 
     font-style: normal;
-    color: #666666;
+    color: var(--font-color);
 }
 
 .url-nh {
     font-family: "Merriweather", serif; 
-    font-size: 18px;
+    font-size: calc(var(--font-size) * 1.6);
     font-optical-sizing: auto; 
     font-weight: 500; 
     font-style: normal; 
     font-variation-settings: "wdth" 100;
-    color: #444444;
+    color: var(--font-color);
 }
 
-@media screen and (max-width:  650px) { 
+.box-image {
+    display: flex;
+    justify-content: center;
+}
 
-    .box-logo {
-        font-weight: 500; 
-        font-size: 36px;
-        letter-spacing: 0.2px;
-    }
-
-    .proposal-en {
-        font-size: 28px;
-    }
-
-    .proposal-pt {
-        font-size: 18px;
-    }
-
-    .button {
-        font-size: 24px;
-        letter-spacing: 1.2px;
-    }
-
+.image {
+    width: 70%;
+    height: auto;
+    border-radius: 20px;
 }

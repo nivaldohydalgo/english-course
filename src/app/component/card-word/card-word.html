@@ -1,23 +1,53 @@
 
 <div class="container">
 
-    @if (types) {
-        <div class="box-types">
-            @for (type of types; track type) {
-                <div class="box-type">
-                    <span>{{type}}</span>
+    <div class="box-top">
+        @if (word.level) {
+            <div class="box-level">
+                <span>{{word.level}}</span>
+            </div>
+        } @else {
+            <div></div>
+        }    
+    
+        @if (classes) {
+            <div class="box-classes">
+                @for (class of classes; track class) {
+                    <div class="box-class">
+                        <span>{{class}}</span>
+                    </div>
+                } 
+            </div>
+        } @else {
+            <div></div>
+        }    
+    </div>
+
+    <div class="box-word">
+        <span>{{word.word}}</span>
+    </div>
+    
+    @if (traductions) {
+        <div class="box-traduction">
+            @for (traduction of traductions; track traduction) {
+                <div class="traduction-item">
+                    <span>{{traduction}}</span>
                 </div>
             } 
         </div>
     }
 
-    <div class="box-word">
-        <span>{{word.word}}</span>
-    </div>
-
-    <div class="box-traduction">
-        <span>{{word.traduction}}</span>
-    </div>
+    @if (word.observation) {
+        <div class="line-separator"></div>
+        <div class="divisor-title">
+            OBSERVATION
+        </div>
+        <div>
+            <div class="observation-content">
+                <span>{{word.observation}}</span>
+            </div>
+        </div>
+    }
 
     @if (examples) {
         <div class="line-separator"></div>
@@ -28,20 +58,6 @@
             @for (example of examples; track example) {
                 <div class="example-content">
                     <span>{{example}}</span>
-                </div>
-            } 
-        </div>
-    }
-
-    @if (synonyms) {
-        <div class="line-separator"></div>
-        <div class="divisor-title">
-            SYNONYMS
-        </div>
-        <div class="synonym-content">
-            @for (synonym of synonyms; track synonym) {
-                <div class="synonym-item">
-                    <span>{{synonym}}</span>
                 </div>
             } 
         </div>

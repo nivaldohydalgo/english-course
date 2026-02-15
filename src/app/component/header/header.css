@@ -8,7 +8,7 @@
     padding: 8px;
     border-bottom-style: solid;
     border-bottom-width: 2px;
-    border-bottom-color: #c0d1ec;
+    border-bottom-color: var(--border-color);
 }
 
 .name-app {
@@ -16,36 +16,18 @@
     font-family: "Henny Penny", system-ui; 
     font-weight: 600; 
     font-style: normal;
-    font-size: 40px;
+    font-size: calc(var(--font-size) * 2.4);
     letter-spacing: 1px;
-    color: #22577a;
+    color: #ff0054;
 }
 
 .icon-config {
-    color: #666666;
-    font-size: 32px;
-    font-weight: 500;
+    color: #22577a;
+    font-size: calc(var(--font-size) * 2.6);
 }
 
 .space-icon {
-    width: 32px;
-    height: 32px;
+    width: calc(var(--font-size) * 2.6);
+    height: calc(var(--font-size) * 2.6);
 }
 
-@media screen and (max-width:  650px) { 
-    .name-app { 
-        font-size: 22px;
-        letter-spacing: 0.px;
-    }
-    
-    .icon-config {
-        font-size: 24px;
-        font-weight: 400;
-    }
-
-    .space-icon {
-        width: 24px;
-        height: 24px;
-    }
-    
-}

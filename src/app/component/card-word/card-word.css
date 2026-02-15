@@ -1,9 +1,10 @@
 
 .container {
-    background-color: #f9fcff;
+    background-color: var(--card-color);
     margin-top: 10px;
     margin-bottom: 30px;
-    padding-bottom: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     display: flex;
     border-radius: 12px;
     flex-direction: column;
@@ -11,40 +12,77 @@
     align-items: center;
     border-style: solid;
     border-width: 2px;
-    border-color: #d3dff2;
+    border-color: var(--border-color);
 }
 
 .box-word {
-    margin-top: 10px;
-    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: calc(var(--font-size) * 2.4);
     font-family: "Merriweather", serif;
 }
 
 .box-traduction {
-    margin-bottom: 20px;
-    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.traduction-item {
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: calc(var(--font-size) * 2.2);
     color: brown;
 }
 
-.box-types {
+.box-top {
     width: 100%;
     margin-top: -16px;
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: space-between;
 }
 
-.box-type {
-    background-color: #c1c69d;
-    margin-right: 10px;
-    padding: 2px 10px 2px 10px;
-    border-radius: 4px;
+.box-level {
+    background-color: #c1121f;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+    border-radius: 10px;
     font-weight: bold;
     color: #ffffff;
-    font-size: 20px;
+    font-size: calc(var(--font-size) * 1.1);
+}
+
+.box-classes {
+    margin-right: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 8px;
+}
+
+.box-class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2a9d8f;
+    padding: 2px 10px 2px 10px;
+    border-radius: 6px;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: calc(var(--font-size) * 1.2);
 }
 
 .line-separator {
+    margin-top: 5px;
     background-color: #d3dff2;
     width: 100%;
     height: 2px;
@@ -67,16 +105,17 @@
 .example-content {
     display: flex;
     justify-content: center;
+    align-items: center;
+    text-align: center;
     margin: 8px;
     font-size: 22px;
 }
 
-.synonym-content {
+.observation-content {
     display: flex;
-    flex-direction: row;
-}
-
-.synonym-item {
-    margin: 12px;
-    font-size: 24px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 8px;
+    font-size: 22px;
 }
