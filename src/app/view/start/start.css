@@ -2,21 +2,22 @@
 .container{ 
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     width: 100%;
-    min-height: 200px;
 }
 
 .box-logo {
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-top: 80px;
     margin-bottom: 50px;
+    text-align: center;
     font-family: "Henny Penny", system-ui; 
     font-weight: 800; 
     font-style: normal;
-    font-size: calc(var(--font-size) * 3.6);
+    font-size: calc(var(--font-size) * 3.8);
     letter-spacing: 1px;
     color: #ff0054;
 }
@@ -28,11 +29,12 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 .proposal-en {
     font-family: "Merriweather", serif; 
-    font-size: calc(var(--font-size) * 2.6);
+    font-size: calc(var(--font-size) * 2.4);
     font-optical-sizing: auto; 
     font-weight: bold; 
     font-style: normal; 
@@ -41,7 +43,7 @@
 
 .proposal-pt {
     font-family: "Oswald", sans-serif; 
-    font-size: calc(var(--font-size) * 1.8);
+    font-size: calc(var(--font-size) * 1.6);
     font-optical-sizing: auto; 
     font-weight: 500; 
     font-style: normal;
@@ -80,7 +82,7 @@
 
 .label-url {
     font-family: "Oswald", sans-serif; 
-    font-size: calc(var(--font-size) * 1.2);
+    font-size: calc(var(--font-size) * 1.1);
     font-optical-sizing: auto; 
     font-weight: 400; 
     font-style: normal;
@@ -89,7 +91,7 @@
 
 .url-nh {
     font-family: "Merriweather", serif; 
-    font-size: calc(var(--font-size) * 1.6);
+    font-size: calc(var(--font-size) * 1.4);
     font-optical-sizing: auto; 
     font-weight: 500; 
     font-style: normal; 
@@ -103,7 +105,7 @@
 }
 
 .image {
-    width: 70%;
+    width: calc(var(--font-size) * 30);
     height: auto;
-    border-radius: 20px;
+    border-radius: calc(var(--font-size) * 1.6);
 }

@@ -16,7 +16,7 @@
     font-family: "Henny Penny", system-ui; 
     font-weight: 600; 
     font-style: normal;
-    font-size: calc(var(--font-size) * 2.4);
+    font-size: calc(var(--font-size) * 2.8);
     letter-spacing: 1px;
     color: #ff0054;
 }

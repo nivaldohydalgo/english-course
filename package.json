@@ -7,6 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
+    "pushdev": "git push --set-upstream origin dev",
     "deploy": "ng deploy --repo=https://github.com/nivaldohydalgo/english-course.git --name='nivaldohydalgo' --email='nivaldohydalgo@gmail.com' --base-href=/english-course/"
   },
   "prettier": {
