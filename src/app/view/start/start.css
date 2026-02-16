@@ -11,8 +11,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 80px;
-    margin-bottom: 50px;
+    margin-top: 60px;
+    margin-bottom: 30px;
     text-align: center;
     font-family: "Henny Penny", system-ui; 
     font-weight: 800; 
@@ -23,8 +23,8 @@
 }
 
 .box-proposal {
-    margin-top: 50px;
-    margin-bottom: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -76,8 +76,8 @@
     justify-content: center;
     align-items: center;
     width: 80%;
-    margin-top: 30px;
-    padding: 20px 0px 20px 0px;
+    margin-top: 20px;
+    padding: 10px 0px 10px 0px;
 }
 
 .label-url {
