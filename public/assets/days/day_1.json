@@ -2,7 +2,7 @@
   {
     "id": 1,
     "day": 1,
-    "word": "(to) eat",
+    "word": "eat",
     "traduction": "comer",
     "level": "A1",
     "class": "verb",
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "day": 1,
-    "word": "(to) have",
+    "word": "have",
     "traduction": "ter",
     "level": "A2",
     "class": "verb",
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "day": 1,
-    "word": "(to) live",
+    "word": "live",
     "traduction": "viver|sobreviver",
     "level": "B1",
     "class": "verb",
@@ -35,7 +35,7 @@
   {
     "id": 4,
     "day": 1,
-    "word": "(to) need",
+    "word": "need",
     "traduction": "precisar (de)",
     "level": "A1",
     "class": "verb",
@@ -46,7 +46,7 @@
   {
     "id": 5,
     "day": 1,
-    "word": "(to) want",
+    "word": "want",
     "traduction": "querer",
     "level": "A1",
     "class": "verb",

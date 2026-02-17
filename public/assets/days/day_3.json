@@ -2,7 +2,7 @@
   {
     "id": 11,
     "day": 3,
-    "word": "(to) repeat",
+    "word": "repeat",
     "traduction": "repetir",
     "level": "A2",
     "class": "verb",
@@ -13,18 +13,18 @@
   {
     "id": 12,
     "day": 3,
-    "word": "(to) send",
-    "traduction": "mandar|enviar|enviar|enviar|enviar",
+    "word": "send",
+    "traduction": "mandar|enviar",
     "level": "A1",
     "class": "verb",
-    "observation": "Teste de apresentação da observação da palavra em ingles",
-    "example": "I need to send a e-mail to you, bud, I dont konw what your e-mail.|Can you send me a e-mail with your adress!",
+    "observation": null,
+    "example": null,
     "sound": null
   },
   {
     "id": 13,
     "day": 3,
-    "word": "(to) speak",
+    "word": "speak",
     "traduction": "falar",
     "level": "A1",
     "class": "verb",
@@ -35,7 +35,7 @@
   {
     "id": 14,
     "day": 3,
-    "word": "(to) take",
+    "word": "take",
     "traduction": "pegar|roubar",
     "level": "B1",
     "class": "verb",
@@ -46,12 +46,12 @@
   {
     "id": 15,
     "day": 3,
-    "word": "(to) work",
+    "word": "work",
     "traduction": "trabalhar|trabalho",
     "level": "A1",
     "class": "verb|noun",
     "observation": null,
-    "example": "I've got so much work to do.",
+    "example": null,
     "sound": null
   }
 ]
