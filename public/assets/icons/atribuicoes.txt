@@ -5,9 +5,3 @@ Uso do icone "erro-de-codigo.png", baixado de Flaticon:
 <a href="https://www.flaticon.com/br/icones-gratis/pagina-nao-encontrada" title="página não encontrada ícones">Página não encontrada ícones criados por Eucalyp - Flaticon</a>
 
 
-Icones baixados no Icons8 - referências:
-<a target="_blank" href="https://icons8.com/icon/l9a5tcSnBwcf/angular">Angular</a> ícone por <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/108784/javascript">Javascript</a> ícone por <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/8Bl4Njo6LTZo/css-filetype">Ficheiro CSS</a> ícone por <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/20909/html-5">html</a> ícone por <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/114474/json">JSON</a> ícone por <a target="_blank" href="https://icons8.com">Icons8</a>

@@ -31,6 +31,7 @@ export class LearnDay implements OnInit {
     validDay: boolean = true;
     previousDay!: number
     nextDay!: number
+    loaded: boolean = false;
 
     constructor(
         private route: ActivatedRoute
@@ -49,6 +50,8 @@ export class LearnDay implements OnInit {
 
         this.day = d
         this.numberDay = Number(d)
+        this.loaded = false
+        this.validDay = false
 
         if ( this.numberDay <= environment.qtDays && this.numberDay > 0 ) {
             this.validDay = true
@@ -56,7 +59,10 @@ export class LearnDay implements OnInit {
             console.log(this.urlJson)
 
             this.http.get(this.urlJson).subscribe({
-                next: response => { this.words = response; },
+                next: response => { 
+                    this.words = response; 
+                    this.loaded = true;
+                },
                 error: () => { this.words = []; }
             });
             console.log(this.words)

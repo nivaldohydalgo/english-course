@@ -49,3 +49,19 @@
     width: calc(var(--font-size) * 4);
     height: calc(var(--font-size) * 4);
 }
+
+.box-icon-loading {
+    width: 100%;
+    margin: 150px 0px 150px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.icon-loading {
+    width: calc(var(--font-size) * 8);
+    height: auto;
+    margin: 20px 10px 20px 10px;    
+}
+

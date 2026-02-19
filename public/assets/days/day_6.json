@@ -2,7 +2,7 @@
   {
     "id": 26,
     "day": 6,
-    "word": "Close",
+    "word": "close",
     "traduction": "fechar|fechar-se",
     "level": "A1",
     "class": "verb",
@@ -13,7 +13,7 @@
   {
     "id": 27,
     "day": 6,
-    "word": "Learn",
+    "word": "learn",
     "traduction": "aprender",
     "level": "A1",
     "class": "verb",
@@ -24,7 +24,7 @@
   {
     "id": 28,
     "day": 6,
-    "word": "Open",
+    "word": "open",
     "traduction": "abrir|aberto",
     "level": "A2",
     "class": "verb|adjective|noun",
@@ -35,7 +35,7 @@
   {
     "id": 29,
     "day": 6,
-    "word": "Remember",
+    "word": "remember",
     "traduction": "lembrar-se",
     "level": "A1",
     "class": "verb",
@@ -46,7 +46,7 @@
   {
     "id": 30,
     "day": 6,
-    "word": "Save",
+    "word": "save",
     "traduction": "salvar",
     "level": "B1",
     "class": "verb",

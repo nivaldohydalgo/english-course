@@ -36,22 +36,29 @@
 
     </div>
 
-    @if ( validDay ) {
-        <div>
-            @for (word of words; track word.id) {
-                <div>
-                    <app-card-word [word]=word />
-                </div>
-            } @empty {
-                <div>
-                    <span>Nada encontrado!</span>
-                </div>
-            } 
+    @if ( !loaded ) {
+        <div class="box-icon-loading">
+            <img src="assets/icons/loading-green.gif" 
+                class="icon-loading">           
         </div>
     } @else {
-        <div>
-            <span>Dia invalido ou não previsto!</span>
-        </div>
+        @if ( validDay ) {
+            <div>
+                @for (word of words; track word.id) {
+                    <div>
+                        <app-card-word [word]=word />
+                    </div>
+                } @empty {
+                    <div>
+                        <span>Nada encontrado!</span>
+                    </div>
+                } 
+            </div>
+        } @else {
+            <div>
+                <span>Dia invalido ou não previsto!</span>
+            </div>
+        }
     }
 
     <app-footer />

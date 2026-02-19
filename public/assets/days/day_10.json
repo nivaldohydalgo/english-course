@@ -2,7 +2,7 @@
   {
     "id": 46,
     "day": 10,
-    "word": "Be",
+    "word": "be",
     "traduction": "ser|estar",
     "level": "A1",
     "class": "verb",
@@ -13,7 +13,7 @@
   {
     "id": 47,
     "day": 10,
-    "word": "Choose",
+    "word": "choose",
     "traduction": "escolher|preferir",
     "level": "A1",
     "class": "verb",
@@ -24,7 +24,7 @@
   {
     "id": 48,
     "day": 10,
-    "word": "Dream",
+    "word": "dream",
     "traduction": "sonhar|sonho",
     "level": "A2",
     "class": "verb|noun",
@@ -35,7 +35,7 @@
   {
     "id": 49,
     "day": 10,
-    "word": "Hope",
+    "word": "hope",
     "traduction": "esperar",
     "level": "A2",
     "class": "verb",
@@ -46,7 +46,7 @@
   {
     "id": 50,
     "day": 10,
-    "word": "Say",
+    "word": "say",
     "traduction": "dizer",
     "level": "A1",
     "class": "verb",

@@ -173,14 +173,20 @@
     color: #ff0054;
 }
 
+.icon-nh {
+    width: calc(var(--font-size) * 8);
+    height: auto;
+    margin: 20px 10px 26px 10px;    
+}
+
 .icon-linkedin {
     width: calc(var(--font-size) * 8);
     height: auto;
-    margin: 20px 10px 26px 24px;    
+    margin: 20px 10px 26px 10px;    
 }
 
 .icon-gmail {
-    width: calc(var(--font-size) * 8);
+    width: calc(var(--font-size) * 6);
     height: auto;
     margin: 10px;    
 }

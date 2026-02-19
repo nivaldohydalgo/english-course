@@ -2,7 +2,7 @@
   {
     "id": 36,
     "day": 8,
-    "word": "Give",
+    "word": "give",
     "traduction": "dar",
     "level": "A1",
     "class": "verb",
@@ -13,7 +13,7 @@
   {
     "id": 37,
     "day": 8,
-    "word": "Look",
+    "word": "look",
     "traduction": "olhar",
     "level": "A1",
     "class": "verb",
@@ -24,7 +24,7 @@
   {
     "id": 38,
     "day": 8,
-    "word": "Repair",
+    "word": "repair",
     "traduction": "consertar",
     "level": "A2",
     "class": "verb",
@@ -35,7 +35,7 @@
   {
     "id": 39,
     "day": 8,
-    "word": "See",
+    "word": "see",
     "traduction": "ver",
     "level": "A1",
     "class": "verb",
@@ -46,7 +46,7 @@
   {
     "id": 40,
     "day": 8,
-    "word": "Watch",
+    "word": "watch",
     "traduction": "olhar|observar|assistir",
     "level": "A1",
     "class": "verb",

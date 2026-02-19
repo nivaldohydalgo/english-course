@@ -2,7 +2,7 @@
   {
     "id": 31,
     "day": 7,
-    "word": "Create",
+    "word": "create",
     "traduction": "criar|produzir|inventar",
     "level": "B1",
     "class": "verb",
@@ -13,7 +13,7 @@
   {
     "id": 32,
     "day": 7,
-    "word": "Exit",
+    "word": "exit",
     "traduction": "sair|saída",
     "level": "A2",
     "class": "verb|noun",
@@ -24,7 +24,7 @@
   {
     "id": 33,
     "day": 7,
-    "word": "Help",
+    "word": "help",
     "traduction": "ajudar",
     "level": "A1",
     "class": "verb",
@@ -35,7 +35,7 @@
   {
     "id": 34,
     "day": 7,
-    "word": "Push",
+    "word": "push",
     "traduction": "empurrar",
     "level": "A2",
     "class": "verb",
@@ -46,7 +46,7 @@
   {
     "id": 35,
     "day": 7,
-    "word": "Start",
+    "word": "start",
     "traduction": "começar|iniciar",
     "level": "A1",
     "class": "verb",
