@@ -1,9 +1,9 @@
 [
   {
-    "id": 186,
+    "id": 257,
     "day": 38,
-    "word": "interrupt",
-    "traduction": "interromper",
+    "word": "call",
+    "traduction": "chamar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -11,45 +11,56 @@
     "sound": null
   },
   {
-    "id": 187,
+    "id": 258,
     "day": 38,
-    "word": "Introduce",
-    "traduction": "introduzir|apresentar",
-    "level": "B2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 188,
-    "day": 38,
-    "word": "kill",
-    "traduction": "matar",
-    "level": "A2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 189,
-    "day": 38,
-    "word": "Laugh",
-    "traduction": "rir",
-    "level": "A2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 190,
-    "day": 38,
-    "word": "Let",
-    "traduction": "deixar|permitir",
+    "word": "remove",
+    "traduction": "remover",
     "level": "B1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 259,
+    "day": 38,
+    "word": "ask",
+    "traduction": "perguntar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 260,
+    "day": 38,
+    "word": "confirm",
+    "traduction": "confirmar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 261,
+    "day": 38,
+    "word": "respect",
+    "traduction": "respeitar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 262,
+    "day": 38,
+    "word": "respect",
+    "traduction": "respeito",
+    "level": "B1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

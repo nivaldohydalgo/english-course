@@ -1,32 +1,10 @@
 [
   {
-    "id": 6,
+    "id": 8,
     "day": 2,
     "word": "do",
     "traduction": "fazer",
     "level": "A1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 7,
-    "day": 2,
-    "word": "enter",
-    "traduction": "entrar",
-    "level": "A2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 8,
-    "day": 2,
-    "word": "follow",
-    "traduction": "seguir",
-    "level": "A2",
     "class": "verb",
     "observation": null,
     "example": null,
@@ -50,6 +28,39 @@
     "traduction": "escrever",
     "level": "A1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 11,
+    "day": 2,
+    "word": "send",
+    "traduction": "mandar|enviar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 12,
+    "day": 2,
+    "word": "drink",
+    "traduction": "beber",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": "Would you like a drink of water?",
+    "sound": null
+  },
+  {
+    "id": 13,
+    "day": 2,
+    "word": "drink",
+    "traduction": "bebida",
+    "level": "A1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

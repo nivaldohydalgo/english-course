@@ -1,9 +1,9 @@
 [
   {
-    "id": 131,
+    "id": 179,
     "day": 27,
-    "word": "borrow",
-    "traduction": "tomar emprestado|pedir emprestado",
+    "word": "describe",
+    "traduction": "descrever",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -11,45 +11,56 @@
     "sound": null
   },
   {
-    "id": 132,
+    "id": 180,
     "day": 27,
-    "word": "Dislike",
-    "traduction": "antipatizar|antipatia",
-    "level": "B1",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 133,
-    "day": 27,
-    "word": "List",
-    "traduction": "listar|lista",
+    "word": "include",
+    "traduction": "incluir",
     "level": "A2",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 134,
-    "day": 27,
-    "word": "Resolve",
-    "traduction": "resolver",
-    "level": "C1",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 135,
+    "id": 181,
     "day": 27,
-    "word": "Touch",
-    "traduction": "tocar|mexer em",
-    "level": "B1",
+    "word": "kill",
+    "traduction": "matar",
+    "level": "A2",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 182,
+    "day": 27,
+    "word": "laugh",
+    "traduction": "rir",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 183,
+    "day": 27,
+    "word": "print",
+    "traduction": "imprimir",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 184,
+    "day": 27,
+    "word": "print",
+    "traduction": "impressão",
+    "level": "A2",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

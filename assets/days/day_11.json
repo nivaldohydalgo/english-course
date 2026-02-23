@@ -1,31 +1,9 @@
 [
   {
-    "id": 51,
+    "id": 65,
     "day": 11,
-    "word": "cancel",
-    "traduction": "cancelar|anular",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 52,
-    "day": 11,
-    "word": "explain",
-    "traduction": "explicar",
-    "level": "A2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 53,
-    "day": 11,
-    "word": "listen",
-    "traduction": "escutar",
+    "word": "use",
+    "traduction": "usar|utilizar",
     "level": "A1",
     "class": "verb",
     "observation": null,
@@ -33,23 +11,56 @@
     "sound": null
   },
   {
-    "id": 54,
+    "id": 66,
     "day": 11,
-    "word": "prepare",
-    "traduction": "preparar",
-    "level": "A2",
+    "word": "walk",
+    "traduction": "andar|caminhar|passear",
+    "level": "A1",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 55,
+    "id": 67,
     "day": 11,
-    "word": "stay",
-    "traduction": "permanecer",
+    "word": "play",
+    "traduction": "brincar",
     "level": "A1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 68,
+    "day": 11,
+    "word": "talk",
+    "traduction": "falar|conversar|comentar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 69,
+    "day": 11,
+    "word": "sit",
+    "traduction": "sentar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 70,
+    "day": 11,
+    "word": "clean",
+    "traduction": "limpo",
+    "level": "A1",
+    "class": "adjective",
     "observation": null,
     "example": null,
     "sound": null

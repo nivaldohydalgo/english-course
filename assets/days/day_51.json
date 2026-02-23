@@ -1,17 +1,28 @@
 [
   {
-    "id": 251,
+    "id": 348,
     "day": 51,
-    "word": "Awake",
-    "traduction": "despertar|acordar|acordado|desperto",
+    "word": "apologize",
+    "traduction": "desculpar-se",
     "level": "B1",
-    "class": "verb|adjective",
+    "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 252,
+    "id": 349,
+    "day": 51,
+    "word": "approach",
+    "traduction": "aproximar-se|chegar|chegar a",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 350,
     "day": 51,
     "word": "warn",
     "traduction": "prevenir|avisar|advertir",
@@ -22,7 +33,7 @@
     "sound": null
   },
   {
-    "id": 253,
+    "id": 351,
     "day": 51,
     "word": "wrap",
     "traduction": "embrulhar",
@@ -33,21 +44,10 @@
     "sound": null
   },
   {
-    "id": 254,
+    "id": 352,
     "day": 51,
-    "word": "zoom",
-    "traduction": "zunir",
-    "level": null,
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 255,
-    "day": 51,
-    "word": "Arrange",
-    "traduction": "arranjar|combinar",
+    "word": "fix",
+    "traduction": "consertar",
     "level": "B1",
     "class": "verb",
     "observation": null,

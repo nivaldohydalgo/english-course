@@ -1,9 +1,9 @@
 [
   {
-    "id": 271,
+    "id": 375,
     "day": 55,
-    "word": "attempt",
-    "traduction": "tentar",
+    "word": "freeze",
+    "traduction": "congelar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -11,32 +11,10 @@
     "sound": null
   },
   {
-    "id": 272,
+    "id": 376,
     "day": 55,
-    "word": "cure",
-    "traduction": "curar",
-    "level": "B2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 273,
-    "day": 55,
-    "word": "focus",
-    "traduction": "focar|enfoque",
-    "level": "C1",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 274,
-    "day": 55,
-    "word": "Mean",
-    "traduction": "significar",
+    "word": "avoid",
+    "traduction": "evitar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -44,12 +22,45 @@
     "sound": null
   },
   {
-    "id": 275,
+    "id": 377,
     "day": 55,
-    "word": "regret",
-    "traduction": "lamentar|arrependimento",
+    "word": "relax",
+    "traduction": "relaxar",
     "level": "B1",
-    "class": "verb|noun",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 378,
+    "day": 55,
+    "word": "fry",
+    "traduction": "fritar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 379,
+    "day": 55,
+    "word": "label",
+    "traduction": "rotular",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 380,
+    "day": 55,
+    "word": "label",
+    "traduction": "etiqueta",
+    "level": "B1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

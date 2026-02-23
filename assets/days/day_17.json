@@ -1,20 +1,9 @@
 [
   {
-    "id": 81,
+    "id": 105,
     "day": 17,
-    "word": "cut",
-    "traduction": "cortar",
-    "level": "A2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 82,
-    "day": 17,
-    "word": "leave",
-    "traduction": "sair|partir",
+    "word": "ride",
+    "traduction": "cavalgar|montar|ir de|andar de",
     "level": "A1",
     "class": "verb",
     "observation": null,
@@ -22,21 +11,10 @@
     "sound": null
   },
   {
-    "id": 83,
+    "id": 106,
     "day": 17,
-    "word": "restore",
-    "traduction": "restaurar",
-    "level": "B2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 84,
-    "day": 17,
-    "word": "teach",
-    "traduction": "ensinar|lecionar",
+    "word": "carry",
+    "traduction": "levar|carregar",
     "level": "A1",
     "class": "verb",
     "observation": null,
@@ -44,12 +22,45 @@
     "sound": null
   },
   {
-    "id": 85,
+    "id": 107,
     "day": 17,
-    "word": "wait",
-    "traduction": "esperar|aguardar",
+    "word": "plant",
+    "traduction": "plantar|planta",
     "level": "A1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 108,
+    "day": 17,
+    "word": "kick",
+    "traduction": "chutar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 109,
+    "day": 17,
+    "word": "shop",
+    "traduction": "comprar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 110,
+    "day": 17,
+    "word": "shop",
+    "traduction": "loja",
+    "level": "A1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

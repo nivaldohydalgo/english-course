@@ -1,20 +1,9 @@
 [
   {
-    "id": 211,
+    "id": 292,
     "day": 43,
-    "word": "Please",
-    "traduction": "por favor!",
-    "level": "A1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 212,
-    "day": 43,
-    "word": "Act",
-    "traduction": "atuar|representar|agir",
+    "word": "burn",
+    "traduction": "queimar|arder",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -22,34 +11,56 @@
     "sound": null
   },
   {
-    "id": 213,
+    "id": 293,
     "day": 43,
-    "word": "adapt",
-    "traduction": "adaptar|ajustar",
-    "level": "B2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 214,
-    "day": 43,
-    "word": "address",
-    "traduction": "endereçar|endereço",
-    "level": "A1",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 215,
-    "day": 43,
-    "word": "Advise",
-    "traduction": "aconselhar|recomendar",
+    "word": "continue",
+    "traduction": "continuar",
     "level": "B1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 294,
+    "day": 43,
+    "word": "damage",
+    "traduction": "danificar|prejudicar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 295,
+    "day": 43,
+    "word": "deliver",
+    "traduction": "entregar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 296,
+    "day": 43,
+    "word": "awake",
+    "traduction": "despertar|acordar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 297,
+    "day": 43,
+    "word": "awake",
+    "traduction": "acordado|desperto",
+    "level": "B1",
+    "class": "adjective",
     "observation": null,
     "example": null,
     "sound": null

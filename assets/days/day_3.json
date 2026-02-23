@@ -1,55 +1,55 @@
 [
   {
-    "id": 11,
-    "day": 3,
-    "word": "repeat",
-    "traduction": "repetir",
-    "level": "A2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 12,
-    "day": 3,
-    "word": "send",
-    "traduction": "mandar|enviar",
-    "level": "A1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 13,
-    "day": 3,
-    "word": "speak",
-    "traduction": "falar",
-    "level": "A1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 14,
-    "day": 3,
-    "word": "take",
-    "traduction": "pegar|roubar",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
     "id": 15,
     "day": 3,
-    "word": "work",
-    "traduction": "trabalhar|trabalho",
+    "word": "find",
+    "traduction": "encontrar|achar",
     "level": "A1",
-    "class": "verb|noun",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 16,
+    "day": 3,
+    "word": "go",
+    "traduction": "ir|partir",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 17,
+    "day": 3,
+    "word": "begin",
+    "traduction": "começar|iniciar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": "What time does the concert begin?",
+    "sound": null
+  },
+  {
+    "id": 18,
+    "day": 3,
+    "word": "cook",
+    "traduction": "cozinhar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": "I don't cook meat very often.",
+    "sound": null
+  },
+  {
+    "id": 19,
+    "day": 3,
+    "word": "finish",
+    "traduction": "terminar|acabar|concluir",
+    "level": "A1",
+    "class": "verb",
     "observation": null,
     "example": null,
     "sound": null

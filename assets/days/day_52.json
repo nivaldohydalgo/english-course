@@ -1,28 +1,17 @@
 [
   {
-    "id": 256,
+    "id": 354,
     "day": 52,
-    "word": "assume",
-    "traduction": "presumir|supor",
-    "level": "B2",
+    "word": "arrange",
+    "traduction": "arranjar|combinar",
+    "level": "B1",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 257,
-    "day": 52,
-    "word": "Enjoy",
-    "traduction": "gostar|desfrutar|",
-    "level": "A1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 258,
+    "id": 355,
     "day": 52,
     "word": "float",
     "traduction": "flutuar|boiar",
@@ -33,23 +22,45 @@
     "sound": null
   },
   {
-    "id": 259,
-    "day": 52,
-    "word": "Mark",
-    "traduction": "marcar|assinalar|marca",
-    "level": "B2",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 260,
+    "id": 356,
     "day": 52,
     "word": "recycle",
     "traduction": "reciclar",
     "level": "B1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 357,
+    "day": 52,
+    "word": "attach",
+    "traduction": "anexar|juntar|apensar|encaixar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 358,
+    "day": 52,
+    "word": "point",
+    "traduction": "apontar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 359,
+    "day": 52,
+    "word": "point",
+    "traduction": "idéia|opinião",
+    "level": "B1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

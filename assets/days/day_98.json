@@ -1,9 +1,9 @@
 [
   {
-    "id": 486,
+    "id": 658,
     "day": 98,
-    "word": "Cost",
-    "traduction": "** preencher **",
+    "word": "poke",
+    "traduction": "cutucar",
     "level": null,
     "class": "verb",
     "observation": null,
@@ -11,10 +11,10 @@
     "sound": null
   },
   {
-    "id": 487,
+    "id": 659,
     "day": 98,
-    "word": "Fill",
-    "traduction": "** preencher **",
+    "word": "consist",
+    "traduction": "consistir",
     "level": null,
     "class": "verb",
     "observation": null,
@@ -22,10 +22,10 @@
     "sound": null
   },
   {
-    "id": 488,
+    "id": 660,
     "day": 98,
-    "word": "log",
-    "traduction": "** preencher **",
+    "word": "expose",
+    "traduction": "mostrar|expor|revelar",
     "level": null,
     "class": "verb",
     "observation": null,
@@ -33,23 +33,23 @@
     "sound": null
   },
   {
-    "id": 489,
+    "id": 661,
     "day": 98,
-    "word": "realize",
-    "traduction": "** preencher **",
-    "level": null,
+    "word": "compliment",
+    "traduction": "cumprimentar|felicitar",
+    "level": "C1",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 490,
+    "id": 662,
     "day": 98,
-    "word": "trust",
-    "traduction": "** preencher **",
-    "level": null,
-    "class": "verb",
+    "word": "compliment",
+    "traduction": "elogio",
+    "level": "C1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

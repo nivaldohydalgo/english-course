@@ -1,20 +1,9 @@
 [
   {
-    "id": 61,
+    "id": 78,
     "day": 13,
-    "word": "compare",
-    "traduction": "comparar",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 62,
-    "day": 13,
-    "word": "invite",
-    "traduction": "convidar|convocar|chamar",
+    "word": "swim",
+    "traduction": "nadar",
     "level": "A1",
     "class": "verb",
     "observation": null,
@@ -22,21 +11,10 @@
     "sound": null
   },
   {
-    "id": 63,
+    "id": 79,
     "day": 13,
-    "word": "love",
-    "traduction": "amar",
-    "level": "A1",
-    "class": "verb",
-    "observation": null,
-    "example": "I love you.",
-    "sound": null
-  },
-  {
-    "id": 64,
-    "day": 13,
-    "word": "put",
-    "traduction": "colocar|pôr",
+    "word": "visit",
+    "traduction": "visitar",
     "level": "A1",
     "class": "verb",
     "observation": null,
@@ -44,12 +22,34 @@
     "sound": null
   },
   {
-    "id": 65,
+    "id": 80,
     "day": 13,
-    "word": "understand",
-    "traduction": "compreender|entender",
+    "word": "make",
+    "traduction": "fazer|preparar|elaborar",
     "level": "A1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 81,
+    "day": 13,
+    "word": "smoke",
+    "traduction": "fumar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 82,
+    "day": 13,
+    "word": "smoke",
+    "traduction": "fumaça",
+    "level": "A1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

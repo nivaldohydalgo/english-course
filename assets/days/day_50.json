@@ -1,30 +1,41 @@
 [
   {
-    "id": 246,
+    "id": 341,
     "day": 50,
-    "word": "unlock",
-    "traduction": "destrancar",
-    "level": "B2",
+    "word": "require",
+    "traduction": "exigir|requerer|precisar de",
+    "level": "B1",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 247,
+    "id": 342,
     "day": 50,
-    "word": "Wake",
-    "traduction": "despertar|acordar",
-    "level": "A1",
+    "word": "solve",
+    "traduction": "resolver|solucionar",
+    "level": "B1",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 248,
+    "id": 343,
     "day": 50,
-    "word": "Achieve",
+    "word": "succeed",
+    "traduction": "conseguir|ter êxito|ser bem-sucdedido",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 344,
+    "day": 50,
+    "word": "achieve",
     "traduction": "alcançar|atingir|cumprir",
     "level": "B1",
     "class": "verb",
@@ -33,10 +44,10 @@
     "sound": null
   },
   {
-    "id": 249,
+    "id": 345,
     "day": 50,
-    "word": "Apologize",
-    "traduction": "desculpar-se",
+    "word": "dust",
+    "traduction": "tirar o pó (de)",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -44,12 +55,12 @@
     "sound": null
   },
   {
-    "id": 250,
+    "id": 346,
     "day": 50,
-    "word": "approach",
-    "traduction": "aproximar-se|chegar|chegar a",
+    "word": "dust",
+    "traduction": "poeira|pó",
     "level": "B1",
-    "class": "verb",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

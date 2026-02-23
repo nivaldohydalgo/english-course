@@ -1,31 +1,9 @@
 [
   {
-    "id": 76,
+    "id": 98,
     "day": 16,
-    "word": "answer",
-    "traduction": "resposta",
-    "level": "A1",
-    "class": "noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 77,
-    "day": 16,
-    "word": "call",
-    "traduction": "chamar",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 78,
-    "day": 16,
-    "word": "drive",
-    "traduction": "dirigir",
+    "word": "enjoy",
+    "traduction": "gostar|desfrutar|",
     "level": "A1",
     "class": "verb",
     "observation": null,
@@ -33,10 +11,21 @@
     "sound": null
   },
   {
-    "id": 79,
+    "id": 99,
     "day": 16,
-    "word": "improve",
-    "traduction": "melhorar",
+    "word": "meet",
+    "traduction": "encontrar|conhecer",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 100,
+    "day": 16,
+    "word": "follow",
+    "traduction": "seguir",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -44,12 +33,34 @@
     "sound": null
   },
   {
-    "id": 80,
+    "id": 101,
     "day": 16,
-    "word": "remove",
-    "traduction": "remover",
-    "level": "B1",
+    "word": "repeat",
+    "traduction": "repetir",
+    "level": "A2",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 102,
+    "day": 16,
+    "word": "note",
+    "traduction": "notar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 103,
+    "day": 16,
+    "word": "note",
+    "traduction": "nota|bilhete",
+    "level": "A1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

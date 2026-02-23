@@ -1,9 +1,9 @@
 [
   {
-    "id": 116,
+    "id": 158,
     "day": 24,
-    "word": "Build",
-    "traduction": "construir|edificar|erigir",
+    "word": "break",
+    "traduction": "quebrar|partir|fraturar",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -11,10 +11,10 @@
     "sound": null
   },
   {
-    "id": 117,
+    "id": 159,
     "day": 24,
-    "word": "Forget",
-    "traduction": "esquecer",
+    "word": "try",
+    "traduction": "tentar",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -22,34 +22,45 @@
     "sound": null
   },
   {
-    "id": 118,
+    "id": 160,
     "day": 24,
-    "word": "Paint",
-    "traduction": "pintar|tinta",
+    "word": "become",
+    "traduction": "tornar-se|vir a ser",
     "level": "A2",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 119,
-    "day": 24,
-    "word": "Sit",
-    "traduction": "sentar",
-    "level": "A1",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 120,
+    "id": 161,
     "day": 24,
-    "word": "Tell",
-    "traduction": "dizer|contar",
-    "level": "A1",
+    "word": "return",
+    "traduction": "voltar|retornar",
+    "level": "A2",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 162,
+    "day": 24,
+    "word": "dry",
+    "traduction": "secar",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 163,
+    "day": 24,
+    "word": "dry",
+    "traduction": "seco",
+    "level": "A2",
+    "class": "adjective",
     "observation": null,
     "example": null,
     "sound": null

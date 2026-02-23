@@ -1,31 +1,9 @@
 [
   {
-    "id": 96,
+    "id": 127,
     "day": 20,
-    "word": "ask",
-    "traduction": "perguntar",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 97,
-    "day": 20,
-    "word": "confirm",
-    "traduction": "confirmar",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 98,
-    "day": 20,
-    "word": "happen",
-    "traduction": "acontecer",
+    "word": "keep",
+    "traduction": "manter|conservar|guardar",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -33,10 +11,32 @@
     "sound": null
   },
   {
-    "id": 99,
+    "id": 128,
     "day": 20,
-    "word": "pull",
-    "traduction": "puxar|arrastar",
+    "word": "prefer",
+    "traduction": "preferir",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": "Do you prefer hot or cold weather?",
+    "sound": null
+  },
+  {
+    "id": 129,
+    "day": 20,
+    "word": "hope",
+    "traduction": "esperar",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": "It's good news, I hope.",
+    "sound": null
+  },
+  {
+    "id": 130,
+    "day": 20,
+    "word": "explain",
+    "traduction": "explicar",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -44,12 +44,23 @@
     "sound": null
   },
   {
-    "id": 100,
+    "id": 131,
     "day": 20,
-    "word": "walk",
-    "traduction": "andar|caminhar|passear",
-    "level": "A1",
+    "word": "dream",
+    "traduction": "sonhar",
+    "level": "A2",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 132,
+    "day": 20,
+    "word": "dream",
+    "traduction": "sonho",
+    "level": "A2",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

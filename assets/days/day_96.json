@@ -1,9 +1,9 @@
 [
   {
-    "id": 476,
+    "id": 646,
     "day": 96,
-    "word": "convince",
-    "traduction": "** preencher **",
+    "word": "inject",
+    "traduction": "injetar",
     "level": null,
     "class": "verb",
     "observation": null,
@@ -11,10 +11,21 @@
     "sound": null
   },
   {
-    "id": 477,
+    "id": 647,
     "day": 96,
-    "word": "fasten",
-    "traduction": "** preencher **",
+    "word": "possess",
+    "traduction": "possuir",
+    "level": "C1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 648,
+    "day": 96,
+    "word": "insure",
+    "traduction": "segurar|fazer seguro para",
     "level": null,
     "class": "verb",
     "observation": null,
@@ -22,10 +33,10 @@
     "sound": null
   },
   {
-    "id": 478,
+    "id": 649,
     "day": 96,
-    "word": "Locate",
-    "traduction": "** preencher **",
+    "word": "polish",
+    "traduction": "polir|lustrar|encerar|engraxar",
     "level": null,
     "class": "verb",
     "observation": null,
@@ -33,23 +44,12 @@
     "sound": null
   },
   {
-    "id": 479,
+    "id": 650,
     "day": 96,
-    "word": "race",
-    "traduction": "** preencher **",
+    "word": "polish",
+    "traduction": "polida",
     "level": null,
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 480,
-    "day": 96,
-    "word": "Tear",
-    "traduction": "** preencher **",
-    "level": null,
-    "class": "verb",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

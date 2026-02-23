@@ -1,9 +1,42 @@
 [
   {
-    "id": 471,
+    "id": 640,
     "day": 95,
-    "word": "convert",
-    "traduction": "** preencher **",
+    "word": "resist",
+    "traduction": "resistir a|opor-se a",
+    "level": "C1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 641,
+    "day": 95,
+    "word": "scare",
+    "traduction": "assustar",
+    "level": "C1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 642,
+    "day": 95,
+    "word": "eliminate",
+    "traduction": "eliminar|erradicar",
+    "level": "C1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 643,
+    "day": 95,
+    "word": "curse",
+    "traduction": "xingar|maldizer|amaldiçoar",
     "level": null,
     "class": "verb",
     "observation": null,
@@ -11,45 +44,12 @@
     "sound": null
   },
   {
-    "id": 472,
+    "id": 644,
     "day": 95,
-    "word": "face",
-    "traduction": "** preencher **",
+    "word": "curse",
+    "traduction": "praga",
     "level": null,
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 473,
-    "day": 95,
-    "word": "Link",
-    "traduction": "** preencher **",
-    "level": null,
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 474,
-    "day": 95,
-    "word": "question",
-    "traduction": "** preencher **",
-    "level": null,
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 475,
-    "day": 95,
-    "word": "Swing",
-    "traduction": "** preencher **",
-    "level": null,
-    "class": "verb",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

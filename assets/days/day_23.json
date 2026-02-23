@@ -1,9 +1,9 @@
 [
   {
-    "id": 111,
+    "id": 150,
     "day": 23,
-    "word": "become",
-    "traduction": "tornar-se|vir a ser",
+    "word": "check",
+    "traduction": "revisar|verificar|conferir",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -11,32 +11,10 @@
     "sound": null
   },
   {
-    "id": 112,
+    "id": 151,
     "day": 23,
-    "word": "destroy",
-    "traduction": "destruir",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 113,
-    "day": 23,
-    "word": "post",
-    "traduction": "postar|enviar|correspondência",
-    "level": "A2",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 114,
-    "day": 23,
-    "word": "return",
-    "traduction": "voltar|retornar",
+    "word": "lose",
+    "traduction": "perder",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -44,12 +22,56 @@
     "sound": null
   },
   {
-    "id": 115,
+    "id": 152,
     "day": 23,
-    "word": "Talk",
-    "traduction": "falar|conversar|comentar",
-    "level": "A1",
+    "word": "happen",
+    "traduction": "acontecer",
+    "level": "A2",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 153,
+    "day": 23,
+    "word": "pull",
+    "traduction": "puxar|arrastar",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 154,
+    "day": 23,
+    "word": "contact",
+    "traduction": "contatar",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 155,
+    "day": 23,
+    "word": "contact",
+    "traduction": "contato",
+    "level": "A2",
+    "class": "noun",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 156,
+    "day": 23,
+    "word": "flight",
+    "traduction": "voo",
+    "level": "A2",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null
