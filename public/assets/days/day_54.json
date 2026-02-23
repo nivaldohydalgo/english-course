@@ -1,55 +1,66 @@
 [
   {
-    "id": 266,
+    "id": 368,
     "day": 54,
-    "word": "Attack",
-    "traduction": "atacar|agredir",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 267,
-    "day": 54,
-    "word": "Cross",
-    "traduction": "atravessar",
-    "level": "A2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 268,
-    "day": 54,
-    "word": "flow",
-    "traduction": "fluir|correr",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 269,
-    "day": 54,
-    "word": "Match",
-    "traduction": "combinar|partida",
-    "level": "A2",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 270,
-    "day": 54,
-    "word": "Refuse",
+    "word": "refuse",
     "traduction": "recusar|negar-se",
     "level": "B1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 369,
+    "day": 54,
+    "word": "attempt",
+    "traduction": "tentar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 370,
+    "day": 54,
+    "word": "mean",
+    "traduction": "significar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 371,
+    "day": 54,
+    "word": "attract",
+    "traduction": "atrair|chamar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 372,
+    "day": 54,
+    "word": "exchange",
+    "traduction": "trocar|permutar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 373,
+    "day": 54,
+    "word": "exchange",
+    "traduction": "troca|intercâmbio",
+    "level": "B1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

@@ -1,9 +1,9 @@
 [
   {
-    "id": 291,
+    "id": 403,
     "day": 59,
-    "word": "Beat",
-    "traduction": "vencer|derrotar",
+    "word": "hang",
+    "traduction": "pendurar|estar pendurado",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -11,21 +11,10 @@
     "sound": null
   },
   {
-    "id": 292,
+    "id": 404,
     "day": 59,
-    "word": "Deal",
-    "traduction": "dar(as cartas)|acordo|trato",
-    "level": "B2",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 293,
-    "day": 59,
-    "word": "Greet",
-    "traduction": "saldar|cumprimentar",
+    "word": "rest",
+    "traduction": "descansar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -33,10 +22,10 @@
     "sound": null
   },
   {
-    "id": 294,
+    "id": 405,
     "day": 59,
-    "word": "Mention",
-    "traduction": "mencionar",
+    "word": "retire",
+    "traduction": "aposentar-se|retirar-se",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -44,12 +33,34 @@
     "sound": null
   },
   {
-    "id": 295,
+    "id": 406,
     "day": 59,
-    "word": "reply",
-    "traduction": "responder|resposta",
+    "word": "bury",
+    "traduction": "enterrar|sepultar",
     "level": "B1",
-    "class": "verb|noun",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 407,
+    "day": 59,
+    "word": "trust",
+    "traduction": "confiar|acreditar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 408,
+    "day": 59,
+    "word": "trust",
+    "traduction": "confiança",
+    "level": "B1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

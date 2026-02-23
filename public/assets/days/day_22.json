@@ -1,9 +1,9 @@
 [
   {
-    "id": 106,
+    "id": 142,
     "day": 22,
-    "word": "break",
-    "traduction": "quebrar|partir|fraturar",
+    "word": "cut",
+    "traduction": "cortar",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -11,45 +11,67 @@
     "sound": null
   },
   {
-    "id": 107,
+    "id": 143,
     "day": 22,
-    "word": "disagree",
-    "traduction": "discordar|divergir",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 108,
-    "day": 22,
-    "word": "load",
-    "traduction": "carregar|carga|carregamento",
-    "level": "B2",
-    "class": "veb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 109,
-    "day": 22,
-    "word": "release",
-    "traduction": "soltar|liberar",
-    "level": "B2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 110,
-    "day": 22,
-    "word": "try",
-    "traduction": "tentar",
+    "word": "add",
+    "traduction": "somar",
     "level": "A2",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 144,
+    "day": 22,
+    "word": "fly",
+    "traduction": "voar",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 145,
+    "day": 22,
+    "word": "believe",
+    "traduction": "acreditar",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 146,
+    "day": 22,
+    "word": "paint",
+    "traduction": "pintar",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 147,
+    "day": 22,
+    "word": "paint",
+    "traduction": "tinta",
+    "level": "A2",
+    "class": "noun",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 148,
+    "day": 22,
+    "word": "order",
+    "traduction": "pedido|encomenda",
+    "level": "A2",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

@@ -1,9 +1,20 @@
 [
   {
-    "id": 466,
+    "id": 634,
     "day": 94,
-    "word": "control",
-    "traduction": "** preencher **",
+    "word": "review",
+    "traduction": "repassar|rever",
+    "level": "C1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 635,
+    "day": 94,
+    "word": "zoom",
+    "traduction": "zunir",
     "level": null,
     "class": "verb",
     "observation": null,
@@ -11,10 +22,10 @@
     "sound": null
   },
   {
-    "id": 467,
+    "id": 636,
     "day": 94,
-    "word": "extend",
-    "traduction": "** preencher **",
+    "word": "mourn",
+    "traduction": "estar de luto|lamentar",
     "level": null,
     "class": "verb",
     "observation": null,
@@ -22,34 +33,23 @@
     "sound": null
   },
   {
-    "id": 468,
+    "id": 637,
     "day": 94,
-    "word": "Light",
-    "traduction": "** preencher **",
-    "level": null,
+    "word": "focus",
+    "traduction": "focar",
+    "level": "C1",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 469,
+    "id": 638,
     "day": 94,
-    "word": "Purchase",
-    "traduction": "** preencher **",
-    "level": null,
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 470,
-    "day": 94,
-    "word": "Sweep",
-    "traduction": "** preencher **",
-    "level": null,
-    "class": "verb",
+    "word": "focus",
+    "traduction": "enfoque",
+    "level": "C1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

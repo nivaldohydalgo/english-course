@@ -1,9 +1,9 @@
 [
   {
-    "id": 91,
+    "id": 120,
     "day": 19,
-    "word": "believe",
-    "traduction": "acreditar",
+    "word": "arrive",
+    "traduction": "chegar",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -11,10 +11,10 @@
     "sound": null
   },
   {
-    "id": 92,
+    "id": 121,
     "day": 19,
-    "word": "check",
-    "traduction": "revisar|verificar|conferir",
+    "word": "push",
+    "traduction": "empurrar",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -22,10 +22,10 @@
     "sound": null
   },
   {
-    "id": 93,
+    "id": 122,
     "day": 19,
-    "word": "lose",
-    "traduction": "perder",
+    "word": "repair",
+    "traduction": "consertar",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -33,23 +33,34 @@
     "sound": null
   },
   {
-    "id": 94,
+    "id": 123,
     "day": 19,
-    "word": "show",
-    "traduction": "mostrar",
-    "level": "A1",
+    "word": "decide",
+    "traduction": "decidir",
+    "level": "A2",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 95,
+    "id": 124,
     "day": 19,
-    "word": "use",
-    "traduction": "usar|utilizar",
-    "level": "A1",
+    "word": "exit",
+    "traduction": "sair",
+    "level": "A2",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 125,
+    "day": 19,
+    "word": "exit",
+    "traduction": "saída",
+    "level": "A2",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

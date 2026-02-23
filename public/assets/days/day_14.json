@@ -1,9 +1,9 @@
 [
   {
-    "id": 66,
+    "id": 84,
     "day": 14,
-    "word": "change",
-    "traduction": "trocar|mudar de",
+    "word": "draw",
+    "traduction": "desenhar",
     "level": "A1",
     "class": "verb",
     "observation": null,
@@ -11,10 +11,10 @@
     "sound": null
   },
   {
-    "id": 67,
+    "id": 85,
     "day": 14,
-    "word": "dance",
-    "traduction": "dançar|bailar",
+    "word": "travel",
+    "traduction": "viajar",
     "level": "A1",
     "class": "verb",
     "observation": null,
@@ -22,10 +22,10 @@
     "sound": null
   },
   {
-    "id": 68,
+    "id": 86,
     "day": 14,
-    "word": "know",
-    "traduction": "saber",
+    "word": "wash",
+    "traduction": "lavar",
     "level": "A1",
     "class": "verb",
     "observation": null,
@@ -33,23 +33,34 @@
     "sound": null
   },
   {
-    "id": 69,
+    "id": 87,
     "day": 14,
-    "word": "park",
-    "traduction": "estacionar|parque",
-    "level": "A1",
-    "class": "verb|noun",
+    "word": "have",
+    "traduction": "ter",
+    "level": "A2",
+    "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 70,
+    "id": 88,
     "day": 14,
-    "word": "replace",
-    "traduction": "repor|substituir",
-    "level": "B1",
+    "word": "rain",
+    "traduction": "chover",
+    "level": "A1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 89,
+    "day": 14,
+    "word": "rain",
+    "traduction": "chuva",
+    "level": "A1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

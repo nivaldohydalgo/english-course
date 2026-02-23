@@ -1,9 +1,42 @@
 [
   {
-    "id": 456,
+    "id": 622,
     "day": 92,
-    "word": "Contain",
-    "traduction": "** preencher **",
+    "word": "swing",
+    "traduction": "balançar",
+    "level": "B2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 623,
+    "day": 92,
+    "word": "locate",
+    "traduction": "localizar",
+    "level": "B2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 624,
+    "day": 92,
+    "word": "lower",
+    "traduction": "baixar|descer",
+    "level": "B2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 625,
+    "day": 92,
+    "word": "narrow",
+    "traduction": "estreitar",
     "level": null,
     "class": "verb",
     "observation": null,
@@ -11,45 +44,12 @@
     "sound": null
   },
   {
-    "id": 457,
+    "id": 626,
     "day": 92,
-    "word": "expose",
-    "traduction": "** preencher **",
+    "word": "narrow",
+    "traduction": "estreito",
     "level": null,
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 458,
-    "day": 92,
-    "word": "Lie",
-    "traduction": "** preencher **",
-    "level": null,
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 459,
-    "day": 92,
-    "word": "publish",
-    "traduction": "** preencher **",
-    "level": null,
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 460,
-    "day": 92,
-    "word": "supply",
-    "traduction": "** preencher **",
-    "level": null,
-    "class": "verb",
+    "class": "adjective",
     "observation": null,
     "example": null,
     "sound": null

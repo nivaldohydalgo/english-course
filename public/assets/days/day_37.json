@@ -1,20 +1,9 @@
 [
   {
-    "id": 181,
+    "id": 250,
     "day": 37,
-    "word": "Forbid",
-    "traduction": "proibir",
-    "level": "B2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 182,
-    "day": 37,
-    "word": "Forgive",
-    "traduction": "perdoar",
+    "word": "count",
+    "traduction": "contar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -22,10 +11,10 @@
     "sound": null
   },
   {
-    "id": 183,
+    "id": 251,
     "day": 37,
-    "word": "Imagine",
-    "traduction": "imaginar",
+    "word": "recover",
+    "traduction": "recuperar-se|restabelecer-se",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -33,23 +22,45 @@
     "sound": null
   },
   {
-    "id": 184,
+    "id": 252,
     "day": 37,
-    "word": "Include",
-    "traduction": "incluir",
-    "level": "A2",
+    "word": "compare",
+    "traduction": "comparar",
+    "level": "B1",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 185,
+    "id": 253,
     "day": 37,
-    "word": "Increase",
-    "traduction": "aumentar",
+    "word": "replace",
+    "traduction": "repor|substituir",
     "level": "B1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 254,
+    "day": 37,
+    "word": "fish",
+    "traduction": "pescar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 255,
+    "day": 37,
+    "word": "fish",
+    "traduction": "peixe",
+    "level": "B1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

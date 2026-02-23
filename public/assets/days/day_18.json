@@ -1,9 +1,20 @@
 [
   {
-    "id": 86,
+    "id": 112,
     "day": 18,
-    "word": "add",
-    "traduction": "somar",
+    "word": "wear",
+    "traduction": "usar|vestir",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 113,
+    "day": 18,
+    "word": "enter",
+    "traduction": "entrar",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -11,21 +22,10 @@
     "sound": null
   },
   {
-    "id": 87,
+    "id": 114,
     "day": 18,
-    "word": "come",
-    "traduction": "vir",
-    "level": "A1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 88,
-    "day": 18,
-    "word": "fly",
-    "traduction": "voar",
+    "word": "cry",
+    "traduction": "chorar",
     "level": "A2",
     "class": "verb",
     "observation": null,
@@ -33,23 +33,45 @@
     "sound": null
   },
   {
-    "id": 89,
+    "id": 115,
     "day": 18,
-    "word": "pay",
-    "traduction": "pagar",
-    "level": "A1",
+    "word": "move",
+    "traduction": "mover|mexer|movimentar",
+    "level": "A2",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 90,
+    "id": 116,
     "day": 18,
-    "word": "stop",
-    "traduction": "parar|deixar",
-    "level": "A1",
+    "word": "open",
+    "traduction": "abrir",
+    "level": "A2",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 117,
+    "day": 18,
+    "word": "open",
+    "traduction": "aberto",
+    "level": "A2",
+    "class": "adjective",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 118,
+    "day": 18,
+    "word": "open",
+    "traduction": "lugar aberto|local público",
+    "level": "A2",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

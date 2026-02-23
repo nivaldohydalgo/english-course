@@ -1,31 +1,9 @@
 [
   {
-    "id": 226,
+    "id": 313,
     "day": 46,
-    "word": "force",
-    "traduction": "forçar|força",
-    "level": "B2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 227,
-    "day": 46,
-    "word": "Ignore",
-    "traduction": "ignorar",
-    "level": "B2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 228,
-    "day": 46,
-    "word": "injure",
-    "traduction": "ferir|machucar",
+    "word": "forgive",
+    "traduction": "perdoar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -33,10 +11,10 @@
     "sound": null
   },
   {
-    "id": 229,
+    "id": 314,
     "day": 46,
-    "word": "intend",
-    "traduction": "pretender",
+    "word": "imagine",
+    "traduction": "imaginar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -44,12 +22,45 @@
     "sound": null
   },
   {
-    "id": 230,
+    "id": 315,
     "day": 46,
-    "word": "launch",
-    "traduction": "lançar|começar|lançamento|estréia",
-    "level": "C1",
-    "class": "verb|noun",
+    "word": "increase",
+    "traduction": "aumentar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 316,
+    "day": 46,
+    "word": "interrupt",
+    "traduction": "interromper",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 317,
+    "day": 46,
+    "word": "report",
+    "traduction": "informar|comunicar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 318,
+    "day": 46,
+    "word": "report",
+    "traduction": "relatório|relato",
+    "level": "B1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

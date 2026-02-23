@@ -1,9 +1,9 @@
 [
   {
-    "id": 281,
+    "id": 389,
     "day": 57,
-    "word": "avoid",
-    "traduction": "evitar",
+    "word": "behave",
+    "traduction": "comportar-se|portar-se",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -11,45 +11,56 @@
     "sound": null
   },
   {
-    "id": 282,
+    "id": 390,
     "day": 57,
-    "word": "cycle",
-    "traduction": "bicicleta|ciclo",
-    "level": "B2",
+    "word": "bleed",
+    "traduction": "sangrar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 391,
+    "day": 57,
+    "word": "request",
+    "traduction": "pedir|solicitar|pedido|petição|solicitação",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 392,
+    "day": 57,
+    "word": "blow",
+    "traduction": "soprar|fazer voar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 393,
+    "day": 57,
+    "word": "lock",
+    "traduction": "trancar|fechar a chave",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 394,
+    "day": 57,
+    "word": "lock",
+    "traduction": "trinco|fechadura",
+    "level": "B1",
     "class": "noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 283,
-    "day": 57,
-    "word": "frighten",
-    "traduction": "assustar",
-    "level": "B2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 284,
-    "day": 57,
-    "word": "Meet",
-    "traduction": "encontrar|conhecer",
-    "level": "A1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 285,
-    "day": 57,
-    "word": "Relax",
-    "traduction": "relaxar",
-    "level": "B1",
-    "class": "verb",
     "observation": null,
     "example": null,
     "sound": null

@@ -1,28 +1,6 @@
 [
   {
-    "id": 261,
-    "day": 53,
-    "word": "attach",
-    "traduction": "anexar|juntar|apensar|encaixar",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 262,
-    "day": 53,
-    "word": "criticize",
-    "traduction": "criticar",
-    "level": "B2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 263,
+    "id": 361,
     "day": 53,
     "word": "flood",
     "traduction": "inundar|transbordar",
@@ -33,7 +11,7 @@
     "sound": null
   },
   {
-    "id": 264,
+    "id": 362,
     "day": 53,
     "word": "marry",
     "traduction": "casar",
@@ -44,12 +22,45 @@
     "sound": null
   },
   {
-    "id": 265,
+    "id": 363,
     "day": 53,
-    "word": "reflect",
-    "traduction": "refletir",
-    "level": "B2",
+    "word": "attack",
+    "traduction": "atacar|agredir",
+    "level": "B1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 364,
+    "day": 53,
+    "word": "flow",
+    "traduction": "fluir|correr",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 365,
+    "day": 53,
+    "word": "sink",
+    "traduction": "afundar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 366,
+    "day": 53,
+    "word": "sink",
+    "traduction": "pia",
+    "level": "B1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

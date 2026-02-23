@@ -1,31 +1,9 @@
 [
   {
-    "id": 196,
+    "id": 271,
     "day": 40,
-    "word": "Rain",
-    "traduction": "chover|chuva",
-    "level": "A1",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 197,
-    "day": 40,
-    "word": "record",
-    "traduction": "gravar",
-    "level": "A2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 198,
-    "day": 40,
-    "word": "remain",
-    "traduction": "permanecer|ficar",
+    "word": "install",
+    "traduction": "instalar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -33,10 +11,10 @@
     "sound": null
   },
   {
-    "id": 199,
+    "id": 272,
     "day": 40,
-    "word": "rescue",
-    "traduction": "resgatar|salvar",
+    "word": "quit",
+    "traduction": "largar|parar|desistir|sair",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -44,12 +22,45 @@
     "sound": null
   },
   {
-    "id": 200,
+    "id": 273,
     "day": 40,
-    "word": "respect",
-    "traduction": "respeitar|respeito",
+    "word": "touch",
+    "traduction": "tocar|mexer em",
     "level": "B1",
-    "class": "verb|noun",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 274,
+    "day": 40,
+    "word": "develop",
+    "traduction": "desenvolver",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 275,
+    "day": 40,
+    "word": "plan",
+    "traduction": "planejar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 276,
+    "day": 40,
+    "word": "plan",
+    "traduction": "plano",
+    "level": "B1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

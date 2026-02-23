@@ -1,9 +1,9 @@
 [
   {
-    "id": 276,
+    "id": 382,
     "day": 56,
-    "word": "attract",
-    "traduction": "atrair|chamar",
+    "word": "remind",
+    "traduction": "lembrar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -11,21 +11,10 @@
     "sound": null
   },
   {
-    "id": 277,
+    "id": 383,
     "day": 56,
-    "word": "Curse",
-    "traduction": "xingar|maldizer|amaldiçoar|praga",
-    "level": null,
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 278,
-    "day": 56,
-    "word": "Freeze",
-    "traduction": "congelar",
+    "word": "beat",
+    "traduction": "vencer|derrotar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -33,23 +22,45 @@
     "sound": null
   },
   {
-    "id": 279,
+    "id": 384,
     "day": 56,
-    "word": "Measure",
-    "traduction": "medir",
-    "level": "B2",
+    "word": "greet",
+    "traduction": "saldar|cumprimentar",
+    "level": "B1",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 280,
+    "id": 385,
     "day": 56,
-    "word": "Relate",
-    "traduction": "relatar|narrar",
-    "level": "C2",
+    "word": "mention",
+    "traduction": "mencionar",
+    "level": "B1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 386,
+    "day": 56,
+    "word": "last",
+    "traduction": "durar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 387,
+    "day": 56,
+    "word": "last",
+    "traduction": "último",
+    "level": "B1",
+    "class": "adjective",
     "observation": null,
     "example": null,
     "sound": null

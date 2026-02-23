@@ -2,38 +2,16 @@
   {
     "id": 1,
     "day": 1,
-    "word": "eat",
-    "traduction": "comer",
+    "word": "want",
+    "traduction": "querer",
     "level": "A1",
     "class": "verb",
     "observation": null,
-    "example": "Do you eat meat?",
+    "example": "I want some chocolate.",
     "sound": null
   },
   {
     "id": 2,
-    "day": 1,
-    "word": "have",
-    "traduction": "ter",
-    "level": "A2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 3,
-    "day": 1,
-    "word": "live",
-    "traduction": "viver|sobreviver",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 4,
     "day": 1,
     "word": "need",
     "traduction": "precisar (de)",
@@ -44,14 +22,47 @@
     "sound": null
   },
   {
-    "id": 5,
+    "id": 3,
     "day": 1,
-    "word": "want",
-    "traduction": "querer",
+    "word": "eat",
+    "traduction": "comer",
     "level": "A1",
     "class": "verb",
     "observation": null,
-    "example": "I want some chocolate.",
+    "example": "Do you eat meat?",
+    "sound": null
+  },
+  {
+    "id": 4,
+    "day": 1,
+    "word": "speak",
+    "traduction": "falar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 5,
+    "day": 1,
+    "word": "work",
+    "traduction": "trabalhar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 6,
+    "day": 1,
+    "word": "work",
+    "traduction": "trabalho",
+    "level": "A1",
+    "class": "noun",
+    "observation": null,
+    "example": null,
     "sound": null
   }
 ]

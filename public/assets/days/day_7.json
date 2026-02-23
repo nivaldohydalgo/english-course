@@ -1,57 +1,57 @@
 [
   {
-    "id": 31,
+    "id": 39,
     "day": 7,
-    "word": "create",
-    "traduction": "criar|produzir|inventar",
-    "level": "B1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 32,
-    "day": 7,
-    "word": "exit",
-    "traduction": "sair|saída",
-    "level": "A2",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 33,
-    "day": 7,
-    "word": "help",
-    "traduction": "ajudar",
-    "level": "A1",
-    "class": "verb",
-    "observation": null,
-    "example": "How can I help you?",
-    "sound": null
-  },
-  {
-    "id": 34,
-    "day": 7,
-    "word": "push",
-    "traduction": "empurrar",
-    "level": "A2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 35,
-    "day": 7,
-    "word": "start",
-    "traduction": "começar|iniciar",
+    "word": "stay",
+    "traduction": "permanecer",
     "level": "A1",
     "class": "verb",
     "observation": null,
     "example": null,
+    "sound": null
+  },
+  {
+    "id": 40,
+    "day": 7,
+    "word": "buy",
+    "traduction": "comprar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 41,
+    "day": 7,
+    "word": "think",
+    "traduction": "achar|pensar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 42,
+    "day": 7,
+    "word": "invite",
+    "traduction": "convidar|convocar|chamar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 43,
+    "day": 7,
+    "word": "love",
+    "traduction": "amar",
+    "level": "A1",
+    "class": "verb",
+    "observation": null,
+    "example": "I love you.",
     "sound": null
   }
 ]

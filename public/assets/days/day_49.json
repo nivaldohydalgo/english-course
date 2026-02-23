@@ -1,9 +1,9 @@
 [
   {
-    "id": 241,
+    "id": 334,
     "day": 49,
-    "word": "Solve",
-    "traduction": "resolver|solucionar",
+    "word": "injure",
+    "traduction": "ferir|machucar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -11,21 +11,10 @@
     "sound": null
   },
   {
-    "id": 242,
+    "id": 335,
     "day": 49,
-    "word": "store",
-    "traduction": "armazenar|loja",
-    "level": "B2",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 243,
-    "day": 49,
-    "word": "succeed",
-    "traduction": "conseguir|ter êxito|ser bem-sucdedido",
+    "word": "intend",
+    "traduction": "pretender",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -33,23 +22,45 @@
     "sound": null
   },
   {
-    "id": 244,
+    "id": 336,
     "day": 49,
-    "word": "survive",
-    "traduction": "sobreviver",
-    "level": "B2",
+    "word": "produce",
+    "traduction": "produzir|fabricar",
+    "level": "B1",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 245,
+    "id": 337,
     "day": 49,
-    "word": "Test",
-    "traduction": "testar|examinar|teste|prova",
+    "word": "rebuild",
+    "traduction": "reconstruir",
     "level": "B1",
-    "class": "verb|noun",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 338,
+    "day": 49,
+    "word": "challenge",
+    "traduction": "desafiar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 339,
+    "day": 49,
+    "word": "challenge",
+    "traduction": "desafio",
+    "level": "B1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

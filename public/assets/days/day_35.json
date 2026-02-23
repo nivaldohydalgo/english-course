@@ -1,42 +1,42 @@
 [
   {
-    "id": 171,
+    "id": 236,
     "day": 35,
-    "word": "enable",
-    "traduction": "habilitar|capacitar|possibilitar",
-    "level": "B2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 172,
-    "day": 35,
-    "word": "End",
-    "traduction": "terminar|acabar|finalizar|fim|final",
+    "word": "collect",
+    "traduction": "colecionar",
     "level": "A2",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 173,
-    "day": 35,
-    "word": "examine",
-    "traduction": "examinar|estudar",
-    "level": "B2",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 174,
+    "id": 237,
     "day": 35,
-    "word": "Excuse",
-    "traduction": "desculpar",
+    "word": "fill",
+    "traduction": "encher",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 238,
+    "day": 35,
+    "word": "cover",
+    "traduction": "cobrir|tapar",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 239,
+    "day": 35,
+    "word": "live",
+    "traduction": "viver|sobreviver",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -44,12 +44,23 @@
     "sound": null
   },
   {
-    "id": 175,
+    "id": 240,
     "day": 35,
-    "word": "exist",
-    "traduction": "existir",
+    "word": "smile",
+    "traduction": "sorrir",
     "level": "B1",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 241,
+    "day": 35,
+    "word": "smile",
+    "traduction": "sorriso",
+    "level": "B1",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

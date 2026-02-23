@@ -1,55 +1,66 @@
 [
   {
-    "id": 126,
+    "id": 172,
     "day": 26,
-    "word": "Contact",
-    "traduction": "contatar|contato",
-    "level": "A2",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 127,
-    "day": 26,
-    "word": "Edit",
-    "traduction": "editar",
-    "level": "B2",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 128,
-    "day": 26,
-    "word": "Smile",
-    "traduction": "sorrir|sorriso",
-    "level": "B1",
-    "class": "verb|noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 129,
-    "day": 26,
-    "word": "Study",
-    "traduction": "estudar",
-    "level": "A1",
-    "class": "verb",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 130,
-    "day": 26,
-    "word": "Win",
+    "word": "win",
     "traduction": "ganhar|vencer|conquistar",
     "level": "A2",
     "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 173,
+    "day": 26,
+    "word": "kiss",
+    "traduction": "beijar",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 174,
+    "day": 26,
+    "word": "pray",
+    "traduction": "rezar|orar",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 175,
+    "day": 26,
+    "word": "borrow",
+    "traduction": "tomar emprestado|pedir emprestado",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 176,
+    "day": 26,
+    "word": "list",
+    "traduction": "listar",
+    "level": "A2",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 177,
+    "day": 26,
+    "word": "list",
+    "traduction": "lista",
+    "level": "A2",
+    "class": "noun",
     "observation": null,
     "example": null,
     "sound": null

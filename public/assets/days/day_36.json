@@ -1,9 +1,9 @@
 [
   {
-    "id": 176,
+    "id": 243,
     "day": 36,
-    "word": "Expect",
-    "traduction": "esperar|supor",
+    "word": "take",
+    "traduction": "pegar|roubar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -11,10 +11,10 @@
     "sound": null
   },
   {
-    "id": 177,
+    "id": 244,
     "day": 36,
-    "word": "Explore",
-    "traduction": "explorar",
+    "word": "save",
+    "traduction": "salvar",
     "level": "B1",
     "class": "verb",
     "observation": null,
@@ -22,34 +22,45 @@
     "sound": null
   },
   {
-    "id": 178,
+    "id": 245,
     "day": 36,
-    "word": "Fail",
-    "traduction": "fracassar|falir|falhar",
-    "level": "B2",
+    "word": "create",
+    "traduction": "criar|produzir|inventar",
+    "level": "B1",
     "class": "verb",
     "observation": null,
     "example": null,
     "sound": null
   },
   {
-    "id": 179,
+    "id": 246,
     "day": 36,
-    "word": "Fight",
-    "traduction": "voo",
-    "level": "A2",
+    "word": "cancel",
+    "traduction": "cancelar|anular",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 247,
+    "day": 36,
+    "word": "dislike",
+    "traduction": "antipatizar",
+    "level": "B1",
+    "class": "verb",
+    "observation": null,
+    "example": null,
+    "sound": null
+  },
+  {
+    "id": 248,
+    "day": 36,
+    "word": "dislike",
+    "traduction": "antipatia",
+    "level": "B1",
     "class": "noun",
-    "observation": null,
-    "example": null,
-    "sound": null
-  },
-  {
-    "id": 180,
-    "day": 36,
-    "word": "Fish",
-    "traduction": "pescar|peixe",
-    "level": "B1",
-    "class": "verb|noun",
     "observation": null,
     "example": null,
     "sound": null
